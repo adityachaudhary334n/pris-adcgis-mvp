@@ -1,0 +1,12 @@
+district,water_availability_score,solar_potential_score,infrastructure_readiness_score,labour_availability,skill_level,mgnrega_dependency,overall_readiness_score,development_need_score,healthcare_gap_score,education_gap_score,tourism_potential_score,agro_strength_score,industrial_base_score,pollution_level_score,security_risk_score,urbanization_type
+Lucknow,60,55,85,70,80,30,80,30,40,35,60,30,70,70,20,Urban
+Noida,55,50,90,65,85,20,85,25,35,30,40,20,85,80,15,Urban
+Varanasi,65,60,70,75,65,45,65,50,55,45,90,40,50,60,25,Semi-Urban
+Ayodhya,70,65,65,80,55,60,55,60,65,55,85,60,35,40,30,Semi-Urban
+Jhansi,55,75,45,85,50,65,50,65,60,60,55,65,40,35,30,Semi-Urban
+Gorakhpur,60,60,50,80,55,55,52,62,58,50,50,60,45,45,40,Semi-Urban
+Saharanpur,58,55,60,75,60,50,60,55,50,48,45,55,50,50,35,Semi-Urban
+Banda,45,85,40,85,45,75,45,70,70,65,30,46,30,30,35,Rural
+Bahraich,50,65,35,88,40,80,40,75,75,70,45,80,25,25,45,Rural
+Siddharthnagar,48,68,30,90,38,85,38,78,78,72,40,78,20,20,50,Rural
+

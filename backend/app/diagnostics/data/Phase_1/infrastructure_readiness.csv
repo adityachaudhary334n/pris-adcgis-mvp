@@ -1,0 +1,11 @@
+district,road_score,market_access_score,power_reliability_score,digital_score,infrastructure_readiness_index
+Ayodhya,60,65,55,60,60
+Lucknow,75,80,70,75,75
+Banda,45,40,40,35,40
+Siddharthnagar,50,45,45,40,45
+Bahraich,45,40,40,35,40
+Varanasi,65,70,60,65,65
+Noida,90,95,85,90,91
+Jhansi,55,50,50,45,50
+Gorakhpur,55,55,50,45,52
+Saharanpur,65,60,55,55,59

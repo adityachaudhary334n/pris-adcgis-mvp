@@ -191,9 +191,22 @@ export default function Home() {
           {sel && <>
             {focus && <Breadcrumb nodes={hier} lang={lang} onSelect={(n) => (n.id === STATE_ID ? exitFocus() : void openUnit(n.id, n.name))} />}
             {districtId && (
-              <button onClick={() => setInfoOpen(true)} className="flex min-h-16 w-full items-center justify-center gap-3 rounded-2xl bg-gold px-4 text-lg font-extrabold text-obsidian shadow-xl hover:brightness-110">
-                <Icon name="info" className="h-6 w-6" />{t("di_button", lang)}{level !== "district" && district ? ` — ${district}` : ""}
-              </button>)}
+              <div className="space-y-2">
+                <button onClick={() => setInfoOpen(true)} className="flex min-h-14 w-full items-center justify-center gap-3 rounded-2xl bg-gold px-4 text-lg font-extrabold text-obsidian shadow-xl hover:brightness-110">
+                  <Icon name="info" className="h-6 w-6" />{t("di_button", lang)}{level !== "district" && district ? ` — ${district}` : ""}
+                </button>
+                {district && (
+                  <a
+                    href={`/opportunity-engine?district=${encodeURIComponent(district)}`}
+                    className="flex min-h-14 w-full items-center justify-center gap-3 rounded-2xl bg-gradient-to-r from-sov to-emerald-600 px-4 text-lg font-extrabold text-white shadow-xl hover:brightness-110"
+                  >
+                    <Icon name="check" className="h-6 w-6" />
+                    {t("opp_engine_open", lang)}
+                    {level !== "district" ? ` — ${district}` : ""}
+                  </a>
+                )}
+              </div>
+            )}
             {focusErr && <div role="alert" className="rounded-2xl bg-red-900/60 p-4"><p className="font-semibold">{t("loadError", lang)}</p><button onClick={() => openUnit(sel.id, sel.name)} className="mt-2 min-h-12 rounded-xl bg-white px-5 font-bold text-obsidian">{t("retry", lang)}</button></div>}
             <ProfilePanel profile={profile} loading={pLoading} error={pErr} onRetry={() => setRetry((n) => n + 1)} lang={lang} />
             {focus && kids.length > 0 && focus.child_level && (

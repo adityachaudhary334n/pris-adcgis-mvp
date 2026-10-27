@@ -210,3 +210,73 @@ export type DistrictInfo = {
 };
 /** Accepts a district id or any unit inside it. */
 export const getDistrictInfo = (id: string) => j<DistrictInfo>(`/api/profiles/district-info/${encodeURIComponent(id)}`);
+
+/** Prajna Opportunity Engine diagnostic for a district (pre-selected from map). */
+export type DistrictDiagnostic = {
+  district: string;
+  requested: string;
+  indices: {
+    water_climate: number;
+    agro_economic: number;
+    renewable_energy: number;
+    labour_human_capital: number;
+    infrastructure: number;
+  };
+  radar: { labels: string[]; values: number[] };
+  indicators: Record<string, { labels: string[]; values: number[] }>;
+  need_vs_readiness: {
+    readiness: number;
+    need: number;
+    quadrant: {
+      code: string;
+      label: string;
+      color: string;
+      meaning: string;
+      focus: string;
+      example_startups: string[];
+    };
+  };
+  context: Record<string, number | string> | null;
+  potential: Record<string, number> | null;
+  top_potentials: { name: string; score: number }[];
+  archetypes?: string[];
+  global_models?: {
+    archetype: string;
+    profile_id?: number | string;
+    development_profile?: string;
+    global_regions?: string;
+    profile_description?: string;
+    situation_20_years_ago?: string;
+    key_transformation_strategies?: string;
+    startup_ecosystem_today?: string;
+    typical_startup_ideas?: string;
+    relevant_policies?: string;
+    missing?: boolean;
+  }[];
+  phase1?: unknown;
+  phase2?: unknown;
+  phase3?: unknown;
+  startup_ideas: {
+    id?: string | number;
+    title?: string;
+    description?: string;
+    sector?: string;
+    focus_industry?: string | number;
+    urban_preference?: string;
+    capex_band?: string;
+    labour_type?: string;
+    mgnrega_flag?: string;
+    image_path?: string;
+    image_basename?: string;
+    image_url?: string;
+    image_url_api?: string;
+    fit_score?: number;
+  }[];
+  available_districts: string[];
+};
+
+export const getDiagnostic = (district: string) =>
+  j<DistrictDiagnostic>(`/api/diagnostics/${encodeURIComponent(district)}`);
+
+export const getDiagnosticDistricts = () =>
+  j<{ districts: string[] }>("/api/diagnostics/districts");

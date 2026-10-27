@@ -101,6 +101,20 @@ const D = {
   di_none: { en: "No district profile has been added for this place yet.", hi: "इस स्थान के लिए अभी जिला प्रोफ़ाइल नहीं जोड़ी गई।" },
   di_division: { en: "Division", hi: "मंडल" }, di_boundary: { en: "Area from boundary map", hi: "सीमा मानचित्र से क्षेत्रफल" },
   di_hide_generic: { en: "Show general notes", hi: "सामान्य टिप्पणियाँ दिखाएँ" },
+  opp_engine: { en: "Opportunity Engine", hi: "अवसर इंजन" },
+  opp_engine_open: { en: "Open Opportunity Engine", hi: "अवसर इंजन खोलें" },
+  opp_engine_for: { en: "Opportunities for", hi: "अवसर —" },
+  opp_engine_summary: { en: "District capability & ranked opportunities", hi: "जिला क्षमता और रैंक किए अवसर" },
+  opp_radar: { en: "Capability radar", hi: "क्षमता रडार" },
+  opp_quadrant: { en: "Need vs readiness", hi: "आवश्यकता बनाम तैयारी" },
+  opp_context: { en: "Capability snapshot", hi: "क्षमता स्नैपशॉट" },
+  opp_ideas: { en: "Suggested startup directions", hi: "सुझाए गए स्टार्टअप दिशाएँ" },
+  opp_potential: { en: "Top development potentials", hi: "शीर्ष विकास क्षमताएँ" },
+  opp_no_data: { en: "Full Opportunity Engine data is not yet available for this district. Sample coverage includes a set of pilot districts.", hi: "इस जिले के लिए पूर्ण अवसर इंजन डेटा अभी उपलब्ध नहीं है। पायलट जिलों का नमूना कवरेज उपलब्ध है।" },
+  opp_back: { en: "Back to map", hi: "मानचित्र पर वापस" },
+  opp_indices: { en: "Index scores", hi: "सूचकांक स्कोर" },
+  opp_strategic: { en: "Strategic interpretation", hi: "रणनीतिक व्याख्या" },
+  opp_examples: { en: "Example startup types", hi: "उदाहरण स्टार्टअप प्रकार" },
 } as const;
 export type Key = keyof typeof D;
 export const t = (k: Key, lang: Lang) => D[k][lang];

@@ -1,0 +1,11 @@
+district,rainfall_score,groundwater_score,drought_score,flood_score,water_climate_index
+Ayodhya,70,60,50,40,56
+Lucknow,65,55,60,45,56
+Banda,40,30,25,60,37
+Siddharthnagar,75,65,55,50,63
+Bahraich,80,70,60,65,69
+Varanasi,60,50,55,45,53
+Noida,55,35,65,30,44
+Jhansi,45,35,30,55,41
+Gorakhpur,85,75,65,70,74
+Saharanpur,70,65,55,50,61

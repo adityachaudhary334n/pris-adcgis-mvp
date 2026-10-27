@@ -1,5 +1,7 @@
+from pathlib import Path
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 from app.core.config import get_settings
 from app.spatial.router import router as spatial_router
 from app.spatial.search import router as search_router
@@ -8,6 +10,7 @@ from app.pai.router import router as pai_router
 from app.plant.router import router as plant_router
 from app.profiles.router import router as profiles_router
 from app.export.router import router as export_router
+from app.diagnostics.router import router as diagnostics_router
 
 settings = get_settings()
 
@@ -37,6 +40,16 @@ app.include_router(opportunities_router, prefix="/api/opportunities", tags=["Opp
 app.include_router(pai_router, prefix="/api/pai", tags=["PAI-lite"])
 app.include_router(plant_router, prefix="/api/plant", tags=["Plant"])
 app.include_router(export_router, prefix="/api/export", tags=["Intelligence Packs & Downloads"])
+app.include_router(diagnostics_router, prefix="/api/diagnostics", tags=["Opportunity Engine Diagnostics"])
+
+# Startup / opportunity images — drop real photos in this folder (see README.txt inside)
+_startup_img_dir = Path(__file__).parent / "diagnostics" / "static" / "startup_images"
+_startup_img_dir.mkdir(parents=True, exist_ok=True)
+app.mount(
+    "/api/diagnostics/static/startup_images",
+    StaticFiles(directory=str(_startup_img_dir)),
+    name="startup_images",
+)
 
 
 @app.get("/health")
@@ -51,6 +64,7 @@ async def health():
             "multi_profile",
             "air_volume_asset",
             "opportunities",
+            "opportunity_engine_diagnostics",
             "industrial_sustainable_layers",
             "pai_lite",
             "pdf_csv_geojson_export",

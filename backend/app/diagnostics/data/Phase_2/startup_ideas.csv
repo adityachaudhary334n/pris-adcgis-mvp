@@ -1,0 +1,61 @@
+startup_id,startup_name,sector,water_need,solar_need,infrastructure_need,labour_type,capex_band,mgnrega_flag,suits_high_readiness,suits_low_readiness,targets_high_need,targets_low_need,focus_health,focus_education,focus_tourism,focus_agri,focus_industry,pollution_sensitivity,security_sensitivity,urban_preference,description,image_path
+1,SaaS Product Development Studio,IT Services,20,20,85,Skilled,Medium,No,Yes,No,No,Yes,0,1,0,0,1,20,80,Urban,Builds SaaS products for global and domestic clients,startup_images/saas-concept-collage.jpg
+2,AI ML Development Lab,Deep Tech,15,25,90,Skilled,High,No,Yes,No,No,Yes,0,0,0,0,1,15,85,Urban,Advanced AI ML solutions for enterprises,startup_images/ai ml development lab.jpg
+3,Affordable Diagnostics Center,Healthcare,40,20,65,Semi-Skilled,Medium,No,Yes,No,Yes,No,1,0,0,0,0,30,50,Semi-Urban,Low cost diagnostic services,startup_images/diagnostic centre.jpg
+4,Telemedicine Hub,Healthcare,30,30,60,Skilled,Low,No,Yes,No,Yes,No,1,0,0,0,0,25,55,All,Remote healthcare access platform,startup_images/telemedicine hub.png
+5,Skill Training and Placement Academy,Education,20,10,55,Semi-Skilled,Low,Yes,Yes,No,Yes,No,0,1,0,0,0,20,45,All,Job linked skill development programs,startup_images/skill training and placement academy.png
+6,Urban Waste Recycling Startup,Waste Management,25,20,70,Semi-Skilled,Medium,No,Yes,No,Yes,No,0,0,0,0,1,40,50,Urban,Segregation and recycling services,startup_images/urban waste recycling plant services.png
+7,Rainwater Harvesting Services,Water Infrastructure,80,10,30,Unskilled,Low,Yes,No,Yes,Yes,No,0,0,0,0,1,10,30,Rural,Community rainwater harvesting implementation,startup_images/rainwater harvesting services.png
+8,Solar Microgrid Installation,Renewable Energy,20,85,40,Semi-Skilled,Medium,Yes,No,Yes,Yes,No,0,0,0,0,1,10,35,Rural,Community solar microgrids,startup_images/solar microgrid.jpg
+9,Drip Irrigation Services,Agri Infrastructure,70,20,35,Semi-Skilled,Low,Yes,No,Yes,Yes,No,0,0,0,1,0,15,30,Rural,Water efficient irrigation solutions,startup_images/drip irrigation services.jpg
+10,Rural Tourism Homestay Network,Tourism,40,20,30,Unskilled,Low,Yes,No,Yes,Yes,No,0,0,1,0,0,20,30,Rural,Community based rural tourism,startup_images/rural tourism homestay network.png
+11,Ayurvedic Supplement Manufacturing,Healthcare,35,25,45,Semi-Skilled,Medium,Yes,Yes,No,Yes,No,1,0,0,0,0,25,40,Semi-Urban,Natural herbal capsules from local plants,startup_images/Ayurvedic supplement manufacturing.png
+12,Online Language Learning App,Education,10,15,30,Skilled,Low,No,Yes,Yes,No,Yes,0,1,0,0,0,15,35,All,Interactive Hindi/English courses with AI tutor,startup_images/language training.png
+13,Organic Fertilizer Blending Unit,Agri Tech,50,20,35,Unskilled,Low,Yes,No,Yes,Yes,No,0,0,0,1,0,20,30,Rural,Mix of compost and bio-agents for crops,startup_images/organic fertilizer blending unit.png
+14,Mental Health Chatbot Service,Healthcare,5,10,25,Skilled,Low,No,Yes,No,Yes,Yes,1,0,0,0,0,10,25,All,AI counselor for stress and anxiety support,startup_images/mental health chatbot service.png
+15,Vocational Welding Training Center,Education,25,30,50,Semi-Skilled,Medium,Yes,Yes,Yes,No,Yes,0,1,0,0,1,30,45,Semi-Urban,Hands-on welding certification programs,startup_images/Vocational welding training academy.png
+16,Poultry Feed Production Plant,Agri Industry,60,15,40,Semi-Skilled,Medium,No,No,Yes,Yes,Yes,0,0,0,1,1,35,50,Rural,Nutritional feed from local grains,startup_images/poultry feed production plants.png
+17,Yoga Studio Franchise Network,Healthcare,20,40,30,Unskilled,Low,Yes,Yes,No,Yes,No,1,0,0,0,0,15,30,All,Community yoga classes with online booking,startup_images/Yoga studio franchise network.png
+18,STEM Robotics Kits for Schools,Education,15,35,40,Skilled,Medium,No,Yes,Yes,No,Yes,0,1,0,0,0,20,40,Semi-Urban,Build-your-own robot educational sets,startup_images/stem robotics kit services.png
+19,Fish Farming Pond Management,Agri Aquaculture,70,25,35,Unskilled,Low,Yes,No,Yes,Yes,No,0,0,0,1,0,25,35,Rural,Sustainable tilapia/catfish pond services,startup_images/Fish farming pond management.png
+20,Diabetes Monitoring Wearables,Healthcare,20,45,35,Semi-Skilled,Medium,No,Yes,No,Yes,Yes,1,0,0,0,1,20,45,Urban,Affordable glucose trackers with app alerts,startup_images/diabetes wearables.png
+21,Corporate Upskilling Platform,Education,10,20,30,Skilled,Low,No,Yes,Yes,No,No,0,1,0,0,0,10,30,Urban,Short courses in digital marketing and coding,startup_images/Corporate Upskilling Platform.png
+22,Mushroom Cultivation Farm,Agri Tech,45,30,30,Unskilled,Low,Yes,Yes,Yes,No,Yes,0,0,0,1,0,20,30,Rural,Mushroom production and sales,startup_images/Mushroom Cultivation Farm.png
+23,Nutritionist Consultation Network,Healthcare,15,10,25,Semi-Skilled,Low,Yes,Yes,No,Yes,Yes,1,0,0,0,0,15,25,Semi-Urban,Diet plans via video and meal delivery tie-ups,startup_images/Nutritionist Consultation Network.png
+24,Driving School Simulator Lab,Education,25,40,50,Skilled,Medium,No,No,Yes,Yes,No,0,1,0,0,1,30,50,All,VR-based driving training to save fuel costs,startup_images/VR driving school.png
+25,Herbal Tea Processing Unit,Agri Food,55,20,40,Semi-Skilled,Low,Yes,No,Yes,Yes,No,0,0,0,1,0,25,35,Rural,Blends from tulsi/mint for wellness market,startup_images/Herbal Tea Processing Unit.png
+26,Eye Care Mobile Clinics,Healthcare,30,25,45,Semi-Skilled,Medium,Yes,Yes,Yes,No,Yes,1,0,0,0,0,30,45,Rural,Optometry vans for remote screenings,startup_images/Eyecare Mobile Clinics.png
+27,E-Learning Content Creation Studio,Education,5,15,35,Skilled,Low,No,Yes,No,Yes,Yes,0,1,0,0,0,10,35,Urban,Video modules for K-12 curriculum,startup_images/E-Learning Content Creation Studio.png
+28,Beekeeping and Honey Processing,Agri Apiary,40,35,25,Unskilled,Low,Yes,Yes,No,Yes,No,0,0,0,1,0,15,25,Rural,Honey extraction and packaging services,startup_images/Beekeeping and honey processing.png
+29,Physiotherapy Home Visit Service,Healthcare,20,20,30,Skilled,Low,Yes,Yes,Yes,No,Yes,1,0,0,0,0,20,30,Semi-Urban,Mobile physio for elderly/post-surgery care,startup_images/Physiotherapy homevisit service.png
+30,Beauty and Makeup Training Academy,Education,25,30,40,Semi-Skilled,Medium,No,No,Yes,Yes,Yes,0,1,0,0,1,25,40,Urban,Certified courses in cosmetology and salon skills,startup_images/Beauty and Makeup Training Academy.png
+31,Eco-Adventure Tour Operator,Tourism,30,40,35,Unskilled,Low,Yes,No,Yes,Yes,No,0,0,1,0,0,20,30,Rural,eco tourism packages with sustainability focus,startup_images/Eco Adventure Tour Operator.png
+32,E-Waste Collection and Refurb Hub,Waste Management,25,25,55,Semi-Skilled,Medium,No,Yes,Yes,No,Yes,0,0,0,0,1,45,55,Urban,Device refurbish and component recycling,startup_images/e-waste collection and refurb hub.png
+33,Biogas Plant Installation,Energy,65,30,45,Unskilled,Medium,Yes,No,Yes,Yes,Yes,0,0,0,0,1,30,40,Rural,Kitchen waste to cooking gas converters,startup_images/biogas plant installation.png
+34,Handicraft Export Marketplace,Industry,15,20,30,Skilled,Low,No,Yes,No,Yes,Yes,0,0,0,0,1,20,35,Semi-Urban,Online platform for artisan global sales,startup_images/handicraft export marketplace.png
+35,Heritage Walking Tour App,Tourism,10,15,25,Skilled,Low,No,Yes,Yes,No,No,0,0,1,0,0,15,25,All,Self-guided audio tours of historical and religious sites,startup_images/Heritage Walking Tour App.png
+36,Plastic Bottle Upcycling Unit,Waste Management,40,20,50,Semi-Skilled,Medium,Yes,Yes,No,Yes,Yes,0,0,0,0,1,40,50,Semi-Urban,Fleece fabric from recycled PET bottles,startup_images/Plastic bottle upcycling unit.png
+37,Mini Wind Turbine Assembly,Energy,20,60,50,Semi-Skilled,Medium,No,No,Yes,Yes,No,0,0,0,0,1,25,45,Rural,Small turbines for off-grid homes,startup_images/Mini Wind Turbine Assembly.png
+38,Custom Furniture Workshop,Industry,35,25,45,Skilled,Medium,No,Yes,Yes,No,Yes,0,0,0,0,1,30,45,Urban,Bespoke wood designs with CNC machines,startup_images/Custom Furniture Workshop.png
+39,Adventure Sports Gear Rental,Tourism,25,35,40,Unskilled,Low,Yes,Yes,Yes,No,Yes,0,0,1,0,0,25,35,Semi-Urban,Kayak/paraglide equipment with safety training,startup_images/Adventure sport Gear rental.png
+40,Organic Waste Composting Service,Waste Management,55,20,35,Unskilled,Low,Yes,No,Yes,Yes,No,0,0,0,0,1,20,30,Rural,Doorstep collection and compost delivery,startup_images/organic waste composting service.png
+41,Community EV Charging Network,Energy,15,55,45,Semi-Skilled,Medium,No,Yes,No,Yes,Yes,0,0,0,0,1,25,40,Urban,Solar-powered stations for electric scooters,startup_images/community ev charging network.png
+42,Leather Goods Manufacturing,Industry,45,25,55,Semi-Skilled,High,No,No,Yes,Yes,No,0,0,0,0,1,40,55,Semi-Urban,Belts/wallets from ethical tanneries,startup_images/Leather goods manufacturing.png
+43,Wellness Retreat Booking Platform,Tourism,10,20,25,Skilled,Low,No,Yes,Yes,No,Yes,0,0,1,0,0,10,25,All,Spa and meditation resort aggregator,startup_images/wellness retreat booking platform.png
+44,Tire Recycling Plant,Waste Management,50,30,60,Semi-Skilled,Medium,No,Yes,Yes,No,Yes,0,0,0,0,1,50,60,Industrial,Rubber crumb for roads and playgrounds,startup_images/tyre recycling plant.png
+45,LED Lighting Assembly Unit,Energy,20,50,40,Skilled,Medium,No,No,Yes,Yes,Yes,0,0,0,0,1,20,40,Semi-Urban,Efficient bulbs for rural electrification,startup_images/Led lighting assembly unit.png
+46,Spice Grinding and Packaging,Industry,60,15,45,Semi-Skilled,Low,Yes,Yes,No,Yes,No,0,0,0,0,1,25,35,Rural,Machine-packed masala blends for retail,startup_images/spice grinding and packaging unit.png
+47,Forest Eco-Tourism Camps,Tourism,40,45,35,Unskilled,Medium,Yes,No,Yes,Yes,No,0,0,1,0,0,20,35,Rural,Tent stays with guided nature walks,startup_images/forest eco tourism camps.png
+48,Biomedical Waste Treatment,Waste Management,30,25,55,Semi-Skilled,High,No,Yes,No,Yes,Yes,1,0,0,0,0,45,65,Semi-Urban,Safe autoclave sterilization service,startup_images/biomedical waste treatment unit.png
+49,Small Hydro Power Kits,Energy,55,30,50,Skilled,High,No,No,Yes,Yes,No,0,0,0,0,1,30,50,Rural,Micro-turbines for stream electricity,startup_images/Small hydropower unit.png
+50,Bamboo Product Fabrication,Industry,35,40,40,Unskilled,Low,Yes,Yes,Yes,No,Yes,0,0,0,0,1,20,30,Rural,Furniture and utensils from bamboo,startup_images/Bamboo product fabrication unit.png
+51,Virtual Reality Therapy Clinic,Healthcare,15,30,35,Skilled,Medium,No,Yes,Yes,No,Yes,1,0,0,0,0,20,35,Urban,VR exposure for phobia treatment,startup_images/VR therapy clinic.png
+52,Agri Drone Spraying Service,Agri Tech,25,60,45,Semi-Skilled,Medium,No,No,Yes,Yes,Yes,0,0,0,1,0,25,45,Rural,Precision pesticide application drones,startup_images/Agri drone spraying service.png
+53,Coding Bootcamp for Women,Education,10,20,30,Skilled,Low,No,Yes,No,Yes,Yes,0,1,0,0,0,15,30,All,3-month web dev training with placements,startup_images/Coding bootcamp for women.png
+54,Street Food Vending Carts Manufacturing,Industry,30,25,40,Semi-Skilled,Medium,Yes,Yes,Yes,No,Yes,0,0,0,0,1,30,40,Urban,Mobile hygienic cart designs,startup_images/street food vendor cart manufacturing.png
+55,Bird Watching Tour Operator,Tourism,20,35,25,Unskilled,Low,Yes,No,Yes,Yes,No,0,0,1,0,0,15,25,Rural,Guided ornithology trips with gear rental,startup_images/Bird watching tour operator services.png
+56,Oil Seed Extraction Unit,Agri Industry,65,20,50,Semi-Skilled,Medium,Yes,No,Yes,Yes,No,0,0,0,1,1,35,50,Rural,Mustard/groundnut oil pressing plant,startup_images/oilseed extraction unit.png
+57,Dental Care Mobile Unit,Healthcare,25,20,40,Semi-Skilled,Medium,Yes,Yes,Yes,No,Yes,1,0,0,0,0,25,45,Rural,Portable clinics for checkups/fillings,startup_images/mobile dental clinics.png
+58,Graphic Design Freelance Hub,Education,5,15,25,Skilled,Low,No,Yes,Yes,No,No,0,1,0,0,0,10,25,Urban,Training and client matching platform,startup_images/graphic design freelance hub.png
+59,Sericulture Silk Processing,Agri Sericulture,50,30,35,Unskilled,Low,Yes,Yes,No,Yes,No,0,0,0,1,0,20,30,Rural,Silkworm rearing and yarn spinning,startup_images/silk production unit.png
+60,Orthopedic Brace Manufacturing,Healthcare,40,25,55,Semi-Skilled,High,No,No,Yes,Yes,Yes,1,0,0,0,1,35,55,Semi-Urban,Custom 3D-printed support braces,startup_images/orthopedic brace manufacturing.png
