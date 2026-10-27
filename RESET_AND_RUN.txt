@@ -1,0 +1,9 @@
+RUN (Windows PowerShell, in the folder that contains docker-compose.yml)
+
+  docker compose down -v        <- REQUIRED once: Postgres only loads data into an EMPTY volume
+  docker compose up --build
+
+First start loads ~100k villages (about 1-2 minutes). Then open:
+  App      http://localhost:3000
+  API docs http://localhost:8000/docs
+  CRS audit http://localhost:8000/api/spatial/crs-check

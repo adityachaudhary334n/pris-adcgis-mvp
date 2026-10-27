@@ -1,0 +1,15 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+html, body { height: 100%; background: #0B1220; color: #fff; }
+body { font-feature-settings: "tnum" 0; -webkit-font-smoothing: antialiased; }
+:focus-visible { outline: 4px solid #F59E0B; outline-offset: 2px; }
+/* MapLibre: bigger controls for touch, readable popups on the dark theme */
+.maplibregl-ctrl-group button { width: 48px; height: 48px; }
+.maplibregl-ctrl-bottom-right { margin-bottom: 4px; }
+@media (min-width: 768px) { .maplibregl-ctrl-bottom-right { right: 28rem; } }
+.pris-popup .maplibregl-popup-content { background: #0F172A; color: #fff; border-radius: 14px; padding: 14px 16px; font-size: 15px; line-height: 1.4; box-shadow: 0 10px 30px rgba(0,0,0,.5); border: 1px solid rgba(255,255,255,.12); }
+.pris-popup .maplibregl-popup-content strong { display: block; font-size: 17px; margin-bottom: 4px; color: #F59E0B; }
+.pris-popup .maplibregl-popup-tip { border-top-color: #0F172A !important; border-bottom-color: #0F172A !important; }
+.pris-popup .maplibregl-popup-close-button { color: #fff; font-size: 22px; width: 36px; height: 36px; }
+.maplibregl-ctrl-attrib { background: rgba(15,23,42,.7) !important; color: #CBD5E1 !important; }
+.maplibregl-ctrl-attrib a { color: #7DD3FC !important; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }

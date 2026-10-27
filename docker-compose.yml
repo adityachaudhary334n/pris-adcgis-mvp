@@ -1,0 +1,88 @@
+version: "3.9"
+
+services:
+  db:
+    image: postgis/postgis:16-3.4
+    container_name: pris_postgis
+    environment:
+      POSTGRES_USER: pris
+      POSTGRES_PASSWORD: pris_password
+      POSTGRES_DB: pris_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - pris_pgdata:/var/lib/postgresql/data
+      - ./database/init.sql:/docker-entrypoint-initdb.d/01_init.sql
+      - ./database/02_geo_integrity.sql:/docker-entrypoint-initdb.d/02_geo_integrity.sql
+      - ./data/clean/up_admin_load.sql.gz:/docker-entrypoint-initdb.d/03_up_admin_load.sql.gz
+      - ./database/04_seed_data.sql:/docker-entrypoint-initdb.d/04_seed_data.sql
+      - ./database/05_validate_geodata.sql:/docker-entrypoint-initdb.d/05_validate_geodata.sql
+      - ./data/clean/district_info_load.sql:/docker-entrypoint-initdb.d/06_district_info.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U pris -d pris_db"]
+      interval: 5s
+      timeout: 5s
+      retries: 60
+      start_period: 90s
+    restart: unless-stopped
+
+  martin:
+    image: ghcr.io/maplibre/martin:v0.14.2
+    container_name: pris_martin
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgres://pris:pris_password@db:5432/pris_db
+    ports:
+      - "3001:3000"
+    command: ["--listen-addresses", "0.0.0.0:3000"]
+    restart: unless-stopped
+
+  api:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: pris_api
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgresql+asyncpg://pris:pris_password@db:5432/pris_db
+      LLM_API_KEY: ${LLM_API_KEY:-}
+      LLM_BASE_URL: ${LLM_BASE_URL:-https://api.openai.com/v1}
+      LLM_MODEL: ${LLM_MODEL:-gpt-4o-mini}
+      MARTIN_URL: http://martin:3000
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/app:/app/app
+    healthcheck:
+      test: ["CMD-SHELL", "python -c \"import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health')\""]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 30s
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      args:
+        # Browser calls host-mapped API, not the docker-internal hostname
+        NEXT_PUBLIC_API_BASE: http://localhost:8000
+    container_name: pris_frontend
+    depends_on:
+      api:
+        condition: service_healthy
+    environment:
+      PORT: "3000"
+      HOSTNAME: "0.0.0.0"
+      NEXT_PUBLIC_API_BASE: http://localhost:8000
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
+
+volumes:
+  pris_pgdata:

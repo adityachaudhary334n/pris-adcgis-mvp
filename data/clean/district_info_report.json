@@ -1,0 +1,29 @@
+{
+ "districts_loaded": 75,
+ "unmatched_in_file": [],
+ "database_districts_without_profile": [],
+ "generic_fields (same text in >= 10 districts - replace with district-specific facts)": [
+  "demography.cultural_makeup",
+  "demography.housing_metrics",
+  "demography.population_dynamics",
+  "demography.socioeconomic_indicators",
+  "geography.built_environment",
+  "geography.climate",
+  "geography.hydrography",
+  "geography.natural_resources",
+  "history.cultural_heritage",
+  "history.developmental_milestones",
+  "history.geopolitical_shifts"
+ ],
+ "district_specific_fields": [
+  "demography.age_gender_distribution",
+  "demography.education_labor",
+  "demography.population_2011",
+  "geography.land_area_sq_km",
+  "geography.topography",
+  "history.economic_evolution",
+  "history.foundation_settlement"
+ ],
+ "population_sum": 204895624,
+ "note": "Census 2011 UP total is 199,812,341; a larger sum means some post-2011 districts (Amethi, Hapur, Sambhal, Shamli, Kasganj, Bhadohi...) probably still carry their parent district's population."
+}

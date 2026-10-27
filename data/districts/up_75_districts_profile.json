@@ -1,0 +1,2177 @@
+{
+    "Agra": {
+        "district": "Agra",
+        "division": "Agra",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (agra.nic.in)",
+        "geography": {
+            "land_area_sq_km": 4041,
+            "topography": "Yamuna river basin, plains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 4418797,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 904 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 71.58%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Taj Mahal, Mughal capital",
+            "economic_evolution": "High tourism, leather hub",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Aligarh": {
+        "district": "Aligarh",
+        "division": "Aligarh",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (aligarh.nic.in)",
+        "geography": {
+            "land_area_sq_km": 3650,
+            "topography": "Doab fertile agricultural plains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 3673889,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 882 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 67.52%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Aligarh Muslim University, Lock city",
+            "economic_evolution": "Lock manufacturing, brass hardware",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Prayagraj": {
+        "district": "Prayagraj",
+        "division": "Prayagraj",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (prayagraj.nic.in)",
+        "geography": {
+            "land_area_sq_km": 5482,
+            "topography": "Triveni Sangam confluence plains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 5954391,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 901 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 72.32%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Ancient Prayag, Kumbh Mela hub",
+            "economic_evolution": "Administrative, educational hub",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Ambedkar Nagar": {
+        "district": "Ambedkar Nagar",
+        "division": "Ayodhya",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (ambedkarnagar.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2350,
+            "topography": "Ghaghra river lowlands",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 2397888,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 978 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 72.23%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Carved from Faizabad in 1995",
+            "economic_evolution": "Power-loom and textile weaving",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Amethi": {
+        "district": "Amethi",
+        "division": "Ayodhya",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (amethi.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2329,
+            "topography": "Flat alluvial plains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1867609,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 983 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 69.14%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Carved out as a separate district recently",
+            "economic_evolution": "Industrial clusters like Jagdishpur",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Amroha": {
+        "district": "Amroha",
+        "division": "Moradabad",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (amroha.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2249,
+            "topography": "Ganges alluvial plain",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1840221,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 910 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 63.84%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Named after Amba and Ruhu history",
+            "economic_evolution": "Handicrafts, wooden drum (Dholak) industries",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Auraiya": {
+        "district": "Auraiya",
+        "division": "Kanpur",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (auraiya.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2016,
+            "topography": "Sengar and Yamuna river tracts",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1379545,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 864 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 78.95%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Separated from Etawah in 1997",
+            "economic_evolution": "Food processing, ghee trading hub",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Ayodhya": {
+        "district": "Ayodhya",
+        "division": "Ayodhya",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (ayodhya.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2522,
+            "topography": "Ghaghra (Sarayu) river bank plains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 2470996,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 962 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 68.73%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Ancient birthplace of Lord Rama, Awadh hub",
+            "economic_evolution": "Religious tourism, cultural heritage",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Azamgarh": {
+        "district": "Azamgarh",
+        "division": "Azamgarh",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (azamgarh.nic.in)",
+        "geography": {
+            "land_area_sq_km": 4234,
+            "topography": "Tons river alluvial tract",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 4613413,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 1019 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 70.93%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Founded by Azam Khan in 1665",
+            "economic_evolution": "Handloom, pottery, agrarian economy",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Baghpat": {
+        "district": "Baghpat",
+        "division": "Meerut",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (baghpat.nic.in)",
+        "geography": {
+            "land_area_sq_km": 1321,
+            "topography": "Yamuna river floodplains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1303048,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 861 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 72.11%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Mahabharata historical site (Vyagprastha)",
+            "economic_evolution": "Sugarcane cultivation, small scale manufacturing",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Bahraich": {
+        "district": "Bahraich",
+        "division": "Devipatan",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (bahraich.nic.in)",
+        "geography": {
+            "land_area_sq_km": 4699,
+            "topography": "Terai plains bordering Nepal",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 3487831,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 892 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 49.36%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Dargah of Ghazi Sayyad Salar Masud",
+            "economic_evolution": "Timber, agriculture, pulses hub",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Ballia": {
+        "district": "Ballia",
+        "division": "Azamgarh",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (ballia.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2981,
+            "topography": "Ganges-Ghaghra confluence deltaic plains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 3239774,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 937 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 70.95%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Rebel Ballia, Chittu Pandey 1942 movement",
+            "economic_evolution": "Agrarian economy, local trading",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Balrampur": {
+        "district": "Balrampur",
+        "division": "Devipatan",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (balrampur.nic.in)",
+        "geography": {
+            "land_area_sq_km": 3349,
+            "topography": "Terai region bordering foothills",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 2148665,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 928 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 49.51%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Patal Devi temple, ancient Shravasti nearby",
+            "economic_evolution": "Sugarcane processing, agrarian trade",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Banda": {
+        "district": "Banda",
+        "division": "Chitrakoot",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (banda.nic.in)",
+        "geography": {
+            "land_area_sq_km": 4408,
+            "topography": "Rugged Vindhyan Bundelkhand terrain",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1799410,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 863 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 66.67%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Historical Kalinjar Fort location",
+            "economic_evolution": "Mining, stone crafts (Shajar stone)",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Barabanki": {
+        "district": "Barabanki",
+        "division": "Ayodhya",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (barabanki.nic.in)",
+        "geography": {
+            "land_area_sq_km": 4402,
+            "topography": "Ghaghra-Gomti interfluve plain",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 3260699,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 910 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 61.75%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Parijaat tree, Sufi shrine of Dewa Sharif",
+            "economic_evolution": "Textile weaving, mentha oil cultivation",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Bareilly": {
+        "district": "Bareilly",
+        "division": "Bareilly",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (bareilly.nic.in)",
+        "geography": {
+            "land_area_sq_km": 4120,
+            "topography": "Ramganga river alluvial tract",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 4448359,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 887 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 58.49%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Historical Rohilkhand capital region",
+            "economic_evolution": "Zari-zardozi embroidery, bamboo furniture",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Basti": {
+        "district": "Basti",
+        "division": "Basti",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (basti.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2688,
+            "topography": "Kuano and Ghaghra plains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 2464464,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 963 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 67.22%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Anciently known as Vashishthi territory",
+            "economic_evolution": "Sugarcane mills, handloom weaving",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Bhadohi": {
+        "district": "Bhadohi",
+        "division": "Mirzapur",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (bhadohi.nic.in)",
+        "geography": {
+            "land_area_sq_km": 1015,
+            "topography": "Ganges plain clay-silt deposits",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1578567,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 955 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 68.97%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Carved from Varanasi, ancient textile hub",
+            "economic_evolution": "World famous hand-knotted Carpet industry",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Bijnor": {
+        "district": "Bijnor",
+        "division": "Moradabad",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (bijnor.nic.in)",
+        "geography": {
+            "land_area_sq_km": 4561,
+            "topography": "Ganges upper plain riparian tracts",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 3634875,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 917 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 68.48%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Associated with Kanva Ashram and Shakuntala",
+            "economic_evolution": "Sugarcane, paper mills, handicrafts",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Budaun": {
+        "district": "Budaun",
+        "division": "Bareilly",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (budaun.nic.in)",
+        "geography": {
+            "land_area_sq_km": 4251,
+            "topography": "Ganges-Ramganga fertile belt",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 3681896,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 871 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 51.29%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Sultanate era capital, Sufi saints hub",
+            "economic_evolution": "Agricultural processing, brick kilns",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Bulandshahr": {
+        "district": "Bulandshahr",
+        "division": "Meerut",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (bulandshahr.nic.in)",
+        "geography": {
+            "land_area_sq_km": 4512,
+            "topography": "High ground between Ganges and Yamuna",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 3499171,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 892 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 68.88%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Ancient Baran civilization site",
+            "economic_evolution": "Khurja pottery cluster, dairy farming",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Chandauli": {
+        "district": "Chandauli",
+        "division": "Varanasi",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (chandauli.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2484,
+            "topography": "Ganges plains blending into Vindhyan hills",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1952756,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 918 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 71.48%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Carved from Varanasi; 'Rice Bowl of UP'",
+            "economic_evolution": "Paddy cultivation, major railway junction (DDU)",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Chitrakoot": {
+        "district": "Chitrakoot",
+        "division": "Chitrakoot",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (chitrakoot.nic.in)",
+        "geography": {
+            "land_area_sq_km": 3216,
+            "topography": "Vindhyan rocky terrain and hills",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 991730,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 879 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 65.05%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Lord Rama's forest exile settlement site",
+            "economic_evolution": "Pilgrimage tourism, forest produce",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Deoria": {
+        "district": "Deoria",
+        "division": "Gorakhpur",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (deoria.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2540,
+            "topography": "Little Gandak alluvial flatlands",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 3100946,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 1003 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 71.13%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Ancient Malla Mahajanapada history",
+            "economic_evolution": "Sugar industry, intensive agriculture",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Etah": {
+        "district": "Etah",
+        "division": "Aligarh",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (etah.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2431,
+            "topography": "Central Doab plain tract",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1774480,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 873 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 70.81%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Associated with poet Amir Khusro's roots",
+            "economic_evolution": "Brass bell craft (Jalesar), agriculture",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Etawah": {
+        "district": "Etawah",
+        "division": "Kanpur",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (etawah.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2311,
+            "topography": "Yamuna ravines and alluvial plains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1581810,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 870 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 78.42%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "1857 revolt resistance node",
+            "economic_evolution": "Handloom industries, animal husbandry",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Farrukhabad": {
+        "district": "Farrukhabad",
+        "division": "Kanpur",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (farrukhabad.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2181,
+            "topography": "Ganges middle plains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1885816,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 874 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 69.04%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Founded by Nawab Muhammad Khan Bangash",
+            "economic_evolution": "Potato farming, textile block printing",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Fatehpur": {
+        "district": "Fatehpur",
+        "division": "Prayagraj",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (fatehpur.nic.in)",
+        "geography": {
+            "land_area_sq_km": 4152,
+            "topography": "Ganges-Yamuna interfluve terrain",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 2632733,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 901 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 67.43%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Ancient Vedic and Mughal route node",
+            "economic_evolution": "Agrarian economy, stone mining",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Firozabad": {
+        "district": "Firozabad",
+        "division": "Agra",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (firozabad.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2407,
+            "topography": "Yamuna drainage lowlands",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 2498156,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 875 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 71.92%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Named after Firoz Shah Mansabdar",
+            "economic_evolution": "Glassware and bangle manufacturing cluster",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Gautam Buddha Nagar": {
+        "district": "Gautam Buddha Nagar",
+        "division": "Meerut",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (gautambuddhanagar.nic.in)",
+        "geography": {
+            "land_area_sq_km": 1442,
+            "topography": "Yamuna-Hindon floodplains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1648115,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 851 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 80.12%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Modern industrial district created in 1997",
+            "economic_evolution": "NOIDA tech hub, electronics, manufacturing",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Ghaziabad": {
+        "district": "Ghaziabad",
+        "division": "Meerut",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (ghaziabad.nic.in)",
+        "geography": {
+            "land_area_sq_km": 1179,
+            "topography": "Hindon river plain network",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 4681645,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 878 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 78.07%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Gateway of UP, historic Ghaziuddinpur",
+            "economic_evolution": "Heavy engineering, steel, chemical industries",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Ghazipur": {
+        "district": "Ghazipur",
+        "division": "Varanasi",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (ghazipur.nic.in)",
+        "geography": {
+            "land_area_sq_km": 3377,
+            "topography": "Ganges southern plain loops",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 3620268,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 952 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 71.78%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Opium factory established by British (1789)",
+            "economic_evolution": "Agriculture, rose water processing",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Gonda": {
+        "district": "Gonda",
+        "division": "Devipatan",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (gonda.nic.in)",
+        "geography": {
+            "land_area_sq_km": 4003,
+            "topography": "Ghaghra river alluvial lowlands",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 3433919,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 898 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 58.71%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Anciently part of Kosala Kingdom",
+            "economic_evolution": "Sugarcane cultivation, grain markets",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Gorakhpur": {
+        "district": "Gorakhpur",
+        "division": "Gorakhpur",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (gorakhpur.nic.in)",
+        "geography": {
+            "land_area_sq_km": 3321,
+            "topography": "Rapti river basin plains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 4440895,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 950 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 70.83%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Seat of Gorakhnath Mutt, historic Gita Press",
+            "economic_evolution": "Terracotta crafts, regional trade, logistics",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Hamirpur": {
+        "district": "Hamirpur",
+        "division": "Chitrakoot",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (hamirpur.nic.in)",
+        "geography": {
+            "land_area_sq_km": 4021,
+            "topography": "Yamuna-Betwa confluence ravines",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1104285,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 861 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 68.77%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Bundelkhand historical dynasty nodes",
+            "economic_evolution": "Stone mining, pulse farming",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Hapur": {
+        "district": "Hapur",
+        "division": "Meerut",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (hapur.nic.in)",
+        "geography": {
+            "land_area_sq_km": 649,
+            "topography": "Upper Gangetic plain tracts",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1338311,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 884 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 75.34%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Carved from Ghaziabad; smallest by area",
+            "economic_evolution": "Jaggery trading, tube-well components",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Hardoi": {
+        "district": "Hardoi",
+        "division": "Lucknow",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (hardoi.nic.in)",
+        "geography": {
+            "land_area_sq_km": 5986,
+            "topography": "Ganges-Gomti interfluve plains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 4092845,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 868 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 64.6%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Associated with mythological Hiranyakashyapu",
+            "economic_evolution": "Sugarcane, food processing",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Hathras": {
+        "district": "Hathras",
+        "division": "Aligarh",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (hathras.nic.in)",
+        "geography": {
+            "land_area_sq_km": 1840,
+            "topography": "Doab alluvial plain tract",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1564708,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 871 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 71.59%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Historic industrial hub during British era",
+            "economic_evolution": "Asafoetida (Hing) compounding, cotton ginning",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Jalaun": {
+        "district": "Jalaun",
+        "division": "Jhansi",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (jalaun.nic.in)",
+        "geography": {
+            "land_area_sq_km": 4565,
+            "topography": "Flat Bundelkhand plains, Yamuna border",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1689974,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 865 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 73.75%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Ruled by Kalpi sultans and Marathas",
+            "economic_evolution": "Handmade paper industry (Kalpi), pulses",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Jaunpur": {
+        "district": "Jaunpur",
+        "division": "Varanasi",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (jaunpur.nic.in)",
+        "geography": {
+            "land_area_sq_km": 4038,
+            "topography": "Gomti river basin plains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 4494204,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 1024 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 71.55%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Capital of Sharqi Sultanate (Shiraz-i-Hind)",
+            "economic_evolution": "Perfume (Attar) industry, agriculture",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Jhansi": {
+        "district": "Jhansi",
+        "division": "Jhansi",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (jhansi.nic.in)",
+        "geography": {
+            "land_area_sq_km": 5024,
+            "topography": "Rocky Bundelkhand hillocks",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1998603,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 890 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 75.05%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Realm of Rani Lakshmibai, Maratha bastion",
+            "economic_evolution": "Defensive nodes, tourism, railway hub",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Kannauj": {
+        "district": "Kannauj",
+        "division": "Kanpur",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (kannauj.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2093,
+            "topography": "Ganges alluvial deposits",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1656616,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 879 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 72.76%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Imperial capital of Harshavardhana",
+            "economic_evolution": "Natural perfume (Attar) distillation hub",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Kanpur Dehat": {
+        "district": "Kanpur Dehat",
+        "division": "Kanpur",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (kanpurdehat.nic.in)",
+        "geography": {
+            "land_area_sq_km": 3021,
+            "topography": "Non-riparian Doab plain lands",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1796184,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 865 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 75.78%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Separated from Kanpur urban complex",
+            "economic_evolution": "Small industrial units, pulse mills",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Kanpur Nagar": {
+        "district": "Kanpur Nagar",
+        "division": "Kanpur",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (kanpurnagar.nic.in)",
+        "geography": {
+            "land_area_sq_km": 3155,
+            "topography": "Ganges bank industrial shelf",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 4581268,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 862 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 79.65%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Manchester of the East, industrial boomtown",
+            "economic_evolution": "Leather tanneries, textiles, engineering",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Kasganj": {
+        "district": "Kasganj",
+        "division": "Aligarh",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (kasganj.nic.in)",
+        "geography": {
+            "land_area_sq_km": 1955,
+            "topography": "Ganges low flood plains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1436719,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 880 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 61.02%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Separated from Etah in 2008",
+            "economic_evolution": "Agriculture, oilseed processing",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Kaushambi": {
+        "district": "Kaushambi",
+        "division": "Prayagraj",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (kaushambi.nic.in)",
+        "geography": {
+            "land_area_sq_km": 1779,
+            "topography": "Yamuna plain alluvial tract",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1599596,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 908 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 60.18%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Capital of ancient Vatsa Mahajanapada",
+            "economic_evolution": "Agriculture, banana cultivation cluster",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Kushinagar": {
+        "district": "Kushinagar",
+        "division": "Gorakhpur",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (kushinagar.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2905,
+            "topography": "Gandak river plain basin",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 3564544,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 961 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 65.25%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Mahaparinirvana site of Gautama Buddha",
+            "economic_evolution": "International Buddhist tourism, sugar mills",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Lakhimpur Kheri": {
+        "district": "Lakhimpur Kheri",
+        "division": "Lucknow",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (lakhimpurkheri.nic.in)",
+        "geography": {
+            "land_area_sq_km": 7680,
+            "topography": "Terai marshy alluvial borderlands",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 4021243,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 894 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 60.56%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Historic Oudh state forest tracts",
+            "economic_evolution": "Largest district by area, massive Sugar hub",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Lalitpur": {
+        "district": "Lalitpur",
+        "division": "Jhansi",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (lalitpur.nic.in)",
+        "geography": {
+            "land_area_sq_km": 5039,
+            "topography": "Vindhyan hill ranges, rocky plateau",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1221592,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 906 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 63.52%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Bundela Rajput domains, rock-cut shrines",
+            "economic_evolution": "Granite mining, uranium indicators, dams",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Lucknow": {
+        "district": "Lucknow",
+        "division": "Lucknow",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (lucknow.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2528,
+            "topography": "Gomti river middle plains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 4589838,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 917 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 77.29%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Capital of Awadh Nawabs, Golden era architecture",
+            "economic_evolution": "State capital, Chikan embroidery, IT nodes",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Maharajganj": {
+        "district": "Maharajganj",
+        "division": "Gorakhpur",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (maharajganj.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2952,
+            "topography": "Terai lowlands bordering Nepal",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 2684703,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 938 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 62.76%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Ancient link route to Kapilavastu",
+            "economic_evolution": "Agrarian economy, transit trade with Nepal",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Mahoba": {
+        "district": "Mahoba",
+        "division": "Chitrakoot",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (mahoba.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2884,
+            "topography": "Rocky semi-arid Bundelkhand ridges",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 875958,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 878 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 65.29%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Capital of Chandel Rajputs, Alha-Udal lore",
+            "economic_evolution": "Granite quarrying, betel leaf (Paan) farming",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Mainpuri": {
+        "district": "Mainpuri",
+        "division": "Agra",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (mainpuri.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2760,
+            "topography": "Flat central Doab plains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1868529,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 881 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 75.99%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Ruled by Chauhan Rajputs historically",
+            "economic_evolution": "Agriculture, tobacco trading, arts",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Mathura": {
+        "district": "Mathura",
+        "division": "Agra",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (mathura.nic.in)",
+        "geography": {
+            "land_area_sq_km": 3340,
+            "topography": "Yamuna right bank plains and hillocks",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 2547184,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 863 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 70.36%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Birthplace of Lord Krishna, ancient art school",
+            "economic_evolution": "Religious tourism, oil refinery cluster",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Mau": {
+        "district": "Mau",
+        "division": "Azamgarh",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (mau.nic.in)",
+        "geography": {
+            "land_area_sq_km": 1713,
+            "topography": "Ghaghra southern floodplains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 2205968,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 973 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 73.09%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Industrial town elevated in 1988",
+            "economic_evolution": "Powerloom textile hub, saree weaving",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Meerut": {
+        "district": "Meerut",
+        "division": "Meerut",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (meerut.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2568,
+            "topography": "Upper Doab alluvial plain",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 3443689,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 886 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 72.84%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Starting node of 1857 Sepoy Mutiny",
+            "economic_evolution": "Sports goods manufacturing, musical instruments",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Mirzapur": {
+        "district": "Mirzapur",
+        "division": "Mirzapur",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (mirzapur.nic.in)",
+        "geography": {
+            "land_area_sq_km": 4405,
+            "topography": "Vindhyan hills meeting Ganges plain",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 2496970,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 903 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 68.48%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "British river trade port, Vindhyavasini shrine",
+            "economic_evolution": "Brassware, handmade rugs, sandstone quarrying",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Moradabad": {
+        "district": "Moradabad",
+        "division": "Moradabad",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (moradabad.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2233,
+            "topography": "Ramganga river plain matrix",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 4772006,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 906 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 56.77%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Founded by Governor Rustam Khan in 1625",
+            "economic_evolution": "Brassware export capital (Pital Nagri)",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Muzaffarnagar": {
+        "district": "Muzaffarnagar",
+        "division": "Saharanpur",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (muzaffarnagar.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2834,
+            "topography": "Ganges-Yamuna upper Doab tract",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 4143565,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 889 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 69.12%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Mughal era estate under Sayyid brothers",
+            "economic_evolution": "Sugar bowl of Western UP, steel rolling mills",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Pilibhit": {
+        "district": "Pilibhit",
+        "division": "Bareilly",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (pilibhit.nic.in)",
+        "geography": {
+            "land_area_sq_km": 3686,
+            "topography": "Terai-alluvial forest intersection",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 2031007,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 895 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 61.47%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Part of Rohilkhand, historic wood flute hub",
+            "economic_evolution": "Pilibhit Tiger Reserve, sugarcane, Flute craft",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Pratapgarh": {
+        "district": "Pratapgarh",
+        "division": "Prayagraj",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (pratapgarh.nic.in)",
+        "geography": {
+            "land_area_sq_km": 3717,
+            "topography": "Sai river plain matrix",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 3209141,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 998 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 70.09%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Named after King Pratap Singh (1600s)",
+            "economic_evolution": "Aonla (Indian Gooseberry) cultivation and processing",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Rae Bareli": {
+        "district": "Rae Bareli",
+        "division": "Lucknow",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (raebareli.nic.in)",
+        "geography": {
+            "land_area_sq_km": 4609,
+            "topography": "Sai-Ganges plain tract",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 3405559,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 943 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 67.25%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Stronghold of historic fort lords, modern political focus",
+            "economic_evolution": "Rail coach factory, textile and manufacturing units",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Rampur": {
+        "district": "Rampur",
+        "division": "Moradabad",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (rampur.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2367,
+            "topography": "Kosi and Ramganga river plains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 2335819,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 909 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 53.34%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "First formal Rohilla Pathan princely state",
+            "economic_evolution": "Knife craft, kite making, mentha processing",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Saharanpur": {
+        "district": "Saharanpur",
+        "division": "Saharanpur",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (saharanpur.nic.in)",
+        "geography": {
+            "land_area_sq_km": 3689,
+            "topography": "Shivalik foothills gradient plains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 3466382,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 890 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 60.49%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Founded during Delhi Sultanate era",
+            "economic_evolution": "Wood carving handicrafts cluster, paper mills",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Sambhal": {
+        "district": "Sambhal",
+        "division": "Moradabad",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (sambhal.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2453,
+            "topography": "Ganges lower catchments",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 2195906,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 891 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 55.38%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Historic capital node under Babur",
+            "economic_evolution": "Bone handicrafts, mint oil processing",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Sant Kabir Nagar": {
+        "district": "Sant Kabir Nagar",
+        "division": "Basti",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (santkabirnagar.nic.in)",
+        "geography": {
+            "land_area_sq_km": 1646,
+            "topography": "Ami river basin plains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1715378,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 972 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 66.72%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Maghar, the liberation site of Sant Kabir",
+            "economic_evolution": "Handloom weaving, brass utensil works",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Shahjahanpur": {
+        "district": "Shahjahanpur",
+        "division": "Bareilly",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (shahjahanpur.nic.in)",
+        "geography": {
+            "land_area_sq_km": 4575,
+            "topography": "Garra and Ramganga river tracts",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 3006538,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 872 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 59.54%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Founded by Shah Jahan's commanders in 1647",
+            "economic_evolution": "Ordnance clothing factory, agriculture",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Shamli": {
+        "district": "Shamli",
+        "division": "Saharanpur",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (shamli.nic.in)",
+        "geography": {
+            "land_area_sq_km": 1063,
+            "topography": "Upper Doab plain border",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1276562,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 872 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 69.2%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Carved from Muzaffarnagar recently",
+            "economic_evolution": "Sugar mills, iron casting foundries",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Shravasti": {
+        "district": "Shravasti",
+        "division": "Devipatan",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (shravasti.nic.in)",
+        "geography": {
+            "land_area_sq_km": 1640,
+            "topography": "Rapti river plain loops",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1117361,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 881 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 46.74%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Ancient capital of Kosala, Jetavana monastery",
+            "economic_evolution": "International Buddhist pilgrim node, low literacy baseline",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Siddharthnagar": {
+        "district": "Siddharthnagar",
+        "division": "Basti",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (siddharthnagar.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2895,
+            "topography": "Trans-Rapti plain systems",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 2559297,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 976 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 59.25%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Piprahwa archaeological site (Kapilavastu capital)",
+            "economic_evolution": "Kalanamak rice cultivation, eco-tourism",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Sitapur": {
+        "district": "Sitapur",
+        "division": "Lucknow",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (sitapur.nic.in)",
+        "geography": {
+            "land_area_sq_km": 5743,
+            "topography": "Gayan and Gomti plains",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 4483992,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 888 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 61.12%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Naimisharanya ancient Vedic learning seat",
+            "economic_evolution": "Sugar mills, durry (rug) weaving",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Sonbhadra": {
+        "district": "Sonbhadra",
+        "division": "Mirzapur",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (sonbhadra.nic.in)",
+        "geography": {
+            "land_area_sq_km": 6788,
+            "topography": "Vindhyan rugged mineral plateau",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 1862559,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 918 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 64.03%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Historic tribal principalities enclave",
+            "economic_evolution": "Energy Capital of India, mining, power generation",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Sultanpur": {
+        "district": "Sultanpur",
+        "division": "Ayodhya",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (sultanpur.nic.in)",
+        "geography": {
+            "land_area_sq_km": 2673,
+            "topography": "Gomti river plain loops",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 2249036,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 983 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 69.27%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Historically known as Kusapura (founded by Kusha)",
+            "economic_evolution": "Agrarian trade, localized manufacturing hubs",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Unnao": {
+        "district": "Unnao",
+        "division": "Kanpur",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (unnao.nic.in)",
+        "geography": {
+            "land_area_sq_km": 4558,
+            "topography": "Ganges-Gomti plain tracks",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 3108367,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 907 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 66.37%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Evolved during Awadh and British annexures",
+            "economic_evolution": "Leather processing clusters, industrial park",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    },
+    "Varanasi": {
+        "district": "Varanasi",
+        "division": "Varanasi",
+        "metadata_source": "Census of India, Government of Uttar Pradesh Portals (varanasi.nic.in)",
+        "geography": {
+            "land_area_sq_km": 1535,
+            "topography": "Ganges natural crescent high bank",
+            "hydrography": "Primary local river networks draining into Ganges/Yamuna systems",
+            "climate": "Humid Subtropical to Tropical Dry Continental",
+            "natural_resources": "Fertile alluvial deposits, local mineral / forest reserves",
+            "built_environment": "District headquarters urban center flanked by intensive rural village clusters"
+        },
+        "demography": {
+            "population_2011": 3676841,
+            "population_dynamics": "Steady decadal growth with regional out-migration trends",
+            "age_gender_distribution": "Sex Ratio: 913 females per 1000 males",
+            "socioeconomic_indicators": "Predominantly agrarian base with emerging micro-industrial pockets",
+            "education_labor": "Literacy Rate: 75.6%, primary labor distribution in agriculture and allied trade crafts",
+            "cultural_makeup": "Composite culture; Hindi, Urdu, and local dialects (Bhojpuri, Awadhi, Brajbhasha)",
+            "housing_metrics": "High rural household aggregation with high-density urban wards"
+        },
+        "history": {
+            "foundation_settlement": "Oldest continuously inhabited city, Kashi Vishwanath",
+            "economic_evolution": "Religious tourism, Banarasi Silk sarees, cultural heart",
+            "geopolitical_shifts": "Reorganized under post-independence state administrative demarcations",
+            "cultural_heritage": "Local heritage sites, historic temples, shrines, and indigenous craft traditions",
+            "developmental_milestones": "Integration into state highway network grids and rural electrification frameworks"
+        }
+    }
+}

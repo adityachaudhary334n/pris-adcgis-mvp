@@ -1,0 +1,5966 @@
+{
+ "crs": "EPSG:4326",
+ "state": "Uttar Pradesh",
+ "summary": {
+  "districts": 75,
+  "blocks": 830,
+  "villages": 101533
+ },
+ "districts": [
+  {
+   "id": "a1000000-0000-4000-8000-000000000003",
+   "lgd": 118,
+   "name": "Agra",
+   "bbox": [
+    77.39787,
+    26.74187,
+    78.85325,
+    27.40832
+   ],
+   "blocks": [
+    {
+     "id": "c3f58310-4c1a-5e6c-9f69-0e391c5f4003",
+     "lgd": 803,
+     "name": "Achhnera",
+     "villages": 80
+    },
+    {
+     "id": "08ad2aef-52ec-5ea4-a506-0306d3a856bd",
+     "lgd": 804,
+     "name": "Akola",
+     "villages": 38
+    },
+    {
+     "id": "a704fcd2-09d9-57d3-a3c8-7a22878020d1",
+     "lgd": 805,
+     "name": "Bah",
+     "villages": 113
+    },
+    {
+     "id": "9aad9574-51ba-593c-8ac4-d89f54e6de13",
+     "lgd": 806,
+     "name": "Barauli Ahir",
+     "villages": 65
+    },
+    {
+     "id": "4b04d5ea-9efa-52a2-827f-28b78038133a",
+     "lgd": 807,
+     "name": "Bichpuri",
+     "villages": 54
+    },
+    {
+     "id": "5de23392-cda6-548f-820c-6d35a730ed13",
+     "lgd": 808,
+     "name": "Etmadpur",
+     "villages": 63
+    },
+    {
+     "id": "0663504c-e475-5dff-a16c-73f121d3bbbd",
+     "lgd": 809,
+     "name": "Fatehabad",
+     "villages": 142
+    },
+    {
+     "id": "48de62bd-c3ed-5ff0-a156-6822dacafd53",
+     "lgd": 810,
+     "name": "Fatehpur Sikri",
+     "villages": 76
+    },
+    {
+     "id": "a3be4973-faab-52fe-af90-c5c635d71151",
+     "lgd": 811,
+     "name": "Jagner",
+     "villages": 53
+    },
+    {
+     "id": "2d22fcb3-7f8e-566e-b19d-baaf6b732ff7",
+     "lgd": 812,
+     "name": "Jaitpur Kalan",
+     "villages": 117
+    },
+    {
+     "id": "933653a4-1871-547f-adc2-773c5c0389bb",
+     "lgd": 813,
+     "name": "Khandauli",
+     "villages": 46
+    },
+    {
+     "id": "f626c54f-27dc-5c50-bbfa-be113b469a47",
+     "lgd": 814,
+     "name": "Kheragarh",
+     "villages": 49
+    },
+    {
+     "id": "86c01232-bead-53c1-a8b9-424dccda4b31",
+     "lgd": 815,
+     "name": "Pinahat",
+     "villages": 75
+    },
+    {
+     "id": "52745e7f-deda-5e6a-b5ec-49d898cec91f",
+     "lgd": 816,
+     "name": "Saiyan",
+     "villages": 56
+    },
+    {
+     "id": "80addab5-8f58-5550-8f66-596bf8dfac65",
+     "lgd": 817,
+     "name": "Shamsabad",
+     "villages": 71
+    }
+   ]
+  },
+  {
+   "id": "28cd4ee9-4d30-590c-b47e-8a9cb4fd0e94",
+   "lgd": 119,
+   "name": "Aligarh",
+   "bbox": [
+    77.47561,
+    27.57172,
+    78.60772,
+    28.17972
+   ],
+   "blocks": [
+    {
+     "id": "841ae854-dc86-59d0-a03e-593d03cad1df",
+     "lgd": 818,
+     "name": "Akrabad",
+     "villages": 93
+    },
+    {
+     "id": "72556f0b-b862-5d12-b55d-3f2c376af89a",
+     "lgd": 819,
+     "name": "Atrauli",
+     "villages": 110
+    },
+    {
+     "id": "d2f77a46-a20e-5000-ba62-72bc9d987419",
+     "lgd": 820,
+     "name": "Bijauli",
+     "villages": 99
+    },
+    {
+     "id": "f65568bf-e5a5-5121-a2a7-a68c4a062b3b",
+     "lgd": 821,
+     "name": "Chandaus",
+     "villages": 100
+    },
+    {
+     "id": "3029eb92-710b-5006-999e-dbf2c9c03909",
+     "lgd": 822,
+     "name": "Dhanipur",
+     "villages": 99
+    },
+    {
+     "id": "28ca24c7-e440-5a14-92bf-2b631214c405",
+     "lgd": 823,
+     "name": "Gangiri",
+     "villages": 96
+    },
+    {
+     "id": "575e5f39-fa9c-550f-b599-e78791ac4b1f",
+     "lgd": 824,
+     "name": "Gonda",
+     "villages": 74
+    },
+    {
+     "id": "1234be92-7637-5192-980f-ee44e93c8bd4",
+     "lgd": 825,
+     "name": "Iglas",
+     "villages": 100
+    },
+    {
+     "id": "78cda82b-a76a-515e-96ce-8852544455ee",
+     "lgd": 826,
+     "name": "Jawan Sikanderpur",
+     "villages": 103
+    },
+    {
+     "id": "c6ffe986-13e3-543b-b6d9-71c10f2f09c1",
+     "lgd": 827,
+     "name": "Khair",
+     "villages": 87
+    },
+    {
+     "id": "2aedc97d-931b-5882-812f-3df767cf28e7",
+     "lgd": 828,
+     "name": "Lodha",
+     "villages": 144
+    },
+    {
+     "id": "32394632-69f1-5730-a216-82e84b397d50",
+     "lgd": 829,
+     "name": "Tappal",
+     "villages": 93
+    }
+   ]
+  },
+  {
+   "id": "492fbef7-826b-56c0-9ab4-9db975683d51",
+   "lgd": 120,
+   "name": "Prayagraj",
+   "bbox": [
+    81.51702,
+    24.80461,
+    82.35232,
+    25.75379
+   ],
+   "blocks": [
+    {
+     "id": "17002cb5-893b-5755-bd5f-e7103a435f4a",
+     "lgd": 830,
+     "name": "Bahadurpur",
+     "villages": 182
+    },
+    {
+     "id": "d768f951-f1a9-5dd0-926f-9b2c932cc6c0",
+     "lgd": 831,
+     "name": "Bahria",
+     "villages": 130
+    },
+    {
+     "id": "3cb09ceb-91c3-5895-bd7b-08a09911fbb5",
+     "lgd": 832,
+     "name": "Chaka",
+     "villages": 92
+    },
+    {
+     "id": "bb9069ec-99a0-52a0-a93c-90fe2cd80a36",
+     "lgd": 833,
+     "name": "Dhanupur",
+     "villages": 198
+    },
+    {
+     "id": "381cfc47-044e-546d-a340-a0a510b4e471",
+     "lgd": 834,
+     "name": "Handia",
+     "villages": 136
+    },
+    {
+     "id": "68c90f70-4996-5c14-9c72-4bda5701d4f0",
+     "lgd": 835,
+     "name": "Holagarh",
+     "villages": 75
+    },
+    {
+     "id": "7ec07324-56b6-58f8-b39a-74266ef0f2ac",
+     "lgd": 836,
+     "name": "Jasra",
+     "villages": 111
+    },
+    {
+     "id": "efd0898f-2529-5915-ba42-86b61efbb8b0",
+     "lgd": 837,
+     "name": "Karchhana",
+     "villages": 138
+    },
+    {
+     "id": "ab74d029-d93a-5351-9676-b617c506de76",
+     "lgd": 838,
+     "name": "Kaudhiyara",
+     "villages": 82
+    },
+    {
+     "id": "b2259479-e8cb-520f-b041-4a8ea0b68081",
+     "lgd": 839,
+     "name": "Kaurihar",
+     "villages": 186
+    },
+    {
+     "id": "81b78810-6d97-5733-b645-9fb910ce8a72",
+     "lgd": 840,
+     "name": "Koraon",
+     "villages": 197
+    },
+    {
+     "id": "c469aade-4618-5076-837b-0adbe6579bfc",
+     "lgd": 841,
+     "name": "Manda",
+     "villages": 186
+    },
+    {
+     "id": "893e9598-499c-5af1-89b4-a8e543db75f5",
+     "lgd": 842,
+     "name": "Mauaima",
+     "villages": 89
+    },
+    {
+     "id": "1bf19764-c333-5f11-b96e-8c3c0cbd90df",
+     "lgd": 843,
+     "name": "Meja",
+     "villages": 157
+    },
+    {
+     "id": "fbb2708f-0b05-5a81-8016-30c0c53585f1",
+     "lgd": 844,
+     "name": "Phulpur",
+     "villages": 109
+    },
+    {
+     "id": "65622ed8-26b2-594e-8e2d-ef4ab2513aa6",
+     "lgd": 845,
+     "name": "Pratappur",
+     "villages": 130
+    },
+    {
+     "id": "4a776f85-a8e6-5597-a474-f6e6ab97971b",
+     "lgd": 846,
+     "name": "Saidabad",
+     "villages": 155
+    },
+    {
+     "id": "61a264b8-6f0f-549e-9984-2009845d18d3",
+     "lgd": 847,
+     "name": "Shankargarh",
+     "villages": 201
+    },
+    {
+     "id": "f4a0964c-76cf-5681-aad9-8984172b80a3",
+     "lgd": 848,
+     "name": "Soraon",
+     "villages": 111
+    },
+    {
+     "id": "4937797e-9255-5389-ac27-0eca686405c4",
+     "lgd": 849,
+     "name": "Uruwan",
+     "villages": 98
+    },
+    {
+     "id": "07b0bc9e-1bcc-5270-9d5f-d675f37ac089",
+     "lgd": 7359,
+     "name": "Bhagwatpur",
+     "villages": 111
+    },
+    {
+     "id": "c1c016f0-ab57-5003-b490-821ad793705b",
+     "lgd": 7360,
+     "name": "Sahson",
+     "villages": 103
+    },
+    {
+     "id": "e59b4013-6cea-5d6a-abe6-635b1eea325d",
+     "lgd": 7361,
+     "name": "Sringverpur Dham",
+     "villages": 16
+    }
+   ]
+  },
+  {
+   "id": "bb4c0671-6cca-5258-96cb-e190e5b81354",
+   "lgd": 121,
+   "name": "Ambedkar Nagar",
+   "bbox": [
+    82.22001,
+    26.15664,
+    83.13217,
+    26.65252
+   ],
+   "blocks": [
+    {
+     "id": "81846b91-be82-5ed9-b5c0-b219887ca9e4",
+     "lgd": 850,
+     "name": "Akbarpur",
+     "villages": 224
+    },
+    {
+     "id": "cf0af9cf-ed6b-5b5c-b3f7-61b427930fb5",
+     "lgd": 851,
+     "name": "Baskhari",
+     "villages": 119
+    },
+    {
+     "id": "395015d1-af46-521f-9e2d-125b2e70eac3",
+     "lgd": 852,
+     "name": "Bhiti",
+     "villages": 162
+    },
+    {
+     "id": "853d0caa-1d39-5d7b-ac7c-7d27417fd03e",
+     "lgd": 853,
+     "name": "Bhiyawan",
+     "villages": 140
+    },
+    {
+     "id": "0ff6a403-70c4-5dae-9f08-ca0e5a2b1006",
+     "lgd": 854,
+     "name": "Jahangir Ganj",
+     "villages": 239
+    },
+    {
+     "id": "f983de27-ba4b-566a-b711-f1764ce5a5c2",
+     "lgd": 855,
+     "name": "Jalal Pur",
+     "villages": 169
+    },
+    {
+     "id": "b039848d-571c-5af1-8b62-d7f5bcf436af",
+     "lgd": 856,
+     "name": "Katehari",
+     "villages": 171
+    },
+    {
+     "id": "390b1509-6f54-5642-9055-11069097d9e3",
+     "lgd": 857,
+     "name": "Ram Nagar",
+     "villages": 183
+    },
+    {
+     "id": "665a73e7-12c4-577a-9ad2-fa84a27e282f",
+     "lgd": 858,
+     "name": "Tanda",
+     "villages": 242
+    }
+   ]
+  },
+  {
+   "id": "aa18ab01-a233-5020-813e-84448f6b58b5",
+   "lgd": 122,
+   "name": "Auraiya",
+   "bbox": [
+    79.20526,
+    26.36424,
+    79.75686,
+    26.94738
+   ],
+   "blocks": [
+    {
+     "id": "73ec4d0a-7199-512b-8b41-047fe9a6699d",
+     "lgd": 859,
+     "name": "Achchalda",
+     "villages": 119
+    },
+    {
+     "id": "606593dd-d088-5044-981b-fe0f9f7dc681",
+     "lgd": 860,
+     "name": "Ajitmal",
+     "villages": 124
+    },
+    {
+     "id": "25373053-da0d-5931-940d-736e386707fd",
+     "lgd": 861,
+     "name": "Auraiya",
+     "villages": 172
+    },
+    {
+     "id": "4e841c2e-b5e0-5ad7-9602-32eeb973240f",
+     "lgd": 862,
+     "name": "Bhagyanagar",
+     "villages": 128
+    },
+    {
+     "id": "023b2f91-8fdb-5e0d-9576-360e759c15de",
+     "lgd": 863,
+     "name": "Bidhuna",
+     "villages": 108
+    },
+    {
+     "id": "e1b79953-6b5f-5a4c-8048-17bcaed2d635",
+     "lgd": 864,
+     "name": "Erwa Katra",
+     "villages": 98
+    },
+    {
+     "id": "e6069284-b133-54cf-b4bf-544bcd986e78",
+     "lgd": 865,
+     "name": "Sahar",
+     "villages": 97
+    }
+   ]
+  },
+  {
+   "id": "a059109d-0893-5696-b59b-ceb9709d27d8",
+   "lgd": 123,
+   "name": "Azamgarh",
+   "bbox": [
+    82.66526,
+    25.63594,
+    83.46829,
+    26.41168
+   ],
+   "blocks": [
+    {
+     "id": "a005cd22-7cd4-5b3c-83ca-08b74be4059e",
+     "lgd": 866,
+     "name": "Ahiraula",
+     "villages": 222
+    },
+    {
+     "id": "d1c60df5-caa2-5efb-94e8-61d3203c2912",
+     "lgd": 867,
+     "name": "Atraulia",
+     "villages": 166
+    },
+    {
+     "id": "925cd8c6-78a0-5c1f-b9fd-997ec330b21b",
+     "lgd": 868,
+     "name": "Azmatgarh",
+     "villages": 215
+    },
+    {
+     "id": "bafa93bd-f230-59ec-8a4a-f990c2ee1d94",
+     "lgd": 869,
+     "name": "Bilariyaganj",
+     "villages": 218
+    },
+    {
+     "id": "3c73ff68-9aaf-5542-a6ca-33fb52f07983",
+     "lgd": 870,
+     "name": "Haraiya",
+     "villages": 164
+    },
+    {
+     "id": "d2f1b7b9-1210-5efa-9050-9d09bb62791b",
+     "lgd": 871,
+     "name": "Jahanaganj",
+     "villages": 205
+    },
+    {
+     "id": "59378d0d-681b-51b3-9d5c-505e71dc1220",
+     "lgd": 872,
+     "name": "Koilsa",
+     "villages": 160
+    },
+    {
+     "id": "92379593-cd4d-5e59-af8c-594adbd66995",
+     "lgd": 873,
+     "name": "Lalganj",
+     "villages": 182
+    },
+    {
+     "id": "808620ac-2e38-5294-b7bd-9afca113d165",
+     "lgd": 874,
+     "name": "Mahrajganj",
+     "villages": 225
+    },
+    {
+     "id": "6b2dc764-8acf-5a6d-89b4-4033e73fbf02",
+     "lgd": 875,
+     "name": "Martinganj",
+     "villages": 102
+    },
+    {
+     "id": "756e484e-6b6d-5fe9-bea3-56da32ea5bf5",
+     "lgd": 876,
+     "name": "Mehnagar",
+     "villages": 154
+    },
+    {
+     "id": "2eba2c0a-6741-5292-be12-f77aa8a16157",
+     "lgd": 877,
+     "name": "Mirzapur",
+     "villages": 147
+    },
+    {
+     "id": "756c298c-a432-5776-a8f9-783f1c16d8ce",
+     "lgd": 878,
+     "name": "Mohammadpur",
+     "villages": 134
+    },
+    {
+     "id": "4f5f9c25-35e5-5a89-9737-7262ea12c097",
+     "lgd": 879,
+     "name": "Palhana",
+     "villages": 87
+    },
+    {
+     "id": "65ebb9bb-0769-541d-af8d-3fc85851f3a0",
+     "lgd": 880,
+     "name": "Palhani",
+     "villages": 178
+    },
+    {
+     "id": "580a401a-bba7-5cd8-88b5-0a59befe7951",
+     "lgd": 881,
+     "name": "Pawai",
+     "villages": 181
+    },
+    {
+     "id": "5944fff6-637b-5400-99d4-89ad967cc62b",
+     "lgd": 882,
+     "name": "Phulpur",
+     "villages": 183
+    },
+    {
+     "id": "01ed78dc-e9ce-5cee-b716-a3421f8c9c06",
+     "lgd": 883,
+     "name": "Rani Ki Sarai",
+     "villages": 199
+    },
+    {
+     "id": "233d153e-5642-5b51-8d91-e9f298918694",
+     "lgd": 884,
+     "name": "Sathiyaon",
+     "villages": 140
+    },
+    {
+     "id": "6050ff09-d029-55e0-bad2-d1c2161503df",
+     "lgd": 885,
+     "name": "Tahbarpur",
+     "villages": 184
+    },
+    {
+     "id": "b272a934-b47e-57a8-a02e-dc55a7a3741c",
+     "lgd": 886,
+     "name": "Tarwa",
+     "villages": 216
+    },
+    {
+     "id": "b2a5b851-6f43-5fa3-904d-554d59144913",
+     "lgd": 887,
+     "name": "Thekma",
+     "villages": 152
+    }
+   ]
+  },
+  {
+   "id": "45e55f20-4e50-5ccd-a076-f7b46488015a",
+   "lgd": 124,
+   "name": "Baghpat",
+   "bbox": [
+    77.13192,
+    28.77664,
+    77.5045,
+    29.29815
+   ],
+   "blocks": [
+    {
+     "id": "bc9bc351-531e-5686-b611-f8ddf98ffb68",
+     "lgd": 888,
+     "name": "Baghpat",
+     "villages": 56
+    },
+    {
+     "id": "ce6da4ed-e8c6-527d-a3ac-c811ea68a0e0",
+     "lgd": 889,
+     "name": "Baraut",
+     "villages": 58
+    },
+    {
+     "id": "b3949f7c-ef62-56dc-8cc1-815e0be9faf6",
+     "lgd": 890,
+     "name": "Binauli",
+     "villages": 62
+    },
+    {
+     "id": "56aa8544-cd54-5cca-95e3-9032c51c567b",
+     "lgd": 891,
+     "name": "Chhaprauli",
+     "villages": 30
+    },
+    {
+     "id": "11076172-606e-5c8e-aa84-5405e5c34903",
+     "lgd": 892,
+     "name": "Khekra",
+     "villages": 54
+    },
+    {
+     "id": "445e6d91-3bb7-5eb1-9d02-f8e7e2b0f95a",
+     "lgd": 893,
+     "name": "Pilana",
+     "villages": 59
+    }
+   ]
+  },
+  {
+   "id": "7a2cb2bf-df04-5e65-85a1-17ea5a263e27",
+   "lgd": 125,
+   "name": "Bahraich",
+   "bbox": [
+    81.03857,
+    27.05905,
+    81.99028,
+    28.40386
+   ],
+   "blocks": [
+    {
+     "id": "1d459bd7-b4c9-5219-aa03-260c006edd87",
+     "lgd": 894,
+     "name": "Balaha",
+     "villages": 70
+    },
+    {
+     "id": "8c1ac19a-a23f-51c5-8b2a-4be29a3e623c",
+     "lgd": 895,
+     "name": "Chitaura",
+     "villages": 135
+    },
+    {
+     "id": "a1a7c3aa-68fb-558f-bc23-c3d54cb42a34",
+     "lgd": 896,
+     "name": "Huzoorpur",
+     "villages": 111
+    },
+    {
+     "id": "dd790025-a56c-5791-9a49-5a9127888d46",
+     "lgd": 897,
+     "name": "Jarwal",
+     "villages": 116
+    },
+    {
+     "id": "e5f77d59-8c6f-57a3-8a7f-41795322b8fe",
+     "lgd": 898,
+     "name": "Kaisarganj",
+     "villages": 112
+    },
+    {
+     "id": "f6f44c44-c4ad-59f9-a180-629e64192d4b",
+     "lgd": 899,
+     "name": "Mahasi",
+     "villages": 98
+    },
+    {
+     "id": "6cd7a3cb-43a0-5ae0-bdd7-90fcba281a2f",
+     "lgd": 900,
+     "name": "Mihinpurwa",
+     "villages": 114
+    },
+    {
+     "id": "3c2c2a68-2057-5686-a37a-5bfdf7ffc198",
+     "lgd": 901,
+     "name": "Nawabganj",
+     "villages": 91
+    },
+    {
+     "id": "b6fa1b95-501f-5aff-9311-7983652caeb8",
+     "lgd": 902,
+     "name": "Phakharpur",
+     "villages": 118
+    },
+    {
+     "id": "9d0cf3c6-4d4c-5231-b447-166569124c33",
+     "lgd": 903,
+     "name": "Payagpur",
+     "villages": 89
+    },
+    {
+     "id": "f59d0fdb-e3f7-5e3f-8461-c9d3647d7e42",
+     "lgd": 904,
+     "name": "Risia",
+     "villages": 87
+    },
+    {
+     "id": "e0ff0fba-d720-504a-8c94-6bdfbf8908ef",
+     "lgd": 905,
+     "name": "Shivpur",
+     "villages": 73
+    },
+    {
+     "id": "1db3a7e6-00e1-5635-afea-66c3e5b5b368",
+     "lgd": 906,
+     "name": "Tejwapur",
+     "villages": 87
+    },
+    {
+     "id": "230a03d4-47ea-5a3b-bdc8-7be752a76f79",
+     "lgd": 907,
+     "name": "Visheshwarganj",
+     "villages": 77
+    }
+   ]
+  },
+  {
+   "id": "45fa818f-142b-5511-9d15-f5cbb849e4bf",
+   "lgd": 126,
+   "name": "Ballia",
+   "bbox": [
+    83.67597,
+    25.55748,
+    84.6346,
+    26.19168
+   ],
+   "blocks": [
+    {
+     "id": "f8f0d86f-a5df-5f10-9148-97da9981c415",
+     "lgd": 908,
+     "name": "Bairia",
+     "villages": 55
+    },
+    {
+     "id": "0c1a7b77-04c6-5334-8a4a-c8551acbc503",
+     "lgd": 909,
+     "name": "Bansdih",
+     "villages": 101
+    },
+    {
+     "id": "601c7d97-f5c9-5a73-ac83-3222e292c748",
+     "lgd": 910,
+     "name": "Belhari",
+     "villages": 58
+    },
+    {
+     "id": "f038d680-8a10-5f6e-adc4-69bf90852935",
+     "lgd": 911,
+     "name": "Beruarbari",
+     "villages": 57
+    },
+    {
+     "id": "347b1a26-e87b-58e8-b1a9-f02fddab04fb",
+     "lgd": 912,
+     "name": "Chilkahar",
+     "villages": 141
+    },
+    {
+     "id": "31a3594d-6499-5b5f-a0ba-2b88fc6f5fa2",
+     "lgd": 913,
+     "name": "Dubhar",
+     "villages": 107
+    },
+    {
+     "id": "ccdc10b0-7c65-5d4d-8b0e-ba6c184c8428",
+     "lgd": 914,
+     "name": "Garwar",
+     "villages": 112
+    },
+    {
+     "id": "4b391175-4e91-5453-8fd8-2270d2f7b01e",
+     "lgd": 915,
+     "name": "Hanumanganj",
+     "villages": 76
+    },
+    {
+     "id": "012678a2-1c6e-51d1-959d-215b6535e406",
+     "lgd": 916,
+     "name": "Maniar",
+     "villages": 77
+    },
+    {
+     "id": "6b87b9dd-700f-5537-b9fe-5cd12d33199d",
+     "lgd": 917,
+     "name": "Murlichhapra",
+     "villages": 46
+    },
+    {
+     "id": "8b9857f3-8946-51b5-88b7-38b7c3333ca3",
+     "lgd": 918,
+     "name": "Nagra",
+     "villages": 159
+    },
+    {
+     "id": "dcfc6cc8-134a-59de-b9b8-ab9b91d25ceb",
+     "lgd": 919,
+     "name": "Navanagar",
+     "villages": 83
+    },
+    {
+     "id": "b3c93fe0-3eda-5b93-91f1-211f7374b610",
+     "lgd": 920,
+     "name": "Pandah",
+     "villages": 77
+    },
+    {
+     "id": "e4ef1e2f-dee6-5b11-8eae-d6a2d586312e",
+     "lgd": 921,
+     "name": "Rasra",
+     "villages": 159
+    },
+    {
+     "id": "1c945903-140c-5ec0-81d8-26b5f1f58554",
+     "lgd": 922,
+     "name": "Reoti",
+     "villages": 90
+    },
+    {
+     "id": "9fd5a628-fbae-553c-85b2-7bc686719ec6",
+     "lgd": 923,
+     "name": "Siar",
+     "villages": 129
+    },
+    {
+     "id": "a1b3d614-2d45-5fe1-9d69-d04b15a921a6",
+     "lgd": 924,
+     "name": "Sohanv",
+     "villages": 171
+    }
+   ]
+  },
+  {
+   "id": "a2bdae9a-550a-50ed-a0bc-a4725ab5de1b",
+   "lgd": 127,
+   "name": "Balrampur",
+   "bbox": [
+    82.02166,
+    27.05172,
+    82.76466,
+    27.8431
+   ],
+   "blocks": [
+    {
+     "id": "ee6d4b06-92c0-5e3b-8e94-2952c42e7aae",
+     "lgd": 925,
+     "name": "Balrampur",
+     "villages": 136
+    },
+    {
+     "id": "9cb94efe-5b43-5673-8e3c-c24bff959a4e",
+     "lgd": 926,
+     "name": "Gaindas Bujurg",
+     "villages": 56
+    },
+    {
+     "id": "de25352f-c710-548a-ab31-4f2a42ffbcfa",
+     "lgd": 927,
+     "name": "Gaisri",
+     "villages": 130
+    },
+    {
+     "id": "41f7157e-7a96-50a5-9179-a436c629e242",
+     "lgd": 928,
+     "name": "Harriya Satgharwa",
+     "villages": 134
+    },
+    {
+     "id": "300eb4b0-237a-599b-a542-fa19c1ee3b5a",
+     "lgd": 929,
+     "name": "Pachpedwa",
+     "villages": 140
+    },
+    {
+     "id": "d3647637-e624-54f5-bada-a83974777314",
+     "lgd": 930,
+     "name": "Rehera Bazaar",
+     "villages": 99
+    },
+    {
+     "id": "2aee3955-758e-5785-b76e-095040e08494",
+     "lgd": 931,
+     "name": "Shriduttganj",
+     "villages": 97
+    },
+    {
+     "id": "ea9da09c-1786-54ff-a76a-d3fd99731f99",
+     "lgd": 932,
+     "name": "Tulsipur",
+     "villages": 114
+    },
+    {
+     "id": "542997e0-8485-5b87-80aa-0fb9256fdcf9",
+     "lgd": 933,
+     "name": "Utraula",
+     "villages": 111
+    }
+   ]
+  },
+  {
+   "id": "07dc5fee-f383-5d22-bc44-700f41b5c295",
+   "lgd": 128,
+   "name": "Banda",
+   "bbox": [
+    80.10408,
+    24.97574,
+    81.03636,
+    25.91369
+   ],
+   "blocks": [
+    {
+     "id": "bd1aa432-a3e8-5c09-bad9-443ad3d585c0",
+     "lgd": 934,
+     "name": "Baberu",
+     "villages": 81
+    },
+    {
+     "id": "c5b6351b-dea9-5a13-acf8-6afa7912c7f8",
+     "lgd": 935,
+     "name": "Badokhar Khurd",
+     "villages": 72
+    },
+    {
+     "id": "2e8a9ac5-8e34-54e2-9208-0659283b38d3",
+     "lgd": 936,
+     "name": "Bisanda",
+     "villages": 56
+    },
+    {
+     "id": "f8dacd8c-e4e7-5a77-a520-2a04dc8dbf69",
+     "lgd": 937,
+     "name": "Jaspura",
+     "villages": 44
+    },
+    {
+     "id": "157ea877-866d-5639-9cc0-9293d3cbf59f",
+     "lgd": 938,
+     "name": "Kamasin",
+     "villages": 69
+    },
+    {
+     "id": "258d7366-cf46-52eb-85cb-2008343c8896",
+     "lgd": 939,
+     "name": "Mahuva",
+     "villages": 117
+    },
+    {
+     "id": "bae09212-de3b-5d9c-b4db-cc905d5ca9d5",
+     "lgd": 940,
+     "name": "Naraini",
+     "villages": 137
+    },
+    {
+     "id": "b8e332e5-b679-5deb-a105-d02eb3363617",
+     "lgd": 941,
+     "name": "Tindwari",
+     "villages": 84
+    }
+   ]
+  },
+  {
+   "id": "dbf4fbcc-005d-5332-8ad3-1ca8756414b3",
+   "lgd": 129,
+   "name": "Barabanki",
+   "bbox": [
+    80.92486,
+    26.52533,
+    81.76115,
+    27.3593
+   ],
+   "blocks": [
+    {
+     "id": "e9295774-d30f-5d34-9f4d-f3080c6c11be",
+     "lgd": 942,
+     "name": "Bani Kodar",
+     "villages": 120
+    },
+    {
+     "id": "b9c92f9c-7689-5938-b7ac-fffca9fad647",
+     "lgd": 943,
+     "name": "Banki",
+     "villages": 78
+    },
+    {
+     "id": "7f03443f-4808-5abd-b8fb-714a0f1a1284",
+     "lgd": 944,
+     "name": "Dariyabad",
+     "villages": 112
+    },
+    {
+     "id": "5b7c136b-8520-5f17-9c7e-d6030445be2c",
+     "lgd": 945,
+     "name": "Dewa",
+     "villages": 121
+    },
+    {
+     "id": "f9379f1a-3c72-549f-8c26-683b71c64b27",
+     "lgd": 946,
+     "name": "Fatehpur",
+     "villages": 190
+    },
+    {
+     "id": "f61686b7-4839-5642-a5eb-831e2daf8fa4",
+     "lgd": 947,
+     "name": "Haidargarh",
+     "villages": 101
+    },
+    {
+     "id": "0c3df3bd-c861-5ed9-a733-ddcb399e32ab",
+     "lgd": 948,
+     "name": "Harakh",
+     "villages": 103
+    },
+    {
+     "id": "9e91f6b9-54a4-5798-a77c-3f9c8fa138fe",
+     "lgd": 949,
+     "name": "Masauli",
+     "villages": 70
+    },
+    {
+     "id": "8c1e4592-4c3c-543e-8d87-26aeca809736",
+     "lgd": 951,
+     "name": "Nindaura",
+     "villages": 134
+    },
+    {
+     "id": "d5c07dbb-71c4-5de3-ba2f-49f518a9f7bf",
+     "lgd": 952,
+     "name": "Puredalai",
+     "villages": 77
+    },
+    {
+     "id": "8c1829ea-c17c-5a30-9144-fce46b3f2426",
+     "lgd": 953,
+     "name": "Ramnagar",
+     "villages": 137
+    },
+    {
+     "id": "a37a982c-3486-5542-bc2d-cca86f92a3e3",
+     "lgd": 955,
+     "name": "Sidhaur",
+     "villages": 164
+    },
+    {
+     "id": "0dbdf1ff-0537-5bb1-b9b8-48472703cc17",
+     "lgd": 956,
+     "name": "Sirauli Gauspur",
+     "villages": 107
+    },
+    {
+     "id": "46901dcf-6ce3-596a-af88-1a143cef595d",
+     "lgd": 957,
+     "name": "Suratganj",
+     "villages": 181
+    },
+    {
+     "id": "0e59a120-5e88-527c-929c-17eebd15d4cc",
+     "lgd": 958,
+     "name": "Trivediganj",
+     "villages": 103
+    }
+   ]
+  },
+  {
+   "id": "9651a1e8-fc91-5107-92ff-48d831393b82",
+   "lgd": 130,
+   "name": "Bareilly",
+   "bbox": [
+    78.96968,
+    28.01535,
+    79.79132,
+    28.90119
+   ],
+   "blocks": [
+    {
+     "id": "41776740-6402-57fb-9411-d766d68a58fe",
+     "lgd": 959,
+     "name": "Aalampur Jafarabad",
+     "villages": 154
+    },
+    {
+     "id": "e2b6b859-5481-5c27-b6b1-6a4189100656",
+     "lgd": 960,
+     "name": "Baheri",
+     "villages": 213
+    },
+    {
+     "id": "571253e0-c705-59f6-aa43-86f17c2d095e",
+     "lgd": 961,
+     "name": "Bhadpura",
+     "villages": 142
+    },
+    {
+     "id": "630a1ef9-3047-58e7-bdc8-a6855c3dd34c",
+     "lgd": 962,
+     "name": "Bhojipura",
+     "villages": 105
+    },
+    {
+     "id": "a83add8e-6704-5479-ae30-d0decf2b921b",
+     "lgd": 963,
+     "name": "Bhuta",
+     "villages": 200
+    },
+    {
+     "id": "2d78d699-bdd0-5242-88ed-adb8138de2ae",
+     "lgd": 964,
+     "name": "Bithiri Chainpur",
+     "villages": 135
+    },
+    {
+     "id": "0426b8eb-e16a-577c-85e9-250a6c5d4513",
+     "lgd": 965,
+     "name": "Damkhauda",
+     "villages": 116
+    },
+    {
+     "id": "d49008d3-57f8-5658-b872-6e60e4b86ecc",
+     "lgd": 966,
+     "name": "Faridpur",
+     "villages": 164
+    },
+    {
+     "id": "becc10eb-990e-5e85-87e3-8ac1f0864eb9",
+     "lgd": 967,
+     "name": "Fatehganj West",
+     "villages": 109
+    },
+    {
+     "id": "5b33bd05-d98d-5b51-ba20-2e136a94cc89",
+     "lgd": 968,
+     "name": "Kyara",
+     "villages": 97
+    },
+    {
+     "id": "6b8a88ff-631d-5e5d-ae95-98529df501c6",
+     "lgd": 969,
+     "name": "Majhgawan",
+     "villages": 128
+    },
+    {
+     "id": "b9f1337e-2186-57f3-92b4-fc90e8688f15",
+     "lgd": 970,
+     "name": "Mirganj",
+     "villages": 100
+    },
+    {
+     "id": "a9bc6fc0-6127-5e03-9d69-70644c363763",
+     "lgd": 971,
+     "name": "Nawabganj",
+     "villages": 169
+    },
+    {
+     "id": "71d635fd-88d6-5aa5-af78-ab5c7a63e7d7",
+     "lgd": 972,
+     "name": "Ramnagar",
+     "villages": 90
+    },
+    {
+     "id": "8937fc05-b32d-5720-8d5f-abeb3cc42bb5",
+     "lgd": 973,
+     "name": "Shergarh",
+     "villages": 120
+    }
+   ]
+  },
+  {
+   "id": "421f8728-ffde-54c1-ae11-92e4485e195f",
+   "lgd": 131,
+   "name": "Basti",
+   "bbox": [
+    82.22878,
+    26.55301,
+    82.97752,
+    27.12417
+   ],
+   "blocks": [
+    {
+     "id": "9501dfc0-6cbc-5923-b66e-61bcf043d519",
+     "lgd": 974,
+     "name": "Bahadurpur",
+     "villages": 253
+    },
+    {
+     "id": "fd98b8f2-1a20-5fa0-9e10-51ab0591ec7e",
+     "lgd": 975,
+     "name": "Bankati",
+     "villages": 193
+    },
+    {
+     "id": "25feef34-4cad-50f1-854c-1c2439f9dc90",
+     "lgd": 976,
+     "name": "Basti",
+     "villages": 234
+    },
+    {
+     "id": "5afb57a5-96ba-5c30-a8f7-865bc67fe1c2",
+     "lgd": 977,
+     "name": "Dubauliya",
+     "villages": 172
+    },
+    {
+     "id": "bacae9d8-406c-5c87-a320-912263c53608",
+     "lgd": 978,
+     "name": "Gaur",
+     "villages": 246
+    },
+    {
+     "id": "6ee2141b-26f1-5e3e-8072-ce6c8ea5ae38",
+     "lgd": 979,
+     "name": "Harraiya",
+     "villages": 266
+    },
+    {
+     "id": "2fb70c47-51e4-53e7-bb2b-181370d90028",
+     "lgd": 980,
+     "name": "Kaptanganj",
+     "villages": 186
+    },
+    {
+     "id": "243e0efd-e61e-5e02-8574-3832adb9eb02",
+     "lgd": 981,
+     "name": "Kudaraha",
+     "villages": 128
+    },
+    {
+     "id": "ca16e201-8119-5309-8255-dfc2ebee630f",
+     "lgd": 982,
+     "name": "Paras Rampur",
+     "villages": 239
+    },
+    {
+     "id": "1ad3aaab-3b7e-575f-985b-5dcb81c1e312",
+     "lgd": 983,
+     "name": "Ramnagar",
+     "villages": 126
+    },
+    {
+     "id": "c0eee2de-040c-53a3-804e-a6bf47ee6ad7",
+     "lgd": 984,
+     "name": "Rudauli",
+     "villages": 160
+    },
+    {
+     "id": "cc41ddb5-a9a9-56cd-8d08-3de6ab3db8ac",
+     "lgd": 985,
+     "name": "Saltaua Gopal Pur",
+     "villages": 210
+    },
+    {
+     "id": "74d4a803-7ce0-519a-9127-50e50c3db8e4",
+     "lgd": 986,
+     "name": "Sau Ghat",
+     "villages": 204
+    },
+    {
+     "id": "6e76afc5-d24e-5592-8989-9b10bf569e0d",
+     "lgd": 987,
+     "name": "Vikram Jot",
+     "villages": 280
+    }
+   ]
+  },
+  {
+   "id": "a66319b3-25fd-52c3-92ab-70c162635c37",
+   "lgd": 132,
+   "name": "Bijnor",
+   "bbox": [
+    77.98705,
+    29.01826,
+    78.9397,
+    29.79661
+   ],
+   "blocks": [
+    {
+     "id": "0963d5fd-5138-5e5b-a1bd-9a2b03d45948",
+     "lgd": 988,
+     "name": "Afzalgarh",
+     "villages": 186
+    },
+    {
+     "id": "748c85f6-918a-5e79-9a2c-d34cf14030a9",
+     "lgd": 989,
+     "name": "Budhanpur Seohara",
+     "villages": 242
+    },
+    {
+     "id": "95f70eca-8bd9-5371-b4a9-5198070d3cbb",
+     "lgd": 990,
+     "name": "Dhampur",
+     "villages": 240
+    },
+    {
+     "id": "75b32bd9-8db7-5442-802b-15496694b6a2",
+     "lgd": 991,
+     "name": "Haldaur(Khari Jhalu)",
+     "villages": 250
+    },
+    {
+     "id": "6b5eecec-2ae9-51fa-9e8b-e525e00ed2cc",
+     "lgd": 992,
+     "name": "Jalilpur",
+     "villages": 231
+    },
+    {
+     "id": "ea504bc2-d41d-507b-bb20-0bc55fc8068b",
+     "lgd": 993,
+     "name": "Kiratpur",
+     "villages": 199
+    },
+    {
+     "id": "626a8248-085f-569a-9922-d196425e1206",
+     "lgd": 994,
+     "name": "Kotwali",
+     "villages": 469
+    },
+    {
+     "id": "9df5bf89-df68-5221-bb22-bda42e1268cd",
+     "lgd": 995,
+     "name": "Mohammedpur Deomal",
+     "villages": 291
+    },
+    {
+     "id": "ac91024b-369c-58ba-9734-b25ad54948f7",
+     "lgd": 996,
+     "name": "Najibabad",
+     "villages": 290
+    },
+    {
+     "id": "7ed50a0e-191a-5ca1-86c4-5c2add784a3d",
+     "lgd": 997,
+     "name": "Nehtaur",
+     "villages": 231
+    },
+    {
+     "id": "4c62a6c0-98b4-53a5-a824-5e775439d72b",
+     "lgd": 998,
+     "name": "Noorpur",
+     "villages": 200
+    }
+   ]
+  },
+  {
+   "id": "5d6a6bee-4a00-58da-b006-a1bf9bff8185",
+   "lgd": 133,
+   "name": "Budaun",
+   "bbox": [
+    78.57197,
+    27.6578,
+    79.51002,
+    28.47225
+   ],
+   "blocks": [
+    {
+     "id": "a52c2b43-599d-5c0f-a2a3-25619858a319",
+     "lgd": 999,
+     "name": "Ambiapur",
+     "villages": 81
+    },
+    {
+     "id": "a62594d7-f011-57c9-9287-c298d8054dfa",
+     "lgd": 1000,
+     "name": "Asafpur",
+     "villages": 97
+    },
+    {
+     "id": "4bc928ed-a232-5ac3-a512-7c619815ffbc",
+     "lgd": 1001,
+     "name": "Bisauli",
+     "villages": 111
+    },
+    {
+     "id": "60e1bb94-bb36-570c-9d76-61c56592c27c",
+     "lgd": 1002,
+     "name": "Dahgavan",
+     "villages": 143
+    },
+    {
+     "id": "157172d5-08f8-5f9e-8416-c12d4768ee02",
+     "lgd": 1003,
+     "name": "Dataganj",
+     "villages": 114
+    },
+    {
+     "id": "8a916cfc-8b42-5e6d-8f00-53b02b02827c",
+     "lgd": 1005,
+     "name": "Islamnagar",
+     "villages": 97
+    },
+    {
+     "id": "3e71eafc-6c20-5e0e-b05b-28d8ba917b39",
+     "lgd": 1006,
+     "name": "Jagat",
+     "villages": 108
+    },
+    {
+     "id": "9cf348e1-9559-5a5a-898d-84bec7647d92",
+     "lgd": 1008,
+     "name": "Mion",
+     "villages": 141
+    },
+    {
+     "id": "bc60b558-3540-5cac-b66a-11e61f4ea3dc",
+     "lgd": 1009,
+     "name": "Qadar Chowk",
+     "villages": 77
+    },
+    {
+     "id": "b5515975-5531-524e-8e31-2369007a4715",
+     "lgd": 1011,
+     "name": "Sahaswan",
+     "villages": 198
+    },
+    {
+     "id": "9ec009a6-3dd1-5baf-965a-46a04e27d03f",
+     "lgd": 1012,
+     "name": "Salarpur",
+     "villages": 99
+    },
+    {
+     "id": "554bf77e-1b75-5bbc-aa9d-ec54f5669db0",
+     "lgd": 1013,
+     "name": "Samrer",
+     "villages": 119
+    },
+    {
+     "id": "b7c81f7c-b0b2-526a-a25d-f46c88b669e0",
+     "lgd": 1014,
+     "name": "Ujhani",
+     "villages": 119
+    },
+    {
+     "id": "39e97198-f8d7-5887-a834-6355cc995574",
+     "lgd": 1015,
+     "name": "Usawan",
+     "villages": 110
+    },
+    {
+     "id": "15ff0368-30eb-56f8-b83e-18cf3ce1b2ef",
+     "lgd": 1016,
+     "name": "Wazirganj",
+     "villages": 74
+    }
+   ]
+  },
+  {
+   "id": "e27b323c-5fae-5995-8370-3e8301680545",
+   "lgd": 134,
+   "name": "Bulandshahr",
+   "bbox": [
+    77.62159,
+    28.0598,
+    78.47748,
+    28.71536
+   ],
+   "blocks": [
+    {
+     "id": "64fd8a41-415c-5dfb-b11c-498ff1ad7cd5",
+     "lgd": 1017,
+     "name": "Agauta",
+     "villages": 53
+    },
+    {
+     "id": "00f5a636-48a3-5245-9f20-3a5208dd4cec",
+     "lgd": 1018,
+     "name": "Anupshahr",
+     "villages": 100
+    },
+    {
+     "id": "bb8d7184-028e-5d37-b609-8d350a14f3f2",
+     "lgd": 1019,
+     "name": "Araniya",
+     "villages": 85
+    },
+    {
+     "id": "9026b162-a680-5780-b0a3-ded2cd54863d",
+     "lgd": 1020,
+     "name": "Bhawan Bahadur Nagar",
+     "villages": 39
+    },
+    {
+     "id": "c94e31a8-8a30-5957-a590-a7ef7e2f7322",
+     "lgd": 1021,
+     "name": "Bulandshahr",
+     "villages": 77
+    },
+    {
+     "id": "32e2da5b-770a-538d-9e48-92db984d895e",
+     "lgd": 1022,
+     "name": "Danpur",
+     "villages": 80
+    },
+    {
+     "id": "0ffac371-399c-5814-ac89-7efe1cb146db",
+     "lgd": 1023,
+     "name": "Dibai",
+     "villages": 86
+    },
+    {
+     "id": "52147fa0-dd12-5fc3-9975-3a41c9d8e365",
+     "lgd": 1024,
+     "name": "Gulaothi",
+     "villages": 41
+    },
+    {
+     "id": "3c07c869-4607-589d-bdaa-7333a383e9cd",
+     "lgd": 1025,
+     "name": "Jahangirabad",
+     "villages": 82
+    },
+    {
+     "id": "abe73c5e-2041-5439-afd5-606e40cf1f93",
+     "lgd": 1026,
+     "name": "Khurja",
+     "villages": 90
+    },
+    {
+     "id": "489ae5bb-27d1-5af7-a53e-3e8ac7fc792e",
+     "lgd": 1027,
+     "name": "Lakhaothi",
+     "villages": 64
+    },
+    {
+     "id": "dba45dd7-8909-567a-9e2e-1e759f2b452c",
+     "lgd": 1028,
+     "name": "Pahasu",
+     "villages": 88
+    },
+    {
+     "id": "794262fb-0800-5991-b558-c58f7a2e2fd2",
+     "lgd": 1029,
+     "name": "Shikarpur",
+     "villages": 128
+    },
+    {
+     "id": "ae1f9e1c-9975-53c4-bf13-8ac726aa1094",
+     "lgd": 1030,
+     "name": "Sikandrabad",
+     "villages": 110
+    },
+    {
+     "id": "3973c234-2a46-55bc-b12e-b7c5a2fb47d2",
+     "lgd": 1031,
+     "name": "Syana",
+     "villages": 35
+    },
+    {
+     "id": "98ecdbcd-ef2a-51cb-950b-b75ebd77a8a1",
+     "lgd": 1032,
+     "name": "Unchagaon",
+     "villages": 70
+    }
+   ]
+  },
+  {
+   "id": "932dd0c1-0558-5686-9e8b-51b1ab583c4a",
+   "lgd": 135,
+   "name": "Chandauli",
+   "bbox": [
+    83.00912,
+    24.71882,
+    83.55409,
+    25.53511
+   ],
+   "blocks": [
+    {
+     "id": "4f33569d-84a1-5458-be9a-009efc5ac8bf",
+     "lgd": 1033,
+     "name": "Berahani",
+     "villages": 192
+    },
+    {
+     "id": "75328565-19f4-5a10-8241-757b5a88da65",
+     "lgd": 1034,
+     "name": "Chahniya",
+     "villages": 165
+    },
+    {
+     "id": "03b5b69a-ab2b-5925-90ca-1fd12cae6329",
+     "lgd": 1035,
+     "name": "Chakiya",
+     "villages": 230
+    },
+    {
+     "id": "2740efdb-4e97-5726-af18-ba68acc5225f",
+     "lgd": 1036,
+     "name": "Chandauli",
+     "villages": 179
+    },
+    {
+     "id": "449c4e09-02dc-5b0b-a4e3-f47c3d3eb239",
+     "lgd": 1037,
+     "name": "Dhanapur",
+     "villages": 127
+    },
+    {
+     "id": "3052a745-dec9-5343-a3d6-e660eb44ad72",
+     "lgd": 1038,
+     "name": "Naugarh",
+     "villages": 141
+    },
+    {
+     "id": "d2d776ee-c87d-5d0f-b0f2-33d7ce719933",
+     "lgd": 1039,
+     "name": "Niyamatabad",
+     "villages": 142
+    },
+    {
+     "id": "a484b9bf-445d-57c5-a5d1-681b349da22d",
+     "lgd": 1040,
+     "name": "Sahabganj",
+     "villages": 184
+    },
+    {
+     "id": "ad4404d5-d4a4-511b-bc5e-8d03d7988a8d",
+     "lgd": 1041,
+     "name": "Sakaldiha",
+     "villages": 165
+    }
+   ]
+  },
+  {
+   "id": "39abe7fd-9591-5ce5-8f55-d0ac31cde5f4",
+   "lgd": 136,
+   "name": "Chitrakoot",
+   "bbox": [
+    80.68472,
+    24.88753,
+    81.5622,
+    25.54687
+   ],
+   "blocks": [
+    {
+     "id": "77628ec7-9f5a-55de-aa5f-e2ad8b5a06b9",
+     "lgd": 1042,
+     "name": "Karwi",
+     "villages": 142
+    },
+    {
+     "id": "3da50767-b8f2-594f-ac8c-63a50ff8af03",
+     "lgd": 1043,
+     "name": "Manikpur",
+     "villages": 124
+    },
+    {
+     "id": "dc762f01-e89b-5699-a6f0-f57c4aa18b34",
+     "lgd": 1044,
+     "name": "Mau",
+     "villages": 121
+    },
+    {
+     "id": "f91da88e-2f0d-5bc0-b01c-9f4129bbbf3e",
+     "lgd": 1045,
+     "name": "Pahari",
+     "villages": 148
+    },
+    {
+     "id": "552c2430-71b5-5769-9e0c-63842b9de12a",
+     "lgd": 1046,
+     "name": "Ramnagar",
+     "villages": 85
+    }
+   ]
+  },
+  {
+   "id": "7be012c4-f500-55b6-abc7-f6c253258498",
+   "lgd": 137,
+   "name": "Deoria",
+   "bbox": [
+    83.47688,
+    26.08972,
+    84.1853,
+    26.75857
+   ],
+   "blocks": [
+    {
+     "id": "365e6b97-0a8d-5792-a433-ba14a9715d11",
+     "lgd": 1047,
+     "name": "Baitalpur",
+     "villages": 125
+    },
+    {
+     "id": "6c5c996e-cddd-58a8-a96c-56a5c87ff2a6",
+     "lgd": 1048,
+     "name": "Bankata",
+     "villages": 107
+    },
+    {
+     "id": "9281e555-09e4-58cf-89a9-6f0df223bc98",
+     "lgd": 1049,
+     "name": "Barhaj",
+     "villages": 104
+    },
+    {
+     "id": "0f3e93bd-5320-52b5-806b-5588c3599a78",
+     "lgd": 1050,
+     "name": "Bhagalpur",
+     "villages": 127
+    },
+    {
+     "id": "473be9ae-f4e6-5cce-9ebb-6d664ba840aa",
+     "lgd": 1051,
+     "name": "Bhaluani",
+     "villages": 180
+    },
+    {
+     "id": "3714f0ab-20f5-525d-80e9-c4db3246d600",
+     "lgd": 1052,
+     "name": "Bhatni",
+     "villages": 106
+    },
+    {
+     "id": "8cad6859-f3cd-50bc-9fd9-eb9fab86d7d9",
+     "lgd": 1053,
+     "name": "Bhatpar Rani",
+     "villages": 93
+    },
+    {
+     "id": "d41d832b-2e76-5635-80c3-1943b23e8c38",
+     "lgd": 1054,
+     "name": "Deoria Sadar",
+     "villages": 160
+    },
+    {
+     "id": "3c2e74ee-021a-5357-9ee8-dadb9ff24902",
+     "lgd": 1055,
+     "name": "Desai Deoria",
+     "villages": 93
+    },
+    {
+     "id": "14dc5c81-a4f3-5147-a220-30ac17e6cf10",
+     "lgd": 1056,
+     "name": "Gauri Bazar",
+     "villages": 110
+    },
+    {
+     "id": "1ccda99b-e971-5d2c-bd0c-a509ff603755",
+     "lgd": 1057,
+     "name": "Lar",
+     "villages": 126
+    },
+    {
+     "id": "9f7f3d28-5f44-5633-8a84-9203299d96fa",
+     "lgd": 1058,
+     "name": "Pathar Dewa",
+     "villages": 105
+    },
+    {
+     "id": "432c6956-7396-578a-9414-82739dd5ec5c",
+     "lgd": 1059,
+     "name": "Rampur Karkhana",
+     "villages": 106
+    },
+    {
+     "id": "c5f97bb8-6d35-5270-b35c-5026ab2f688b",
+     "lgd": 1060,
+     "name": "Rudrapur",
+     "villages": 171
+    },
+    {
+     "id": "99bc1be0-5e84-5390-a93c-becf21e76c54",
+     "lgd": 1061,
+     "name": "Salempur",
+     "villages": 191
+    },
+    {
+     "id": "23298136-6041-5466-ac48-ed1119659a73",
+     "lgd": 1062,
+     "name": "Tarkalua",
+     "villages": 40
+    },
+    {
+     "id": "31abe33c-ba02-5764-b834-56c8ab42034e",
+     "lgd": 1313,
+     "name": "Kasaya",
+     "villages": 14
+    }
+   ]
+  },
+  {
+   "id": "499cd030-57b6-5559-9ccc-968dbf6b0d77",
+   "lgd": 138,
+   "name": "Etah",
+   "bbox": [
+    78.17385,
+    27.32368,
+    79.27705,
+    27.78618
+   ],
+   "blocks": [
+    {
+     "id": "26719f8e-9ca4-5ab1-95ab-d460fd848f55",
+     "lgd": 1063,
+     "name": "Aliganj",
+     "villages": 141
+    },
+    {
+     "id": "b64c1000-ceb2-5707-8ca5-2279437c5b65",
+     "lgd": 1065,
+     "name": "Awagarh",
+     "villages": 65
+    },
+    {
+     "id": "b8aa89f9-5f3c-51db-b979-674d57da5d90",
+     "lgd": 1067,
+     "name": "Jaithara",
+     "villages": 96
+    },
+    {
+     "id": "b9e69955-2c5c-50fb-bb99-d6aea6792f74",
+     "lgd": 1068,
+     "name": "Jalesar",
+     "villages": 85
+    },
+    {
+     "id": "a4699557-d5ef-534c-9e46-323bc7bfafa5",
+     "lgd": 1070,
+     "name": "Marehra",
+     "villages": 88
+    },
+    {
+     "id": "f8b41dbf-7de9-57bf-807e-e3106bff7095",
+     "lgd": 1071,
+     "name": "Nidhauli Kalan",
+     "villages": 102
+    },
+    {
+     "id": "8e9c55fb-2336-595b-a032-07e325c7102d",
+     "lgd": 1074,
+     "name": "Sakit",
+     "villages": 160
+    },
+    {
+     "id": "e116c27b-5853-5c22-9380-0985c71d2e9c",
+     "lgd": 1075,
+     "name": "Shitalpur",
+     "villages": 123
+    }
+   ]
+  },
+  {
+   "id": "1ff09571-9c08-5303-8afe-c61780d3ac95",
+   "lgd": 139,
+   "name": "Etawah",
+   "bbox": [
+    78.74152,
+    26.42504,
+    79.34965,
+    27.00645
+   ],
+   "blocks": [
+    {
+     "id": "375fd7f0-bd68-5c88-89b8-9f5a2176ad4a",
+     "lgd": 1078,
+     "name": "Barhpura",
+     "villages": 139
+    },
+    {
+     "id": "77387f0b-e766-55ed-ba1b-5404668468aa",
+     "lgd": 1079,
+     "name": "Basrehar",
+     "villages": 111
+    },
+    {
+     "id": "6486b4d4-ea2d-52fd-a190-62112c23cb8f",
+     "lgd": 1080,
+     "name": "Bharthana",
+     "villages": 92
+    },
+    {
+     "id": "283e135a-8b66-5942-9ab0-219373d5d36f",
+     "lgd": 1081,
+     "name": "Chakarnagar",
+     "villages": 119
+    },
+    {
+     "id": "9f388785-66dd-5e89-bc9c-d92479fdf7be",
+     "lgd": 1082,
+     "name": "Jaswantnagar",
+     "villages": 101
+    },
+    {
+     "id": "1742fb84-abee-59f7-b550-9380cc714277",
+     "lgd": 1083,
+     "name": "Mahewa",
+     "villages": 130
+    },
+    {
+     "id": "84500c64-d15c-533d-b081-436fbb1bfee7",
+     "lgd": 1084,
+     "name": "Sefai",
+     "villages": 69
+    },
+    {
+     "id": "21384caa-4f53-5d62-b4b1-932125076318",
+     "lgd": 1085,
+     "name": "Takha",
+     "villages": 63
+    }
+   ]
+  },
+  {
+   "id": "a1000000-0000-4000-8000-000000000001",
+   "lgd": 140,
+   "name": "Ayodhya",
+   "bbox": [
+    81.54313,
+    26.40742,
+    82.4771,
+    26.86989
+   ],
+   "blocks": [
+    {
+     "id": "e9d4cf01-a01e-5cda-935f-bc92dcf9d4c0",
+     "lgd": 954,
+     "name": "Rudauli",
+     "villages": 167
+    },
+    {
+     "id": "6b6da354-4f01-5bec-828e-dd17a726b7b1",
+     "lgd": 1086,
+     "name": "Amaniganj",
+     "villages": 108
+    },
+    {
+     "id": "134dcd0b-4f64-562f-8dcc-617800436a31",
+     "lgd": 1087,
+     "name": "Bikapur",
+     "villages": 132
+    },
+    {
+     "id": "1a487ee0-f684-5c60-aac6-41b5ce95b947",
+     "lgd": 1088,
+     "name": "Hariyangatanganj",
+     "villages": 97
+    },
+    {
+     "id": "eff0cf49-d116-5d8f-905a-57aeb30e1833",
+     "lgd": 1089,
+     "name": "Masodha",
+     "villages": 104
+    },
+    {
+     "id": "7b771860-1c98-5114-8c92-7b54cc1d2557",
+     "lgd": 1090,
+     "name": "Mawai",
+     "villages": 77
+    },
+    {
+     "id": "3b21d585-cc6a-5050-ba30-3e3ca3f1b75e",
+     "lgd": 1091,
+     "name": "Maya Bazar",
+     "villages": 109
+    },
+    {
+     "id": "2011fe60-a956-591e-8fa1-ca88d5f82741",
+     "lgd": 1092,
+     "name": "Milkipur",
+     "villages": 111
+    },
+    {
+     "id": "7c2c6dd9-692e-5c6a-b15d-7e59a08dcacb",
+     "lgd": 1093,
+     "name": "Pura Bazar",
+     "villages": 108
+    },
+    {
+     "id": "3b67c4f2-ac6d-531f-8108-9217f7f24b7c",
+     "lgd": 1094,
+     "name": "Sohawal",
+     "villages": 81
+    },
+    {
+     "id": "4e08ea05-9379-54fc-b9b6-43f24fe2ad2d",
+     "lgd": 1095,
+     "name": "Tarun",
+     "villages": 161
+    }
+   ]
+  },
+  {
+   "id": "944a4818-1aad-5876-b08c-abfad7d871e0",
+   "lgd": 141,
+   "name": "Farrukhabad",
+   "bbox": [
+    79.1205,
+    27.15904,
+    79.7372,
+    27.71533
+   ],
+   "blocks": [
+    {
+     "id": "8aebcb9e-b1e2-5dfc-9f34-c337a76155e8",
+     "lgd": 1096,
+     "name": "Barhpur",
+     "villages": 80
+    },
+    {
+     "id": "75db9ad6-8ae7-585b-9eef-f9365c5900b2",
+     "lgd": 1097,
+     "name": "Kaimganj",
+     "villages": 149
+    },
+    {
+     "id": "98ba6e29-524a-5e8a-97fd-345eb45fac6a",
+     "lgd": 1098,
+     "name": "Kamalganj",
+     "villages": 167
+    },
+    {
+     "id": "f406e6c4-b87d-5427-a3a5-098b07dc4779",
+     "lgd": 1099,
+     "name": "Mohamdabad",
+     "villages": 119
+    },
+    {
+     "id": "752e070c-06e1-5992-ad35-4319c52166bd",
+     "lgd": 1100,
+     "name": "Nawabganj",
+     "villages": 89
+    },
+    {
+     "id": "bb31708e-3577-5faa-b63f-e4236097cf3c",
+     "lgd": 1101,
+     "name": "Rajepur",
+     "villages": 164
+    },
+    {
+     "id": "e84a841a-e5e5-5aa4-a966-344d8efc401e",
+     "lgd": 1102,
+     "name": "Shamsabad",
+     "villages": 160
+    }
+   ]
+  },
+  {
+   "id": "15a665eb-fa78-5d86-9aa4-2881231b7142",
+   "lgd": 142,
+   "name": "Fatehpur",
+   "bbox": [
+    80.21315,
+    25.4391,
+    81.33837,
+    26.23123
+   ],
+   "blocks": [
+    {
+     "id": "88dfc159-c1b8-5809-b1b1-415b40cacaf8",
+     "lgd": 1103,
+     "name": "Airayan",
+     "villages": 111
+    },
+    {
+     "id": "834bd53e-ce1e-54fd-9f41-dfd506282bfc",
+     "lgd": 1104,
+     "name": "Amauli",
+     "villages": 101
+    },
+    {
+     "id": "feee3bdb-03d0-5ca0-a86a-e49571d9d694",
+     "lgd": 1105,
+     "name": "Asothar",
+     "villages": 60
+    },
+    {
+     "id": "fef4e954-520b-5cb0-ae26-acca46688588",
+     "lgd": 1106,
+     "name": "Bahua",
+     "villages": 96
+    },
+    {
+     "id": "5f7146e5-2540-5c62-b1ad-4d3f1a2ad41b",
+     "lgd": 1107,
+     "name": "Bhitaura",
+     "villages": 148
+    },
+    {
+     "id": "f32186bb-130f-545c-8dd9-03889b3f96e7",
+     "lgd": 1108,
+     "name": "Devmai",
+     "villages": 87
+    },
+    {
+     "id": "385f800d-7d70-52d6-b0d0-3eeca2efafd2",
+     "lgd": 1109,
+     "name": "Dhata",
+     "villages": 110
+    },
+    {
+     "id": "1b51a97a-3542-5536-997b-1e9fa83aeb53",
+     "lgd": 1110,
+     "name": "Haswa",
+     "villages": 87
+    },
+    {
+     "id": "6d240083-4ebe-5eee-b3d7-8f1eb2d02004",
+     "lgd": 1111,
+     "name": "Hathgaon",
+     "villages": 220
+    },
+    {
+     "id": "dd3289ee-19a6-5219-9265-13a05dcc0556",
+     "lgd": 1112,
+     "name": "Khajuha",
+     "villages": 112
+    },
+    {
+     "id": "9d2c713c-e55b-5eac-950b-373ce7a19946",
+     "lgd": 1113,
+     "name": "Malwan",
+     "villages": 124
+    },
+    {
+     "id": "421bb427-b1af-5732-ac15-00d67c9c418f",
+     "lgd": 1114,
+     "name": "Telyani",
+     "villages": 97
+    },
+    {
+     "id": "5065c6fd-04a0-5a80-8f2a-198093e6ca08",
+     "lgd": 1115,
+     "name": "Vijayipur",
+     "villages": 100
+    }
+   ]
+  },
+  {
+   "id": "e13c67ac-d147-5bca-9f86-6e0babeef4c5",
+   "lgd": 143,
+   "name": "Firozabad",
+   "bbox": [
+    78.19445,
+    26.87827,
+    78.82039,
+    27.51013
+   ],
+   "blocks": [
+    {
+     "id": "7b66ddb9-5e84-5485-9805-1d2b64615919",
+     "lgd": 1116,
+     "name": "Araon",
+     "villages": 68
+    },
+    {
+     "id": "dc724c35-bc12-5394-bd29-d4a7bd8f4ecf",
+     "lgd": 1117,
+     "name": "Eka",
+     "villages": 94
+    },
+    {
+     "id": "60ab7b7e-20fa-599d-b1f6-c00ac77418f2",
+     "lgd": 1118,
+     "name": "Firozabad",
+     "villages": 116
+    },
+    {
+     "id": "3c9868f4-adef-57d9-a674-353697ae7e0d",
+     "lgd": 1119,
+     "name": "Hathwant",
+     "villages": 104
+    },
+    {
+     "id": "6df239e5-432f-5894-9ad1-84d8acd45120",
+     "lgd": 1120,
+     "name": "Jasrana",
+     "villages": 65
+    },
+    {
+     "id": "dc293d54-0446-508c-9507-c09596deb4b0",
+     "lgd": 1121,
+     "name": "Madanpur",
+     "villages": 104
+    },
+    {
+     "id": "a888fbfc-b241-59f5-bab0-12d01e99fa1c",
+     "lgd": 1122,
+     "name": "Narkhi",
+     "villages": 73
+    },
+    {
+     "id": "ac52eb8a-5e1a-510b-b33a-6478179e6851",
+     "lgd": 1123,
+     "name": "Shikohabad",
+     "villages": 114
+    },
+    {
+     "id": "b90aab8d-6370-5967-a1d4-09a52919b3a4",
+     "lgd": 1124,
+     "name": "Tundla",
+     "villages": 104
+    }
+   ]
+  },
+  {
+   "id": "68fdb7e9-5d0f-54ad-b067-0b84b0e19d0b",
+   "lgd": 144,
+   "name": "Gautam Buddha Nagar",
+   "bbox": [
+    77.29709,
+    28.08512,
+    77.73792,
+    28.65421
+   ],
+   "blocks": [
+    {
+     "id": "aec1aac0-9184-5ddb-833d-20918793b861",
+     "lgd": 1125,
+     "name": "Bisrakh",
+     "villages": 122
+    },
+    {
+     "id": "cec8c1f2-f82e-5618-8029-edfd436a0a0b",
+     "lgd": 1126,
+     "name": "Dadri",
+     "villages": 69
+    },
+    {
+     "id": "27cd83c1-4295-5838-a162-92feeef5ee87",
+     "lgd": 1127,
+     "name": "Dankaur",
+     "villages": 146
+    },
+    {
+     "id": "395ae8c0-35d9-575a-81ad-240f552b1ddb",
+     "lgd": 1128,
+     "name": "Jewar",
+     "villages": 102
+    }
+   ]
+  },
+  {
+   "id": "0240848d-7381-5d3a-ad91-d84cf0575dd2",
+   "lgd": 145,
+   "name": "Ghaziabad",
+   "bbox": [
+    77.19928,
+    28.60822,
+    77.70953,
+    28.92778
+   ],
+   "blocks": [
+    {
+     "id": "bb190020-fc3f-56fa-81db-77b5118c6679",
+     "lgd": 1129,
+     "name": "Bhojpur",
+     "villages": 56
+    },
+    {
+     "id": "3ecf7ef9-1f67-55ce-90d6-5e4fe4f460af",
+     "lgd": 1133,
+     "name": "Loni",
+     "villages": 71
+    },
+    {
+     "id": "dfebbccf-2d05-50b0-ab71-3668839646dd",
+     "lgd": 1134,
+     "name": "Muradnagar",
+     "villages": 63
+    },
+    {
+     "id": "ca5b3e17-ff50-5bea-8925-8caf284efc73",
+     "lgd": 1135,
+     "name": "Rajapur",
+     "villages": 63
+    }
+   ]
+  },
+  {
+   "id": "bb20fe4f-c3a2-5b22-83cc-c70268b504b3",
+   "lgd": 146,
+   "name": "Ghazipur",
+   "bbox": [
+    83.06312,
+    25.31148,
+    83.96243,
+    25.90004
+   ],
+   "blocks": [
+    {
+     "id": "bcf2c941-49cf-5bf5-9440-a1bf87973178",
+     "lgd": 1137,
+     "name": "Bhadaura",
+     "villages": 110
+    },
+    {
+     "id": "182a0b45-5ef8-52d2-882b-8b915dae39ce",
+     "lgd": 1138,
+     "name": "Bhanwarkol",
+     "villages": 257
+    },
+    {
+     "id": "45136a58-f98f-552e-9f7c-8b17c03d3e62",
+     "lgd": 1139,
+     "name": "Devkali",
+     "villages": 199
+    },
+    {
+     "id": "1c7660c7-4fc4-5499-bd8b-91b0400aa802",
+     "lgd": 1140,
+     "name": "Ghazipur",
+     "villages": 170
+    },
+    {
+     "id": "a8ae02c5-e2d9-5f21-b5c1-43411e4e5b16",
+     "lgd": 1141,
+     "name": "Jakhania",
+     "villages": 218
+    },
+    {
+     "id": "09b6f3a6-1f33-5260-82ea-470f2d1857bd",
+     "lgd": 1142,
+     "name": "Karanda",
+     "villages": 99
+    },
+    {
+     "id": "1d48f2c3-68de-5f50-b851-6266873bbdb4",
+     "lgd": 1143,
+     "name": "Kasimabad",
+     "villages": 248
+    },
+    {
+     "id": "5a5486f8-7482-573d-91fc-7f7057a71349",
+     "lgd": 1144,
+     "name": "Manihari",
+     "villages": 206
+    },
+    {
+     "id": "46a936ed-8536-5eba-a476-f95d09df380d",
+     "lgd": 1145,
+     "name": "Mardah",
+     "villages": 121
+    },
+    {
+     "id": "c56c2c3b-642f-55f0-b82c-dde86b9e6a67",
+     "lgd": 1146,
+     "name": "Mohammadabad",
+     "villages": 272
+    },
+    {
+     "id": "6537774c-04e4-584f-b561-9f4a8fa16d01",
+     "lgd": 1147,
+     "name": "Revatipur",
+     "villages": 118
+    },
+    {
+     "id": "e6156462-57cf-5742-bf86-53d72757bdc4",
+     "lgd": 1148,
+     "name": "Sadat",
+     "villages": 178
+    },
+    {
+     "id": "3676baf1-73d5-593a-bee3-734dd94195e1",
+     "lgd": 1149,
+     "name": "Saidpur",
+     "villages": 274
+    },
+    {
+     "id": "f4866f7e-faa6-5640-ae72-af3def09cea8",
+     "lgd": 1150,
+     "name": "Varachakwar",
+     "villages": 222
+    },
+    {
+     "id": "a4925d37-dbcd-5f56-94e5-93e3abfe5e18",
+     "lgd": 1151,
+     "name": "Virno",
+     "villages": 150
+    },
+    {
+     "id": "c2a930e4-f6c8-5670-a884-09e1a895f834",
+     "lgd": 1152,
+     "name": "Zamania",
+     "villages": 193
+    }
+   ]
+  },
+  {
+   "id": "b6b906ef-f7d0-5f56-8b13-e70f646e4430",
+   "lgd": 147,
+   "name": "Gonda",
+   "bbox": [
+    81.51486,
+    26.78168,
+    82.6136,
+    27.43651
+   ],
+   "blocks": [
+    {
+     "id": "2cc44da3-1035-5244-986c-53ab842f3dec",
+     "lgd": 1153,
+     "name": "Babhanjot",
+     "villages": 127
+    },
+    {
+     "id": "df6d898e-620a-5658-926c-893e97bc46fd",
+     "lgd": 1154,
+     "name": "Belsar",
+     "villages": 78
+    },
+    {
+     "id": "f875d60e-5f59-595b-b271-83a9f4b5bb31",
+     "lgd": 1155,
+     "name": "Chhapia",
+     "villages": 150
+    },
+    {
+     "id": "0092377f-3bcc-5e46-9b89-9dfcb6bf9053",
+     "lgd": 1156,
+     "name": "Colonelganj",
+     "villages": 110
+    },
+    {
+     "id": "7d7d0afd-61f9-532d-ba79-0ad96f308621",
+     "lgd": 1157,
+     "name": "Haldharmau",
+     "villages": 87
+    },
+    {
+     "id": "96c2273c-c22f-5b5a-92b9-7187b8a36c3f",
+     "lgd": 1158,
+     "name": "Itiathok",
+     "villages": 130
+    },
+    {
+     "id": "04e24efa-2bce-5cb1-8e30-fd7b4304f27d",
+     "lgd": 1159,
+     "name": "Jhanjhari",
+     "villages": 140
+    },
+    {
+     "id": "68e6586b-f130-5fce-a9b6-a2ac52925dc1",
+     "lgd": 1160,
+     "name": "Katra Bazar",
+     "villages": 102
+    },
+    {
+     "id": "bd996d9b-b143-5670-abdc-232f56eae61c",
+     "lgd": 1161,
+     "name": "Mankapur",
+     "villages": 146
+    },
+    {
+     "id": "e6170e1a-e6bd-58e1-9f53-6f2d40c4c271",
+     "lgd": 1162,
+     "name": "Mujehana",
+     "villages": 82
+    },
+    {
+     "id": "ddea2ff8-09a0-5494-b018-e2566f387596",
+     "lgd": 1163,
+     "name": "Nawabganj",
+     "villages": 105
+    },
+    {
+     "id": "1e08264c-a304-5d3b-8820-ba0fc1330e7d",
+     "lgd": 1164,
+     "name": "Pandri Kripal",
+     "villages": 83
+    },
+    {
+     "id": "adbaaf71-6e31-5d1d-8ddc-7c970b8003e9",
+     "lgd": 1165,
+     "name": "Paraspur",
+     "villages": 91
+    },
+    {
+     "id": "c28c52dc-1472-52ec-84aa-f4f0526546a8",
+     "lgd": 1166,
+     "name": "Rupaideeh",
+     "villages": 154
+    },
+    {
+     "id": "5c5fcedc-0259-5a52-aaa7-fc8709ad18a6",
+     "lgd": 1167,
+     "name": "Tarabganj",
+     "villages": 72
+    },
+    {
+     "id": "3a80acd1-9d5c-5487-9fe7-728cae0d7952",
+     "lgd": 1168,
+     "name": "Wazirganj",
+     "villages": 93
+    }
+   ]
+  },
+  {
+   "id": "84e3fc4f-d8f0-5f76-ab2b-1bf955bd180b",
+   "lgd": 148,
+   "name": "Gorakhpur",
+   "bbox": [
+    83.06777,
+    26.2189,
+    83.67009,
+    27.11621
+   ],
+   "blocks": [
+    {
+     "id": "a28ccd87-94b1-5cad-a44c-079c67b7cf7c",
+     "lgd": 1169,
+     "name": "Bansgaon",
+     "villages": 201
+    },
+    {
+     "id": "5a7df2fa-55ce-5421-b8e6-4df255826423",
+     "lgd": 1170,
+     "name": "Barhalganj",
+     "villages": 162
+    },
+    {
+     "id": "624358ac-3f5c-504f-92bd-674fe5fc8d75",
+     "lgd": 1171,
+     "name": "Belghat",
+     "villages": 211
+    },
+    {
+     "id": "c7b97b1e-0bf3-5760-af78-bdf6a521ba3d",
+     "lgd": 1172,
+     "name": "Bhathat",
+     "villages": 87
+    },
+    {
+     "id": "80f57782-1293-5ce1-a8b0-d7f3a0a291f9",
+     "lgd": 1173,
+     "name": "Brahmpur",
+     "villages": 116
+    },
+    {
+     "id": "d1623a30-ee65-5873-bee9-edf89bb7ecc5",
+     "lgd": 1174,
+     "name": "Campierganj",
+     "villages": 131
+    },
+    {
+     "id": "111de1c5-1da0-5edd-adbb-6892dddcd743",
+     "lgd": 1175,
+     "name": "Chargawan",
+     "villages": 57
+    },
+    {
+     "id": "619d1f5d-30b9-5e91-a6c3-158f38c9f423",
+     "lgd": 1176,
+     "name": "Gagaha",
+     "villages": 184
+    },
+    {
+     "id": "a4c50add-20c4-53d9-987f-a1c7c856582f",
+     "lgd": 1177,
+     "name": "Gola",
+     "villages": 202
+    },
+    {
+     "id": "4911028e-203e-5aab-9375-dadb7a03952c",
+     "lgd": 1178,
+     "name": "Jangal Kaudia",
+     "villages": 95
+    },
+    {
+     "id": "3fdfc09b-c891-54cf-9974-ed820563ff8f",
+     "lgd": 1179,
+     "name": "Kauri Ram",
+     "villages": 181
+    },
+    {
+     "id": "261f1905-7c84-5fee-90a3-c1c226767a71",
+     "lgd": 1180,
+     "name": "Khajni",
+     "villages": 213
+    },
+    {
+     "id": "b3ad2f52-3931-516d-8172-2786c5cc20b6",
+     "lgd": 1181,
+     "name": "Khorabar",
+     "villages": 80
+    },
+    {
+     "id": "dd6c83ba-53c0-556e-8509-d6e307dfdb5e",
+     "lgd": 1182,
+     "name": "Pali",
+     "villages": 161
+    },
+    {
+     "id": "ef4b0116-241f-503b-8c55-9d4a80c627da",
+     "lgd": 1183,
+     "name": "Pipraich",
+     "villages": 82
+    },
+    {
+     "id": "6f5dcb03-3887-5268-af18-d6b82372aabe",
+     "lgd": 1184,
+     "name": "Piprauli",
+     "villages": 143
+    },
+    {
+     "id": "dd22da68-466e-5aca-ad4a-1c6dff3ecf1e",
+     "lgd": 1185,
+     "name": "Sahjanawa",
+     "villages": 141
+    },
+    {
+     "id": "8271f1fd-6eef-51d1-8644-184f2946c8e7",
+     "lgd": 1186,
+     "name": "Sardarnagar",
+     "villages": 82
+    },
+    {
+     "id": "4097eff7-036a-5e43-a1d1-dfba68f279fa",
+     "lgd": 1187,
+     "name": "Uruwa",
+     "villages": 277
+    },
+    {
+     "id": "2c3b13c8-c9f1-528f-8c2d-37d4076fb18d",
+     "lgd": 7480,
+     "name": "Bharohiya",
+     "villages": 89
+    }
+   ]
+  },
+  {
+   "id": "de21d99a-e7e7-5e8a-9c7f-11178a84a23f",
+   "lgd": 149,
+   "name": "Hamirpur",
+   "bbox": [
+    79.35563,
+    25.47662,
+    80.35088,
+    26.16267
+   ],
+   "blocks": [
+    {
+     "id": "4be39f9a-bb1a-54cb-82a4-4c34bf195bb3",
+     "lgd": 1188,
+     "name": "Gohand",
+     "villages": 86
+    },
+    {
+     "id": "55dcdad8-b876-5c0e-b8ab-6793625b6688",
+     "lgd": 1189,
+     "name": "Kurara",
+     "villages": 75
+    },
+    {
+     "id": "7830fa9d-706c-5f24-b029-6173a7e4988e",
+     "lgd": 1190,
+     "name": "Maudaha",
+     "villages": 97
+    },
+    {
+     "id": "f544a965-3ee2-5eea-af38-a751d72f2ac0",
+     "lgd": 1191,
+     "name": "Muskara",
+     "villages": 74
+    },
+    {
+     "id": "f4dbcaa2-525c-5942-9c99-28195103b6c1",
+     "lgd": 1192,
+     "name": "Rath",
+     "villages": 80
+    },
+    {
+     "id": "bb111cd7-7be0-5fb6-9bc4-4620e4738409",
+     "lgd": 1193,
+     "name": "Sarila",
+     "villages": 82
+    },
+    {
+     "id": "dfb19409-80d9-5178-ae90-793ff14d72af",
+     "lgd": 1194,
+     "name": "Sumerpur",
+     "villages": 86
+    }
+   ]
+  },
+  {
+   "id": "951c4eb8-5fe1-5ae6-a5a3-8a01d57922c8",
+   "lgd": 150,
+   "name": "Hardoi",
+   "bbox": [
+    79.68444,
+    26.89023,
+    80.82691,
+    27.78446
+   ],
+   "blocks": [
+    {
+     "id": "ebd071c2-83be-5093-b34a-44ed6be25d0f",
+     "lgd": 1195,
+     "name": "Ahirori",
+     "villages": 93
+    },
+    {
+     "id": "8b49aeed-3bac-5d54-a17a-3d352cfc2bfb",
+     "lgd": 1196,
+     "name": "Bawan",
+     "villages": 135
+    },
+    {
+     "id": "2d1909b3-f271-5045-88f4-f6ec1e23d954",
+     "lgd": 1197,
+     "name": "Behendar",
+     "villages": 90
+    },
+    {
+     "id": "09a534f3-01ef-5189-b64f-301d835b2158",
+     "lgd": 1198,
+     "name": "Bharawan",
+     "villages": 99
+    },
+    {
+     "id": "bb9ef5f5-8613-5275-bc9f-fac3dd91dadf",
+     "lgd": 1199,
+     "name": "Bharkhani",
+     "villages": 181
+    },
+    {
+     "id": "92780847-6e25-55b3-bf7a-4ca62a91f628",
+     "lgd": 1200,
+     "name": "Bilgram",
+     "villages": 130
+    },
+    {
+     "id": "87e24502-0d13-5fc1-be24-9eadd714f715",
+     "lgd": 1201,
+     "name": "Hariyawan",
+     "villages": 92
+    },
+    {
+     "id": "e29785e0-44e1-545f-acaa-75d1779530c0",
+     "lgd": 1202,
+     "name": "Harpalpur",
+     "villages": 105
+    },
+    {
+     "id": "bde57037-78c1-5a33-ac00-58b09da6d9d1",
+     "lgd": 1203,
+     "name": "Kachauna",
+     "villages": 46
+    },
+    {
+     "id": "538728a7-5f9c-584c-966d-e95d1d4a3ad5",
+     "lgd": 1204,
+     "name": "Kothawan",
+     "villages": 82
+    },
+    {
+     "id": "06e873a0-d327-56d5-884d-475c7222d7a6",
+     "lgd": 1205,
+     "name": "Madhoganj",
+     "villages": 113
+    },
+    {
+     "id": "73673e91-f1ef-5be6-ab53-4c51f22da0ae",
+     "lgd": 1206,
+     "name": "Mallawan",
+     "villages": 59
+    },
+    {
+     "id": "1bf6de1e-805d-5f56-8d84-72e32dca04c3",
+     "lgd": 1207,
+     "name": "Pihani",
+     "villages": 115
+    },
+    {
+     "id": "187881fb-789d-54dd-a72f-090bf47b3211",
+     "lgd": 1208,
+     "name": "Sandi",
+     "villages": 119
+    },
+    {
+     "id": "b4862a99-3984-5f73-a62b-03fa44b3c82c",
+     "lgd": 1209,
+     "name": "Sandila",
+     "villages": 97
+    },
+    {
+     "id": "1f4f788b-308f-510c-94ef-602c91d98102",
+     "lgd": 1210,
+     "name": "Shahabad",
+     "villages": 170
+    },
+    {
+     "id": "3055cdca-17e5-5b1c-8b75-56a154646c9d",
+     "lgd": 1211,
+     "name": "Sursa",
+     "villages": 83
+    },
+    {
+     "id": "6e86d38d-2c85-57ce-80af-43a6b77decdc",
+     "lgd": 1212,
+     "name": "Tandiyawan",
+     "villages": 86
+    },
+    {
+     "id": "128dc74e-e995-568b-a6d1-e5956fce0514",
+     "lgd": 1213,
+     "name": "Todarpur",
+     "villages": 112
+    }
+   ]
+  },
+  {
+   "id": "12888897-fd19-5629-97c1-892c8d3ada07",
+   "lgd": 151,
+   "name": "Jalaun",
+   "bbox": [
+    78.93211,
+    25.76687,
+    79.9544,
+    26.44232
+   ],
+   "blocks": [
+    {
+     "id": "3d0c1ca7-014d-5dbb-a2ad-278a091deb26",
+     "lgd": 1214,
+     "name": "Dakore",
+     "villages": 158
+    },
+    {
+     "id": "bcfcb027-19ca-52f3-9417-153832bec6c3",
+     "lgd": 1215,
+     "name": "Jalaun",
+     "villages": 115
+    },
+    {
+     "id": "b03a9ccf-e42d-5e58-833b-629b4897220f",
+     "lgd": 1216,
+     "name": "Kadaura",
+     "villages": 119
+    },
+    {
+     "id": "bfae5a1a-9c89-50c6-9702-f9ff76c3dc51",
+     "lgd": 1217,
+     "name": "Konch",
+     "villages": 119
+    },
+    {
+     "id": "1d539228-3430-54b6-8eaa-081700e46fa5",
+     "lgd": 1218,
+     "name": "Kuthaund",
+     "villages": 136
+    },
+    {
+     "id": "81ec3ae1-3f53-5933-812c-ecf8bac704f0",
+     "lgd": 1219,
+     "name": "Madhogarh",
+     "villages": 81
+    },
+    {
+     "id": "f093e4f1-0162-5a95-902c-94437358eba8",
+     "lgd": 1220,
+     "name": "Maheva",
+     "villages": 116
+    },
+    {
+     "id": "df92e97f-6d76-51fe-9765-1cac46a151ee",
+     "lgd": 1221,
+     "name": "Nadigaon",
+     "villages": 193
+    },
+    {
+     "id": "a223e20b-25ad-5817-82fd-8bb2cfe2ce0c",
+     "lgd": 1222,
+     "name": "Rampura",
+     "villages": 96
+    }
+   ]
+  },
+  {
+   "id": "371886e5-1d25-5272-aa86-25982b8aacf1",
+   "lgd": 152,
+   "name": "Jaunpur",
+   "bbox": [
+    82.12252,
+    25.39266,
+    83.08985,
+    26.20122
+   ],
+   "blocks": [
+    {
+     "id": "7ab8bb7b-f5fa-5f03-9987-b1c3a9c2f9c8",
+     "lgd": 1223,
+     "name": "Badla Pur",
+     "villages": 187
+    },
+    {
+     "id": "95dc89b4-a3b4-584b-a719-b5144e298da9",
+     "lgd": 1224,
+     "name": "Baksha",
+     "villages": 169
+    },
+    {
+     "id": "a63b925b-b5e0-5bf2-9402-111c3e08ac5c",
+     "lgd": 1225,
+     "name": "Barasathi",
+     "villages": 138
+    },
+    {
+     "id": "bb4cff21-e84f-5b91-90c1-60b178881d64",
+     "lgd": 1226,
+     "name": "Dharma Pur",
+     "villages": 188
+    },
+    {
+     "id": "4a691289-f482-588e-a630-b572ed79b2fa",
+     "lgd": 1227,
+     "name": "Dobhi",
+     "villages": 123
+    },
+    {
+     "id": "f3b66c53-0c7e-599d-89ce-bbe4431992bb",
+     "lgd": 1228,
+     "name": "Jalal Pur",
+     "villages": 82
+    },
+    {
+     "id": "292c1b5e-140f-5554-8d44-3434d3f62b4a",
+     "lgd": 1229,
+     "name": "Karanja Kala",
+     "villages": 182
+    },
+    {
+     "id": "4b8840b0-3493-596c-876c-14db504e411d",
+     "lgd": 1230,
+     "name": "Kerakat",
+     "villages": 105
+    },
+    {
+     "id": "6c44a903-f4d7-5ba9-9aee-ca71b73d2d43",
+     "lgd": 1231,
+     "name": "Khuthan",
+     "villages": 173
+    },
+    {
+     "id": "73b6ff56-4b03-51fe-94d6-03274742f569",
+     "lgd": 1232,
+     "name": "Machchali Shahar",
+     "villages": 165
+    },
+    {
+     "id": "fc1c4920-d690-59f7-bd70-992d1962b9cc",
+     "lgd": 1233,
+     "name": "Maharaj Ganj",
+     "villages": 172
+    },
+    {
+     "id": "48b5b491-5e7b-5e2a-b248-9159b1f349ed",
+     "lgd": 1234,
+     "name": "Mariyahu",
+     "villages": 175
+    },
+    {
+     "id": "6a79e9b0-2038-542c-aaeb-fac20a9c75f0",
+     "lgd": 1235,
+     "name": "Mufti Ganj",
+     "villages": 95
+    },
+    {
+     "id": "6377de2e-2a96-59a4-b042-9170c1b381ba",
+     "lgd": 1236,
+     "name": "Mungra Badshah Pur",
+     "villages": 109
+    },
+    {
+     "id": "db110b81-0b25-53a8-9623-bc4d34767cec",
+     "lgd": 1237,
+     "name": "Ram Nagar",
+     "villages": 176
+    },
+    {
+     "id": "61319f2f-5ba1-59f3-8d7a-fc8cf36a9b3f",
+     "lgd": 1238,
+     "name": "Ram Pur",
+     "villages": 153
+    },
+    {
+     "id": "e20a5774-eae9-5eb5-95da-cc5984b51230",
+     "lgd": 1239,
+     "name": "Shah Ganj",
+     "villages": 200
+    },
+    {
+     "id": "677c59f7-2830-5064-aa5c-de922b33c4c6",
+     "lgd": 1240,
+     "name": "Sikrara",
+     "villages": 168
+    },
+    {
+     "id": "90de230c-69ad-58e4-aa7a-9d0d358a633b",
+     "lgd": 1241,
+     "name": "Sirkoni",
+     "villages": 56
+    },
+    {
+     "id": "dd5e3df9-74e1-5357-b900-269fc7276d8e",
+     "lgd": 1242,
+     "name": "Suitha Kala",
+     "villages": 142
+    },
+    {
+     "id": "59088dd0-a620-5bc0-bb80-7607db3c8bdb",
+     "lgd": 1243,
+     "name": "Sujan Ganj",
+     "villages": 198
+    }
+   ]
+  },
+  {
+   "id": "7a7ee050-1e54-57fc-9aa5-28e657d984d3",
+   "lgd": 153,
+   "name": "Jhansi",
+   "bbox": [
+    78.30097,
+    25.10782,
+    79.42001,
+    25.95275
+   ],
+   "blocks": [
+    {
+     "id": "2b893af3-d254-5215-b315-7ac99ac1b6e3",
+     "lgd": 1244,
+     "name": "Babina",
+     "villages": 92
+    },
+    {
+     "id": "20933aef-1fee-5fcf-9563-fd247853fdd3",
+     "lgd": 1245,
+     "name": "Badagaon",
+     "villages": 91
+    },
+    {
+     "id": "4c57355f-7035-5587-b4ef-32196263542a",
+     "lgd": 1246,
+     "name": "Bamaur",
+     "villages": 107
+    },
+    {
+     "id": "0c099574-b008-514d-95ac-1f305a746036",
+     "lgd": 1247,
+     "name": "Bangra",
+     "villages": 93
+    },
+    {
+     "id": "1d855921-557d-5635-b324-f8bdd2612f87",
+     "lgd": 1248,
+     "name": "Chirgaon",
+     "villages": 112
+    },
+    {
+     "id": "392e850a-6485-5df9-a69a-e4858b2dc943",
+     "lgd": 1249,
+     "name": "Gursarai",
+     "villages": 122
+    },
+    {
+     "id": "ac3e8d34-ea63-5b04-9533-2918dd51abeb",
+     "lgd": 1250,
+     "name": "Mauranipur",
+     "villages": 81
+    },
+    {
+     "id": "71b7fb3e-4434-58d5-be12-594c8e86d245",
+     "lgd": 1251,
+     "name": "Moth",
+     "villages": 153
+    }
+   ]
+  },
+  {
+   "id": "2ddb66f5-9340-52b6-866a-670544b64be0",
+   "lgd": 154,
+   "name": "Amroha",
+   "bbox": [
+    78.05088,
+    28.4332,
+    78.71648,
+    29.15915
+   ],
+   "blocks": [
+    {
+     "id": "b5aeaea1-a285-5a3b-9e27-3500a8b880f2",
+     "lgd": 1252,
+     "name": "Amroha",
+     "villages": 213
+    },
+    {
+     "id": "66641c83-baa1-51e7-87c2-fa800f6f526e",
+     "lgd": 1253,
+     "name": "Dhanaura",
+     "villages": 186
+    },
+    {
+     "id": "a8869433-1c27-5816-bbca-314d5402b87a",
+     "lgd": 1254,
+     "name": "Gajraula",
+     "villages": 176
+    },
+    {
+     "id": "36e54d65-f525-538f-8616-f361e16ca927",
+     "lgd": 1255,
+     "name": "Gangeshwari",
+     "villages": 158
+    },
+    {
+     "id": "5fbe3b28-f24a-5377-817c-286b9bef8b8e",
+     "lgd": 1256,
+     "name": "Hasanpur",
+     "villages": 187
+    },
+    {
+     "id": "1a00144f-ada7-553e-9302-8abbf1144ad0",
+     "lgd": 1257,
+     "name": "Joya",
+     "villages": 216
+    },
+    {
+     "id": "359ec0a4-cb68-5368-bda9-1ed327d55d8a",
+     "lgd": 1417,
+     "name": "Chhajlet",
+     "villages": 164
+    }
+   ]
+  },
+  {
+   "id": "8c6c0870-449f-5045-95cc-1e08adf9243d",
+   "lgd": 155,
+   "name": "Kannauj",
+   "bbox": [
+    79.31699,
+    26.76959,
+    80.02107,
+    27.22862
+   ],
+   "blocks": [
+    {
+     "id": "9c32b7ea-4da6-52fc-86a0-fbdd6b2e7b10",
+     "lgd": 1258,
+     "name": "Chhibramau",
+     "villages": 134
+    },
+    {
+     "id": "47a74e24-2d38-5ef5-b3b2-52dcadfcf6ce",
+     "lgd": 1259,
+     "name": "Gughrapur",
+     "villages": 39
+    },
+    {
+     "id": "65aef72e-481c-536e-b057-06fb804d6161",
+     "lgd": 1260,
+     "name": "Haseran",
+     "villages": 57
+    },
+    {
+     "id": "f10238ed-2400-5f73-9ae9-d44ad7a3f509",
+     "lgd": 1261,
+     "name": "Jalalabad",
+     "villages": 46
+    },
+    {
+     "id": "340e1e41-28b8-527f-9b08-380d20bb0916",
+     "lgd": 1262,
+     "name": "Kannauj",
+     "villages": 147
+    },
+    {
+     "id": "09170c06-8c39-5d8e-8621-10f17c47a8d0",
+     "lgd": 1263,
+     "name": "Saurikh",
+     "villages": 93
+    },
+    {
+     "id": "2c9b7b1e-79e0-5502-80eb-d5b3fbb15bf3",
+     "lgd": 1264,
+     "name": "Talgram",
+     "villages": 95
+    },
+    {
+     "id": "9a0a1ce4-a161-5175-85c1-abf661e8e576",
+     "lgd": 1265,
+     "name": "Umarda",
+     "villages": 105
+    }
+   ]
+  },
+  {
+   "id": "cf10bf33-33cd-55ef-a2d7-894c66801870",
+   "lgd": 156,
+   "name": "Kanpur Dehat",
+   "bbox": [
+    79.50579,
+    26.0906,
+    80.18508,
+    26.82754
+   ],
+   "blocks": [
+    {
+     "id": "dbd2e36f-80bb-5dd3-bf9f-7937a319cd0a",
+     "lgd": 1266,
+     "name": "Akbarpur",
+     "villages": 98
+    },
+    {
+     "id": "fe269932-ada4-5109-b3a8-be50814b8abc",
+     "lgd": 1267,
+     "name": "Amrodha",
+     "villages": 112
+    },
+    {
+     "id": "438124bd-c8ca-51ed-950d-1d2d461bc4be",
+     "lgd": 1268,
+     "name": "Derapur",
+     "villages": 73
+    },
+    {
+     "id": "3a30f7f5-7509-5d97-b874-d965a9a1a031",
+     "lgd": 1269,
+     "name": "Jhinjhak",
+     "villages": 74
+    },
+    {
+     "id": "88b65004-0aee-5b60-b7c5-547815b3d15b",
+     "lgd": 1270,
+     "name": "Maitha",
+     "villages": 104
+    },
+    {
+     "id": "0755904f-92c2-5433-9feb-ac1c6f913e21",
+     "lgd": 1271,
+     "name": "Malasa",
+     "villages": 96
+    },
+    {
+     "id": "fce03471-fcc0-5010-92b7-6ab392aa881b",
+     "lgd": 1272,
+     "name": "Rajpur",
+     "villages": 111
+    },
+    {
+     "id": "2e7df05f-8197-5c70-8121-594f5ef94234",
+     "lgd": 1273,
+     "name": "Rasulabad",
+     "villages": 138
+    },
+    {
+     "id": "7991e2da-09b2-5cb2-b4eb-50763375c14b",
+     "lgd": 1274,
+     "name": "Sandalpur",
+     "villages": 83
+    },
+    {
+     "id": "81ada1bf-64d2-5f05-b43d-903f727db194",
+     "lgd": 1275,
+     "name": "Sarbankhera",
+     "villages": 74
+    }
+   ]
+  },
+  {
+   "id": "bf59d055-0bed-597d-adb6-50b30fb7fc02",
+   "lgd": 157,
+   "name": "Kanpur Nagar",
+   "bbox": [
+    79.89098,
+    25.91971,
+    80.59143,
+    26.96337
+   ],
+   "blocks": [
+    {
+     "id": "f7bebc7a-bf3f-5184-b8eb-e43e8b43936b",
+     "lgd": 1276,
+     "name": "Bhitargaon",
+     "villages": 104
+    },
+    {
+     "id": "12ec501c-be21-518f-b1b1-ddc7195e874e",
+     "lgd": 1277,
+     "name": "Bilhaur",
+     "villages": 101
+    },
+    {
+     "id": "88ee42dc-6991-556c-a16c-4359ab6091ae",
+     "lgd": 1278,
+     "name": "Chaubeypur",
+     "villages": 114
+    },
+    {
+     "id": "dcb005ee-4b57-5152-8f70-60d8bb415111",
+     "lgd": 1279,
+     "name": "Ghatampur",
+     "villages": 128
+    },
+    {
+     "id": "5836d791-e955-5ef7-80f5-88dadeeac0a6",
+     "lgd": 1280,
+     "name": "Kakwan",
+     "villages": 37
+    },
+    {
+     "id": "c9ffb357-0993-54e2-ba81-7371aae0dd7f",
+     "lgd": 1281,
+     "name": "Kalyanpur",
+     "villages": 137
+    },
+    {
+     "id": "b2a2b7c1-45a9-5b00-a18a-b54cbb501a74",
+     "lgd": 1282,
+     "name": "Patara",
+     "villages": 73
+    },
+    {
+     "id": "dc9881a1-df5e-5f17-ae85-022a09d5e9cf",
+     "lgd": 1283,
+     "name": "Sarsol",
+     "villages": 77
+    },
+    {
+     "id": "78383581-0da9-56ac-a3fa-9f0a3e57b907",
+     "lgd": 1284,
+     "name": "Shivrajpur",
+     "villages": 119
+    },
+    {
+     "id": "d34cfef5-531c-5dae-a997-9da068b47899",
+     "lgd": 1285,
+     "name": "Vidhunu",
+     "villages": 90
+    }
+   ]
+  },
+  {
+   "id": "a1000000-0000-4000-8000-000000000002",
+   "lgd": 158,
+   "name": "Kaushambi",
+   "bbox": [
+    81.14687,
+    25.25852,
+    81.71335,
+    25.8107
+   ],
+   "blocks": [
+    {
+     "id": "7ab95d5b-8285-5aeb-a9ec-67b4c4575c86",
+     "lgd": 1286,
+     "name": "Chail",
+     "villages": 31
+    },
+    {
+     "id": "c3a974f5-91ac-5f30-ab56-051c82ceb22e",
+     "lgd": 1287,
+     "name": "Kara",
+     "villages": 137
+    },
+    {
+     "id": "1f1fc6d0-258e-5783-8fdc-d638f976c0f8",
+     "lgd": 1288,
+     "name": "Kaushambi",
+     "villages": 112
+    },
+    {
+     "id": "ae73686d-8aab-51be-9168-e97a1a112763",
+     "lgd": 1289,
+     "name": "Manjhanpur",
+     "villages": 107
+    },
+    {
+     "id": "e199d88d-bdb4-5976-bb95-26da60a6345c",
+     "lgd": 1290,
+     "name": "Mooratganj",
+     "villages": 102
+    },
+    {
+     "id": "83b73237-b227-5726-9826-a2e6d0bf89f5",
+     "lgd": 1291,
+     "name": "Nevada",
+     "villages": 96
+    },
+    {
+     "id": "d7d1340e-c238-5014-92a4-9677ae735acf",
+     "lgd": 1292,
+     "name": "Sarsawan",
+     "villages": 94
+    },
+    {
+     "id": "a8b6eb99-8640-5d65-b9b8-85f8c9560950",
+     "lgd": 1293,
+     "name": "Sirathu",
+     "villages": 144
+    }
+   ]
+  },
+  {
+   "id": "6631b93b-8a40-5762-9b7d-600beade80a4",
+   "lgd": 159,
+   "name": "Kheri",
+   "bbox": [
+    80.03018,
+    27.67552,
+    81.30507,
+    28.69174
+   ],
+   "blocks": [
+    {
+     "id": "79893a79-84b0-54a4-905e-eeefc40aead6",
+     "lgd": 1294,
+     "name": "Bankeyganj",
+     "villages": 87
+    },
+    {
+     "id": "41b413cb-f488-5482-9dd3-c7cb23085647",
+     "lgd": 1295,
+     "name": "Behjam",
+     "villages": 119
+    },
+    {
+     "id": "2f8da8c6-9b0a-5b1c-a340-227df7a319ef",
+     "lgd": 1296,
+     "name": "Bijuwa",
+     "villages": 118
+    },
+    {
+     "id": "e47633d7-0d93-5ed2-b5df-836ae1b8ae9f",
+     "lgd": 1297,
+     "name": "Dhaurhara",
+     "villages": 63
+    },
+    {
+     "id": "e824b6b9-93d6-548e-b05e-024580c38336",
+     "lgd": 1298,
+     "name": "Isanagar",
+     "villages": 105
+    },
+    {
+     "id": "785aa9e7-f708-5f9d-b551-d3b34107984f",
+     "lgd": 1299,
+     "name": "Kumbhigola",
+     "villages": 129
+    },
+    {
+     "id": "adcf4a20-01b5-5b7d-8b06-ea2ff468943a",
+     "lgd": 1300,
+     "name": "Lakhimpur",
+     "villages": 163
+    },
+    {
+     "id": "db5742c7-76b7-5062-bae4-8e2f545b82b9",
+     "lgd": 1301,
+     "name": "Mitauli",
+     "villages": 142
+    },
+    {
+     "id": "db299983-4764-5807-b8fe-ee6c6587936f",
+     "lgd": 1302,
+     "name": "Mohammadi",
+     "villages": 161
+    },
+    {
+     "id": "0c5634f7-63e1-535f-89af-4cc383edd493",
+     "lgd": 1303,
+     "name": "Nakaha",
+     "villages": 65
+    },
+    {
+     "id": "50cae9e3-3d01-5852-89b4-b6145b6116c0",
+     "lgd": 1304,
+     "name": "Nighasan",
+     "villages": 112
+    },
+    {
+     "id": "32ea1aec-041e-5ab8-b95a-8a5d38eecd9f",
+     "lgd": 1305,
+     "name": "Palia",
+     "villages": 146
+    },
+    {
+     "id": "9f8fd5b8-8107-5c8d-a11f-798b7dc25f95",
+     "lgd": 1306,
+     "name": "Pasgawan",
+     "villages": 217
+    },
+    {
+     "id": "d8c4c046-db4f-50ef-a8a1-d0bb276f8bc4",
+     "lgd": 1307,
+     "name": "Phoolbehar",
+     "villages": 153
+    },
+    {
+     "id": "c7ce4655-2ea0-57d9-b08e-5727ac44a18f",
+     "lgd": 1308,
+     "name": "Ramia Behar",
+     "villages": 61
+    }
+   ]
+  },
+  {
+   "id": "8ad362c3-723b-500e-b4f5-02d04a09f38b",
+   "lgd": 160,
+   "name": "Kushi Nagar",
+   "bbox": [
+    83.52441,
+    26.55113,
+    84.41956,
+    27.29725
+   ],
+   "blocks": [
+    {
+     "id": "778ff192-7eeb-5593-94f2-1d85ea8817a6",
+     "lgd": 1309,
+     "name": "Dudhahi",
+     "villages": 90
+    },
+    {
+     "id": "aae67e4c-16a7-545c-906e-70db6c53301f",
+     "lgd": 1310,
+     "name": "Fazilnagar",
+     "villages": 121
+    },
+    {
+     "id": "d1250159-27e2-59c8-b86a-091ad76b4362",
+     "lgd": 1311,
+     "name": "Hata",
+     "villages": 114
+    },
+    {
+     "id": "b4341a2e-fa13-5cc4-8b76-4a86f3c3e249",
+     "lgd": 1312,
+     "name": "Kaptainganj",
+     "villages": 86
+    },
+    {
+     "id": "e8a8f5e1-2800-541e-a82a-e0afa4b3f915",
+     "lgd": 1313,
+     "name": "Kasaya",
+     "villages": 68
+    },
+    {
+     "id": "b0f8581b-6470-5cb9-88d5-b280f76db5b5",
+     "lgd": 1314,
+     "name": "Khadda",
+     "villages": 135
+    },
+    {
+     "id": "c1094a8c-cb5f-528e-9f11-86f3bf7358ba",
+     "lgd": 1315,
+     "name": "Motichak",
+     "villages": 88
+    },
+    {
+     "id": "410435ac-067e-5921-b16d-55be6a0171b3",
+     "lgd": 1316,
+     "name": "Nebua Naurangia",
+     "villages": 106
+    },
+    {
+     "id": "62908191-f720-58bf-87b7-1f13a53d644f",
+     "lgd": 1317,
+     "name": "Padrauna",
+     "villages": 181
+    },
+    {
+     "id": "86db9704-41aa-528f-8b5e-43a2b9e6222d",
+     "lgd": 1318,
+     "name": "Ramkola",
+     "villages": 64
+    },
+    {
+     "id": "841154b1-e507-5b83-8650-5c3d46fed0d4",
+     "lgd": 1319,
+     "name": "Seorahi",
+     "villages": 101
+    },
+    {
+     "id": "ba736cd5-dd42-5c71-be56-6aa173a168e5",
+     "lgd": 1320,
+     "name": "Sukrauli",
+     "villages": 96
+    },
+    {
+     "id": "eb658a78-6668-5467-ae2a-2e433c05b905",
+     "lgd": 1321,
+     "name": "Tamkuhiraj",
+     "villages": 156
+    },
+    {
+     "id": "a83b33f0-fd55-57b2-8d86-371139158442",
+     "lgd": 1322,
+     "name": "Vishunpura",
+     "villages": 122
+    }
+   ]
+  },
+  {
+   "id": "934b7e1b-4758-5eb5-9b7c-287cffab1f9a",
+   "lgd": 161,
+   "name": "Lalitpur",
+   "bbox": [
+    78.16887,
+    24.17711,
+    78.99365,
+    25.22371
+   ],
+   "blocks": [
+    {
+     "id": "3e2fa0a3-1ad6-560f-9155-9b54c3d46d54",
+     "lgd": 1323,
+     "name": "Bar",
+     "villages": 93
+    },
+    {
+     "id": "71d58724-9c5b-54d9-845b-cf65f58a6d61",
+     "lgd": 1324,
+     "name": "Birdha",
+     "villages": 167
+    },
+    {
+     "id": "d6256958-7ec9-545b-a453-14879c38d21e",
+     "lgd": 1325,
+     "name": "Jakhaura",
+     "villages": 151
+    },
+    {
+     "id": "101f22f0-9ace-5e9d-b544-c5fab894a795",
+     "lgd": 1326,
+     "name": "Mandawara",
+     "villages": 140
+    },
+    {
+     "id": "2f2032bb-49dd-56c2-ae46-904cfdff27ff",
+     "lgd": 1327,
+     "name": "Mehroni",
+     "villages": 111
+    },
+    {
+     "id": "a2d15d16-b1eb-5765-ab96-cc9a78b2f568",
+     "lgd": 1328,
+     "name": "Talbehat",
+     "villages": 109
+    }
+   ]
+  },
+  {
+   "id": "a1000000-0000-4000-8000-000000000004",
+   "lgd": 162,
+   "name": "Lucknow",
+   "bbox": [
+    80.56039,
+    26.50464,
+    81.2175,
+    27.15863
+   ],
+   "blocks": [
+    {
+     "id": "6a0d00df-616d-5383-903e-28b62479a5f3",
+     "lgd": 1329,
+     "name": "Bakshi-Ka-Talab",
+     "villages": 185
+    },
+    {
+     "id": "2497bcb5-3d7b-5bc0-9758-d6e24400cd8f",
+     "lgd": 1330,
+     "name": "Chinhat",
+     "villages": 57
+    },
+    {
+     "id": "e197e2d6-8413-5d22-80e1-3ee9acaabbab",
+     "lgd": 1331,
+     "name": "Gosaiganj",
+     "villages": 117
+    },
+    {
+     "id": "99b4024d-e688-5975-a9a9-b90920856a5c",
+     "lgd": 1332,
+     "name": "Kakori",
+     "villages": 82
+    },
+    {
+     "id": "86ff7802-8b14-5338-b1b8-8d3101048a74",
+     "lgd": 1333,
+     "name": "Mal",
+     "villages": 87
+    },
+    {
+     "id": "abc23de3-c34a-58bd-8897-39eb6edfc37f",
+     "lgd": 1334,
+     "name": "Malihabad",
+     "villages": 95
+    },
+    {
+     "id": "906ddc6b-1bc4-5c84-b6d1-8a07a763a388",
+     "lgd": 1335,
+     "name": "Mohanlalganj",
+     "villages": 107
+    },
+    {
+     "id": "cba7b33c-7754-57c7-806a-ce2ba40910d1",
+     "lgd": 1336,
+     "name": "Sarojaninagar",
+     "villages": 94
+    }
+   ]
+  },
+  {
+   "id": "5978a5cf-b98f-5200-9956-26e3b983c389",
+   "lgd": 163,
+   "name": "Hathras",
+   "bbox": [
+    77.87444,
+    27.29695,
+    78.52728,
+    27.84794
+   ],
+   "blocks": [
+    {
+     "id": "c20081ff-71f3-5bd8-8b21-1d0ac40464fe",
+     "lgd": 1337,
+     "name": "Hasayan",
+     "villages": 95
+    },
+    {
+     "id": "1088850c-c3bb-593a-b44d-1e7a46dc65c6",
+     "lgd": 1338,
+     "name": "Hathras",
+     "villages": 80
+    },
+    {
+     "id": "405a8510-5561-5437-aa03-452d36a0a88a",
+     "lgd": 1339,
+     "name": "Mursan",
+     "villages": 127
+    },
+    {
+     "id": "b493f692-d533-5638-8911-55097d3bb091",
+     "lgd": 1340,
+     "name": "Sadabad",
+     "villages": 68
+    },
+    {
+     "id": "d858a4d1-ff0f-5776-b7a1-fac0f8d8166c",
+     "lgd": 1341,
+     "name": "Sasni",
+     "villages": 106
+    },
+    {
+     "id": "638b023a-ab0b-50ec-81d9-aee021a7c2d8",
+     "lgd": 1342,
+     "name": "Sehpau",
+     "villages": 60
+    },
+    {
+     "id": "cef171cc-bd7b-5dd9-b484-a327ef85205d",
+     "lgd": 1343,
+     "name": "Sikandrarao",
+     "villages": 65
+    }
+   ]
+  },
+  {
+   "id": "428d0bad-832f-5c5c-95c0-271290f4bbbd",
+   "lgd": 164,
+   "name": "Maharajganj",
+   "bbox": [
+    83.12032,
+    26.88855,
+    83.93383,
+    27.47935
+   ],
+   "blocks": [
+    {
+     "id": "f6fee773-9a2b-578c-a011-117974944386",
+     "lgd": 1344,
+     "name": "Bridgemanganj",
+     "villages": 93
+    },
+    {
+     "id": "ee49ea96-5a70-5a21-a9d2-dfec8a83d9a8",
+     "lgd": 1345,
+     "name": "Dhani",
+     "villages": 40
+    },
+    {
+     "id": "99070a52-4e5b-5807-8194-221da69b6503",
+     "lgd": 1346,
+     "name": "Ghughli",
+     "villages": 79
+    },
+    {
+     "id": "ff9bf1c4-9181-50b1-a6ce-f33aeabf2191",
+     "lgd": 1347,
+     "name": "Lakshmipur",
+     "villages": 146
+    },
+    {
+     "id": "9fe70529-8426-5e9c-9ca0-6ea3d4e01fce",
+     "lgd": 1348,
+     "name": "Mahrajganj",
+     "villages": 84
+    },
+    {
+     "id": "a90125b1-81e6-5b53-933c-897846d74a46",
+     "lgd": 1349,
+     "name": "Mithaura",
+     "villages": 115
+    },
+    {
+     "id": "c7453e98-7fed-5342-95d3-81ca9ce1d670",
+     "lgd": 1350,
+     "name": "Nautanwa",
+     "villages": 127
+    },
+    {
+     "id": "04899165-6bbf-5a1f-a405-c5c1ccc18fb4",
+     "lgd": 1351,
+     "name": "Nichlaul",
+     "villages": 189
+    },
+    {
+     "id": "8c1b8e16-2af2-58ae-9132-8f6cdc73ddb7",
+     "lgd": 1352,
+     "name": "Paniyara",
+     "villages": 96
+    },
+    {
+     "id": "74eb9c1f-0af7-54ea-8b34-e48cc605c637",
+     "lgd": 1353,
+     "name": "Partawal",
+     "villages": 91
+    },
+    {
+     "id": "ff7fb4bd-03d4-526c-bf4c-ca6b00c952ac",
+     "lgd": 1354,
+     "name": "Pharenda",
+     "villages": 93
+    },
+    {
+     "id": "40b5629a-7764-53cc-9f6e-08e721531b21",
+     "lgd": 1355,
+     "name": "Siswa",
+     "villages": 95
+    }
+   ]
+  },
+  {
+   "id": "ccea5488-e43e-5b07-80a0-0423a82adb5a",
+   "lgd": 165,
+   "name": "Mahoba",
+   "bbox": [
+    79.27354,
+    25.03384,
+    80.22614,
+    25.64268
+   ],
+   "blocks": [
+    {
+     "id": "d8a002cb-24a0-5097-bfa4-5f46982014f3",
+     "lgd": 1356,
+     "name": "Charkhari",
+     "villages": 117
+    },
+    {
+     "id": "fc262580-509e-503a-9850-a3dc189c47f3",
+     "lgd": 1357,
+     "name": "Jaitpur",
+     "villages": 118
+    },
+    {
+     "id": "6237abef-e63b-5a5f-8858-ef05511e1849",
+     "lgd": 1358,
+     "name": "Kabrai",
+     "villages": 128
+    },
+    {
+     "id": "e4875dca-ed5f-5e07-a481-cf008aa6eafb",
+     "lgd": 1359,
+     "name": "Panwari",
+     "villages": 141
+    }
+   ]
+  },
+  {
+   "id": "15941fa3-525e-58ce-9b6f-1649deabdf79",
+   "lgd": 166,
+   "name": "Mainpuri",
+   "bbox": [
+    78.68838,
+    26.94514,
+    79.43686,
+    27.47225
+   ],
+   "blocks": [
+    {
+     "id": "0dbda798-0694-5216-a682-2f338aa82ce3",
+     "lgd": 1360,
+     "name": "Barnahal",
+     "villages": 92
+    },
+    {
+     "id": "8be155cf-7054-5aa4-983c-eca0fef69843",
+     "lgd": 1361,
+     "name": "Bewar",
+     "villages": 156
+    },
+    {
+     "id": "cd54e9fd-5045-5c83-95ae-071e8286214e",
+     "lgd": 1362,
+     "name": "Ghiror",
+     "villages": 74
+    },
+    {
+     "id": "3893b761-e555-5cf6-95d5-3efac3236e60",
+     "lgd": 1363,
+     "name": "Jageer",
+     "villages": 59
+    },
+    {
+     "id": "0e84f03c-2fc1-5d09-9c85-a88982b61ce9",
+     "lgd": 1364,
+     "name": "Karhal",
+     "villages": 96
+    },
+    {
+     "id": "729884f2-d832-5516-862e-07fd3ae75919",
+     "lgd": 1365,
+     "name": "Kishni",
+     "villages": 96
+    },
+    {
+     "id": "02b42fbb-76ef-515d-8946-75c07df78187",
+     "lgd": 1366,
+     "name": "Kuraoli",
+     "villages": 104
+    },
+    {
+     "id": "5da0f3e4-f775-5ed6-a0b1-e68b719cdad4",
+     "lgd": 1367,
+     "name": "Mainpuri",
+     "villages": 76
+    },
+    {
+     "id": "ce16c5fb-17db-57c0-9bbf-5f4160558de5",
+     "lgd": 1368,
+     "name": "Sultanganj",
+     "villages": 102
+    }
+   ]
+  },
+  {
+   "id": "ccdbecad-97e5-5f4d-a78f-c99f77c7f0f5",
+   "lgd": 167,
+   "name": "Mathura",
+   "bbox": [
+    77.2829,
+    27.23337,
+    77.98925,
+    27.96761
+   ],
+   "blocks": [
+    {
+     "id": "b50fbc39-9c11-5581-908c-4e8d1e8c888f",
+     "lgd": 1369,
+     "name": "Baldeo",
+     "villages": 105
+    },
+    {
+     "id": "7beb1985-6cea-56e7-b0d5-568052b9a867",
+     "lgd": 1370,
+     "name": "Chaumuha",
+     "villages": 61
+    },
+    {
+     "id": "c999ae6f-cdf7-562a-8753-7589ba25fd5f",
+     "lgd": 1371,
+     "name": "Chhata",
+     "villages": 92
+    },
+    {
+     "id": "68502735-9155-5590-9972-9346976351c1",
+     "lgd": 1372,
+     "name": "Farah",
+     "villages": 83
+    },
+    {
+     "id": "a573029c-0d1d-5494-af0c-deebe6146660",
+     "lgd": 1373,
+     "name": "Govardhan",
+     "villages": 54
+    },
+    {
+     "id": "06e55b4a-4c80-5266-8452-7c5b27658a67",
+     "lgd": 1374,
+     "name": "Mat",
+     "villages": 75
+    },
+    {
+     "id": "c94cf630-54e5-5ec7-a2b9-51ca5d879b65",
+     "lgd": 1375,
+     "name": "Mathura",
+     "villages": 109
+    },
+    {
+     "id": "1734de4c-025e-5e56-8a92-33b3f9b18101",
+     "lgd": 1376,
+     "name": "Nandgaon",
+     "villages": 51
+    },
+    {
+     "id": "d84d7745-e0e9-5cc0-9b73-d9c34229a8e0",
+     "lgd": 1377,
+     "name": "Nohjhil",
+     "villages": 143
+    },
+    {
+     "id": "e57fdda8-8f92-566b-bcdd-db832cc0df28",
+     "lgd": 1378,
+     "name": "Raya",
+     "villages": 96
+    }
+   ]
+  },
+  {
+   "id": "14b9cda3-a22e-5956-9f97-c88edd7e65e7",
+   "lgd": 168,
+   "name": "Mau",
+   "bbox": [
+    83.29603,
+    25.79736,
+    83.8612,
+    26.28077
+   ],
+   "blocks": [
+    {
+     "id": "de7cbaf5-199d-546d-a528-fdbc072c78c7",
+     "lgd": 1379,
+     "name": "Badraon",
+     "villages": 144
+    },
+    {
+     "id": "c3790932-b19f-5d45-9255-375e9a05db1e",
+     "lgd": 1380,
+     "name": "Dohri Ghat",
+     "villages": 150
+    },
+    {
+     "id": "46156a80-532a-500a-9085-08c94683132c",
+     "lgd": 1381,
+     "name": "Fatehpur Madaun",
+     "villages": 201
+    },
+    {
+     "id": "b62a9563-3e32-539e-b49a-85901571b3c0",
+     "lgd": 1382,
+     "name": "Ghosi",
+     "villages": 145
+    },
+    {
+     "id": "79915e7d-c289-563f-a7e8-067b8c0f2baa",
+     "lgd": 1383,
+     "name": "Kopaganj",
+     "villages": 130
+    },
+    {
+     "id": "82097551-a6ec-5da8-9987-93cf930ced58",
+     "lgd": 1384,
+     "name": "Mohammadabad Gohana",
+     "villages": 162
+    },
+    {
+     "id": "cd5e4e8d-714b-5e93-8a5b-d981a7169361",
+     "lgd": 1385,
+     "name": "Pardaha",
+     "villages": 127
+    },
+    {
+     "id": "c831ebf4-0ed6-5642-b09c-c5115fd11b2f",
+     "lgd": 1386,
+     "name": "Ranipur",
+     "villages": 278
+    },
+    {
+     "id": "0db49181-6f82-5955-9799-93c77664e4c3",
+     "lgd": 1387,
+     "name": "Ratanpura",
+     "villages": 163
+    }
+   ]
+  },
+  {
+   "id": "763712d0-e5a1-5d67-b560-47ae3e6c3de8",
+   "lgd": 169,
+   "name": "Meerut",
+   "bbox": [
+    77.42502,
+    28.73701,
+    78.12344,
+    29.26648
+   ],
+   "blocks": [
+    {
+     "id": "7f53f6fb-9007-5b4d-9378-381d244e02a2",
+     "lgd": 1132,
+     "name": "Hapur",
+     "villages": 7
+    },
+    {
+     "id": "36bc0a8a-6c22-51c6-b6f8-8c314f7dbf5c",
+     "lgd": 1388,
+     "name": "Daurala",
+     "villages": 54
+    },
+    {
+     "id": "f4bc0f7c-80d1-59c6-96a2-72dba78e39d6",
+     "lgd": 1389,
+     "name": "Hastinapur",
+     "villages": 108
+    },
+    {
+     "id": "283e5670-50f0-5824-9e82-1e60d789757c",
+     "lgd": 1390,
+     "name": "Janikhurd",
+     "villages": 56
+    },
+    {
+     "id": "8dc48109-9a1d-57f8-beb2-1bb92b4ddd84",
+     "lgd": 1391,
+     "name": "Kharkhoda",
+     "villages": 40
+    },
+    {
+     "id": "6448f7ad-d83f-5678-9a79-ff3d9f42261b",
+     "lgd": 1392,
+     "name": "Machra",
+     "villages": 50
+    },
+    {
+     "id": "dbaef915-ae12-5289-a05c-892193168006",
+     "lgd": 1393,
+     "name": "Mawana Kalan",
+     "villages": 61
+    },
+    {
+     "id": "2a836bc8-fdd5-589d-9309-9c37cd183f42",
+     "lgd": 1394,
+     "name": "Meerut",
+     "villages": 74
+    },
+    {
+     "id": "53f117c2-d38e-5b90-9193-9f228d7f703e",
+     "lgd": 1395,
+     "name": "Parikshitgarh",
+     "villages": 81
+    },
+    {
+     "id": "13b475f5-3189-58e8-b511-fc4d9ca9f206",
+     "lgd": 1396,
+     "name": "Rajpura",
+     "villages": 50
+    },
+    {
+     "id": "f4a8387b-1fb0-52a3-b133-1788bbe162a3",
+     "lgd": 1397,
+     "name": "Rohta",
+     "villages": 50
+    },
+    {
+     "id": "1d92af1d-80e6-5919-9921-3d26eb003aee",
+     "lgd": 1398,
+     "name": "Sardhana",
+     "villages": 48
+    },
+    {
+     "id": "e703f561-79b4-5365-9b01-7bacf2706dcf",
+     "lgd": 1399,
+     "name": "Sarurpur Khurd",
+     "villages": 36
+    }
+   ]
+  },
+  {
+   "id": "af40e865-3cd9-5246-9dd5-e27376a41d47",
+   "lgd": 170,
+   "name": "Mirzapur",
+   "bbox": [
+    82.08039,
+    24.5912,
+    83.18093,
+    25.27206
+   ],
+   "blocks": [
+    {
+     "id": "053d8b32-f773-5a2b-95e0-9ea7f957ef72",
+     "lgd": 1400,
+     "name": "Chhanvey",
+     "villages": 255
+    },
+    {
+     "id": "d03fa367-44a0-57be-afd3-0582cb3e66f0",
+     "lgd": 1401,
+     "name": "Hallia",
+     "villages": 190
+    },
+    {
+     "id": "ae127f15-3e83-5b69-88e7-2ddea07882ff",
+     "lgd": 1402,
+     "name": "Jamalpur",
+     "villages": 160
+    },
+    {
+     "id": "259185c3-ae26-5725-8184-0f16f2262573",
+     "lgd": 1403,
+     "name": "Kon",
+     "villages": 84
+    },
+    {
+     "id": "2d5a48dc-0e5e-5ce8-b90d-418cae4ee906",
+     "lgd": 1404,
+     "name": "Lalganj",
+     "villages": 219
+    },
+    {
+     "id": "a71b397b-af1f-5381-afc9-53c5cbeba651",
+     "lgd": 1405,
+     "name": "Majhawa",
+     "villages": 48
+    },
+    {
+     "id": "aa189e62-2a3e-5ffd-89e8-d768d55ba938",
+     "lgd": 1406,
+     "name": "Nagar (City)",
+     "villages": 194
+    },
+    {
+     "id": "466eece3-80b6-55ad-be42-151b0d9d8000",
+     "lgd": 1407,
+     "name": "Narainpur",
+     "villages": 178
+    },
+    {
+     "id": "5ed31ef9-e484-5616-b609-03f9fee47336",
+     "lgd": 1408,
+     "name": "Pahari",
+     "villages": 122
+    },
+    {
+     "id": "8e58f69d-efb0-556e-bec3-89ed6aaefc99",
+     "lgd": 1409,
+     "name": "Patehra",
+     "villages": 118
+    },
+    {
+     "id": "5b9549d3-8ae1-5f17-9e60-81c97a40d286",
+     "lgd": 1410,
+     "name": "Rajgarh",
+     "villages": 154
+    },
+    {
+     "id": "f7e43595-9407-5d8b-97c0-84b43cb3cbce",
+     "lgd": 1411,
+     "name": "Shikhar",
+     "villages": 79
+    }
+   ]
+  },
+  {
+   "id": "9d1e66d1-0b90-595d-abb7-db218847863c",
+   "lgd": 171,
+   "name": "Moradabad",
+   "bbox": [
+    78.61822,
+    28.49236,
+    79.00108,
+    29.26816
+   ],
+   "blocks": [
+    {
+     "id": "f10f9142-0fd6-5a54-9d80-e1ccbf205b9b",
+     "lgd": 1415,
+     "name": "Bhagatpur Tanda",
+     "villages": 118
+    },
+    {
+     "id": "75851a34-b4f0-55df-87bf-7210a73a4abf",
+     "lgd": 1416,
+     "name": "Bilari",
+     "villages": 163
+    },
+    {
+     "id": "a5a13fce-4c2e-5a7d-ac42-2a88384b9582",
+     "lgd": 1418,
+     "name": "Dilari",
+     "villages": 187
+    },
+    {
+     "id": "342e5acd-70f3-515c-8479-85cc6ea62cfb",
+     "lgd": 1419,
+     "name": "Kundarki",
+     "villages": 170
+    },
+    {
+     "id": "c9155c64-762b-5821-b5ea-f4a51a776b0c",
+     "lgd": 1420,
+     "name": "Moradabad",
+     "villages": 100
+    },
+    {
+     "id": "381e4496-3b42-5111-ab93-65954f66fb46",
+     "lgd": 1421,
+     "name": "Munda Pandey",
+     "villages": 117
+    },
+    {
+     "id": "a56c65c0-4d63-5922-a019-cf868ab759d9",
+     "lgd": 1424,
+     "name": "Thakurdwara",
+     "villages": 149
+    }
+   ]
+  },
+  {
+   "id": "68b886f0-1275-5e9d-b2cf-88f4dd981fd6",
+   "lgd": 172,
+   "name": "Muzaffarnagar",
+   "bbox": [
+    77.27788,
+    29.18508,
+    78.11484,
+    29.71324
+   ],
+   "blocks": [
+    {
+     "id": "582f8651-e419-5b25-8cb4-e95354572d49",
+     "lgd": 1425,
+     "name": "Baghara",
+     "villages": 60
+    },
+    {
+     "id": "6db33127-b151-53a1-8ba9-20cc90d6be77",
+     "lgd": 1426,
+     "name": "Budhana",
+     "villages": 65
+    },
+    {
+     "id": "8c14d3ae-3abb-5164-a333-d00fac3ebd55",
+     "lgd": 1427,
+     "name": "Charthawal",
+     "villages": 68
+    },
+    {
+     "id": "ded90e93-b784-52c8-8e57-2b43f8e5f8ec",
+     "lgd": 1428,
+     "name": "Jansath",
+     "villages": 110
+    },
+    {
+     "id": "989149d4-1e63-52f4-9539-0ffffff9302f",
+     "lgd": 1430,
+     "name": "Kandhla",
+     "villages": 10
+    },
+    {
+     "id": "4c3905f6-89fd-5c6d-b71e-97e798cb3715",
+     "lgd": 1431,
+     "name": "Khatauli",
+     "villages": 113
+    },
+    {
+     "id": "0a0d95b3-30d1-5c07-b5e3-4549fb29f8c2",
+     "lgd": 1432,
+     "name": "Morna",
+     "villages": 65
+    },
+    {
+     "id": "df234d52-66b3-573f-89e6-96b13c793009",
+     "lgd": 1433,
+     "name": "Muzaffarnagar",
+     "villages": 56
+    },
+    {
+     "id": "b9332d61-d5dd-5f5b-ac1f-c6ab6621ff70",
+     "lgd": 1434,
+     "name": "Purkaji",
+     "villages": 89
+    },
+    {
+     "id": "ba8a05b4-d419-5a50-90b6-394f7254a201",
+     "lgd": 1435,
+     "name": "Shahpur",
+     "villages": 51
+    }
+   ]
+  },
+  {
+   "id": "278ebc5c-da7f-5088-b5d3-b443e3d6451f",
+   "lgd": 173,
+   "name": "Pilibhit",
+   "bbox": [
+    79.62194,
+    28.10107,
+    80.44984,
+    28.88781
+   ],
+   "blocks": [
+    {
+     "id": "72f38873-caa9-5a0a-9a99-9ca9dbf6095d",
+     "lgd": 1439,
+     "name": "Amariya",
+     "villages": 189
+    },
+    {
+     "id": "963aa13d-e4b3-5662-a757-1d99f95a311e",
+     "lgd": 1440,
+     "name": "Barkhera",
+     "villages": 139
+    },
+    {
+     "id": "86ab7e35-1e4c-58ae-b6ff-ca928788017a",
+     "lgd": 1441,
+     "name": "Bilsanda",
+     "villages": 170
+    },
+    {
+     "id": "ac14e663-4fe8-5bf4-8c31-af3600ae6424",
+     "lgd": 1442,
+     "name": "Bisalpur",
+     "villages": 141
+    },
+    {
+     "id": "160a209e-966b-5c90-bcf9-c2fa6e988e67",
+     "lgd": 1443,
+     "name": "Lalaurikhera",
+     "villages": 108
+    },
+    {
+     "id": "3ecea060-ff72-5787-bb65-e77b98a2ac51",
+     "lgd": 1444,
+     "name": "Marori",
+     "villages": 144
+    },
+    {
+     "id": "97e683b3-bdea-57cf-ae59-c5dad7437e72",
+     "lgd": 1445,
+     "name": "Puranpur",
+     "villages": 499
+    }
+   ]
+  },
+  {
+   "id": "d7f958ad-f771-59e3-87da-81288259537f",
+   "lgd": 174,
+   "name": "Pratapgarh",
+   "bbox": [
+    81.32497,
+    25.57261,
+    82.43393,
+    26.18069
+   ],
+   "blocks": [
+    {
+     "id": "8a6782ca-575b-5050-9509-3d1cb2decd02",
+     "lgd": 1446,
+     "name": "Aspur Deosara",
+     "villages": 137
+    },
+    {
+     "id": "1da3184c-8217-571b-a191-ed6fd9b93319",
+     "lgd": 1447,
+     "name": "Baba Belkharnath Dham",
+     "villages": 67
+    },
+    {
+     "id": "6bf661f8-fade-55c4-9c52-6c5827f8c1e5",
+     "lgd": 1448,
+     "name": "Babaganj",
+     "villages": 142
+    },
+    {
+     "id": "6fcca155-cea7-5dd2-85b8-e4d5b9c10575",
+     "lgd": 1449,
+     "name": "Bihar",
+     "villages": 105
+    },
+    {
+     "id": "df72317a-dee0-5f67-960d-6a20abdd1a63",
+     "lgd": 1450,
+     "name": "Gaura",
+     "villages": 123
+    },
+    {
+     "id": "3547dd89-9d12-57f9-a8af-d2804f5ee6da",
+     "lgd": 1451,
+     "name": "Kalakankar",
+     "villages": 102
+    },
+    {
+     "id": "62658195-9087-50d9-8147-8cb8cf646364",
+     "lgd": 1452,
+     "name": "Kunda",
+     "villages": 117
+    },
+    {
+     "id": "0d9f9201-8340-5ff1-9fc3-dd67c524ed05",
+     "lgd": 1453,
+     "name": "Lakshamanpur",
+     "villages": 130
+    },
+    {
+     "id": "7fb29865-81ca-5fef-8dc0-2e936484ba6f",
+     "lgd": 1454,
+     "name": "Lalganj",
+     "villages": 92
+    },
+    {
+     "id": "d6c53db6-1698-56ee-8f9c-7626836fa6c1",
+     "lgd": 1455,
+     "name": "Magraura",
+     "villages": 195
+    },
+    {
+     "id": "b486d6b5-d051-5865-bd7a-804557e6d822",
+     "lgd": 1456,
+     "name": "Mandhata",
+     "villages": 171
+    },
+    {
+     "id": "af331510-4eaa-5a47-9197-66f811d410b2",
+     "lgd": 1457,
+     "name": "Patti",
+     "villages": 158
+    },
+    {
+     "id": "628f778c-ff8a-5303-8f0d-37effeb44659",
+     "lgd": 1458,
+     "name": "Pratapgarh (Sadar)",
+     "villages": 149
+    },
+    {
+     "id": "f652270e-d576-54df-9f81-e2efc9106822",
+     "lgd": 1459,
+     "name": "Rampur Sanramgarh",
+     "villages": 121
+    },
+    {
+     "id": "5cb10de9-5e09-5d0c-a1f6-54e5cbd304dc",
+     "lgd": 1460,
+     "name": "Sandwa Chandrika",
+     "villages": 129
+    },
+    {
+     "id": "d481bbd6-842c-5423-8a1e-72342ebdd127",
+     "lgd": 1461,
+     "name": "Sangipur",
+     "villages": 120
+    },
+    {
+     "id": "e3abd822-9c70-5807-882a-02b56c659439",
+     "lgd": 1462,
+     "name": "Shivgarh",
+     "villages": 102
+    }
+   ]
+  },
+  {
+   "id": "9868ac70-c45d-5bc6-abd5-bfb16428f30b",
+   "lgd": 175,
+   "name": "Rae Bareli",
+   "bbox": [
+    80.67019,
+    25.8107,
+    81.6183,
+    26.60663
+   ],
+   "blocks": [
+    {
+     "id": "54429003-2d87-5a8e-9faf-4872dcc25edc",
+     "lgd": 1463,
+     "name": "Amawan",
+     "villages": 84
+    },
+    {
+     "id": "ab99d63d-9169-5c82-b68d-a9fa8167a67a",
+     "lgd": 1464,
+     "name": "Bachharawan",
+     "villages": 68
+    },
+    {
+     "id": "ca46cbfd-89d8-579d-ac30-b36f6634cc3b",
+     "lgd": 1466,
+     "name": "Chhatoh",
+     "villages": 58
+    },
+    {
+     "id": "8ac6df74-0ca8-50f7-af8e-5f9f3a16cdcd",
+     "lgd": 1467,
+     "name": "Dalmau",
+     "villages": 122
+    },
+    {
+     "id": "579af258-60de-54c7-8990-fd3d1edff43b",
+     "lgd": 1468,
+     "name": "Deenshah Gaura",
+     "villages": 69
+    },
+    {
+     "id": "4618223f-3efe-5503-b4d0-59e3015c47da",
+     "lgd": 1469,
+     "name": "Dih",
+     "villages": 71
+    },
+    {
+     "id": "87f86ff7-386f-5b56-b336-1df22d6b3345",
+     "lgd": 1470,
+     "name": "Harchandpur",
+     "villages": 74
+    },
+    {
+     "id": "931f8259-f386-5818-8cd7-d4687b3b5695",
+     "lgd": 1471,
+     "name": "Jagatpur",
+     "villages": 61
+    },
+    {
+     "id": "9d2ea9ef-8639-519c-9d97-4be4edef30ef",
+     "lgd": 1472,
+     "name": "Khiron",
+     "villages": 95
+    },
+    {
+     "id": "59e966e9-59d2-5c98-8567-a0eb94a0b1ba",
+     "lgd": 1473,
+     "name": "Lalganj",
+     "villages": 86
+    },
+    {
+     "id": "0b5efa11-9ad9-5644-82d6-3b2321fadaa6",
+     "lgd": 1474,
+     "name": "Mahrajganj",
+     "villages": 71
+    },
+    {
+     "id": "835b2b5e-9348-5990-aa38-262e7faaef35",
+     "lgd": 1475,
+     "name": "Rahi",
+     "villages": 119
+    },
+    {
+     "id": "bddd507a-8c67-5368-b3f7-74d9596f5847",
+     "lgd": 1476,
+     "name": "Rohania",
+     "villages": 52
+    },
+    {
+     "id": "8c25db48-ad82-5bc4-be73-97f571639dae",
+     "lgd": 1477,
+     "name": "Salon",
+     "villages": 137
+    },
+    {
+     "id": "c7232027-eeaf-50a2-9e17-6c58c3d69ba8",
+     "lgd": 1478,
+     "name": "Sareni",
+     "villages": 155
+    },
+    {
+     "id": "752c5372-83ad-5440-a279-ac731884dedb",
+     "lgd": 1479,
+     "name": "Sataon",
+     "villages": 80
+    },
+    {
+     "id": "c80a1f63-a4ad-53cd-b3d9-fb95f4a297a7",
+     "lgd": 1480,
+     "name": "Shivgarh",
+     "villages": 65
+    },
+    {
+     "id": "5f71a4f3-ed64-54cc-b44b-201e828e196b",
+     "lgd": 1483,
+     "name": "Unchahar",
+     "villages": 103
+    }
+   ]
+  },
+  {
+   "id": "1d8c4aea-5a75-5756-b6f1-eb599bab4ff0",
+   "lgd": 176,
+   "name": "Rampur",
+   "bbox": [
+    78.85984,
+    28.41823,
+    79.42756,
+    29.16857
+   ],
+   "blocks": [
+    {
+     "id": "41c8169e-91b4-560d-baed-5a217e850b85",
+     "lgd": 1484,
+     "name": "Bilaspur",
+     "villages": 219
+    },
+    {
+     "id": "5a11b180-300f-57c0-87b4-3c31ee11bec3",
+     "lgd": 1485,
+     "name": "Chamraon",
+     "villages": 130
+    },
+    {
+     "id": "f27bfa1d-b514-5be7-a2c4-a72f28998e42",
+     "lgd": 1486,
+     "name": "Milak",
+     "villages": 202
+    },
+    {
+     "id": "259b2998-57df-5e50-b5be-43526f3c8c97",
+     "lgd": 1487,
+     "name": "Saidnagar",
+     "villages": 114
+    },
+    {
+     "id": "3fb5ede4-184d-55db-a9c4-f8012fbcf6d8",
+     "lgd": 1488,
+     "name": "Shahabad",
+     "villages": 209
+    },
+    {
+     "id": "e15664f6-6b5d-50b0-a126-21286ed6aae8",
+     "lgd": 1489,
+     "name": "Suar",
+     "villages": 275
+    }
+   ]
+  },
+  {
+   "id": "c9b8e430-4da5-5df4-a4b5-db6fa60a5bef",
+   "lgd": 177,
+   "name": "Saharanpur",
+   "bbox": [
+    77.11981,
+    29.56466,
+    77.96084,
+    30.40612
+   ],
+   "blocks": [
+    {
+     "id": "31e41988-895e-57ed-8c31-e33c1c804b87",
+     "lgd": 1490,
+     "name": "Ballia Kheri",
+     "villages": 125
+    },
+    {
+     "id": "fb3d53ea-ec2a-5aaf-8e79-97e550c427b9",
+     "lgd": 1491,
+     "name": "Deoband",
+     "villages": 110
+    },
+    {
+     "id": "53b55aef-c8df-58a3-a4d6-cb435c7e27ac",
+     "lgd": 1492,
+     "name": "Gangoh",
+     "villages": 154
+    },
+    {
+     "id": "40be2479-ebf5-5e4f-885f-335e699efcd2",
+     "lgd": 1493,
+     "name": "Muzaffarabad",
+     "villages": 136
+    },
+    {
+     "id": "3d66e614-58b4-551e-b3f1-c02bf86d85ec",
+     "lgd": 1494,
+     "name": "Nagal",
+     "villages": 104
+    },
+    {
+     "id": "aa8ad9fc-6e0a-5810-82db-7b686e035bd5",
+     "lgd": 1495,
+     "name": "Nakur",
+     "villages": 159
+    },
+    {
+     "id": "5012b45a-3889-5f17-8758-d6d3c7f4bc66",
+     "lgd": 1496,
+     "name": "Nanauta",
+     "villages": 72
+    },
+    {
+     "id": "10647cbb-fdde-5975-bc1e-bdd3321a3ecf",
+     "lgd": 1497,
+     "name": "Puwarka",
+     "villages": 155
+    },
+    {
+     "id": "8f51fe0e-07df-5245-8dd1-5265a1d088c2",
+     "lgd": 1498,
+     "name": "Rampur Maniharan",
+     "villages": 94
+    },
+    {
+     "id": "5665d311-4fe6-5f91-9815-c4eb8de3e2c9",
+     "lgd": 1499,
+     "name": "Sadauli Qadeem",
+     "villages": 144
+    },
+    {
+     "id": "b0d5428e-7fff-5469-88a6-494d1001e810",
+     "lgd": 1500,
+     "name": "Sarsawan",
+     "villages": 180
+    }
+   ]
+  },
+  {
+   "id": "15b348cf-702b-5e3e-b0d6-6474e6f0bd1b",
+   "lgd": 178,
+   "name": "Sant Kabeer Nagar",
+   "bbox": [
+    82.81937,
+    26.40815,
+    83.2258,
+    27.10173
+   ],
+   "blocks": [
+    {
+     "id": "ebdbdf1c-4882-56fc-9233-4ef43a47c5b1",
+     "lgd": 1501,
+     "name": "Baghauli",
+     "villages": 234
+    },
+    {
+     "id": "67144644-693c-5089-8a03-b75f39fcf9aa",
+     "lgd": 1502,
+     "name": "Belhar Kala",
+     "villages": 100
+    },
+    {
+     "id": "c530c238-d5b7-5c21-8f5f-b4b8b1886318",
+     "lgd": 1503,
+     "name": "Hainsar Bazar",
+     "villages": 194
+    },
+    {
+     "id": "bcaeae7b-aed7-58fa-9483-c4303c3cdb5a",
+     "lgd": 1504,
+     "name": "Khalilabad",
+     "villages": 187
+    },
+    {
+     "id": "56e66a72-9376-5ac1-908e-545ce2cdeb75",
+     "lgd": 1505,
+     "name": "Mehdawal",
+     "villages": 210
+    },
+    {
+     "id": "77e61fff-6f00-5a12-9a0b-5d14cdee4c11",
+     "lgd": 1506,
+     "name": "Nath Nagar",
+     "villages": 221
+    },
+    {
+     "id": "420670e7-ca0a-5d51-904d-3c93776d29ef",
+     "lgd": 1507,
+     "name": "Pauli",
+     "villages": 100
+    },
+    {
+     "id": "f110837f-39bb-59ad-90c6-6fb215327661",
+     "lgd": 1508,
+     "name": "Santha",
+     "villages": 158
+    },
+    {
+     "id": "2d39374e-094c-5b73-8c0e-95548b770221",
+     "lgd": 1509,
+     "name": "Semariyawan",
+     "villages": 187
+    }
+   ]
+  },
+  {
+   "id": "fac71098-8e8b-5c56-bacd-7e9708f6d176",
+   "lgd": 179,
+   "name": "Bhadohi",
+   "bbox": [
+    82.19563,
+    25.17822,
+    82.70988,
+    25.53555
+   ],
+   "blocks": [
+    {
+     "id": "d5de5187-ab2b-520d-9d3f-94076ef58ccf",
+     "lgd": 1510,
+     "name": "Abhauli",
+     "villages": 78
+    },
+    {
+     "id": "081f2aa5-5997-50da-bdfe-65cc33b9697f",
+     "lgd": 1511,
+     "name": "Aurai",
+     "villages": 226
+    },
+    {
+     "id": "b5fb2f48-cf3a-5661-bfd3-17888734947e",
+     "lgd": 1512,
+     "name": "Bhadohi",
+     "villages": 279
+    },
+    {
+     "id": "05766575-0465-5229-b93f-c4a263080a03",
+     "lgd": 1513,
+     "name": "Deegh",
+     "villages": 135
+    },
+    {
+     "id": "7fdc0bcf-573f-5ff0-943c-b99bbece098d",
+     "lgd": 1514,
+     "name": "Gyanpur",
+     "villages": 120
+    },
+    {
+     "id": "87e8e4ff-7eb2-5b74-a2d9-0cfb9df1545d",
+     "lgd": 1515,
+     "name": "Suriyavan",
+     "villages": 112
+    }
+   ]
+  },
+  {
+   "id": "543a78cd-15c6-5103-a9e2-9662414886ef",
+   "lgd": 180,
+   "name": "Shahjahanpur",
+   "bbox": [
+    79.32289,
+    27.44483,
+    80.35868,
+    28.38123
+   ],
+   "blocks": [
+    {
+     "id": "ec8d3001-c06c-528d-9e09-e2789e2a49fb",
+     "lgd": 1516,
+     "name": "Banda",
+     "villages": 178
+    },
+    {
+     "id": "64602400-8720-54eb-bcec-a0225451a53d",
+     "lgd": 1517,
+     "name": "Bhawal Khera",
+     "villages": 174
+    },
+    {
+     "id": "f13e561e-164c-5340-8505-725bec9be83a",
+     "lgd": 1518,
+     "name": "Dadrol",
+     "villages": 174
+    },
+    {
+     "id": "e290d37d-370d-5776-8f10-b5968f1ed2fd",
+     "lgd": 1519,
+     "name": "Jaitipur",
+     "villages": 146
+    },
+    {
+     "id": "a59ed8af-8b60-5497-9dad-4fc24eab81d7",
+     "lgd": 1520,
+     "name": "Jalalabad",
+     "villages": 169
+    },
+    {
+     "id": "3df541f1-c07b-5eb9-9555-cb62e1e4870e",
+     "lgd": 1521,
+     "name": "Kalan",
+     "villages": 102
+    },
+    {
+     "id": "2962c820-ddd3-5ed9-9eed-e669e35543ac",
+     "lgd": 1522,
+     "name": "Kanth",
+     "villages": 113
+    },
+    {
+     "id": "ef472a2f-c7fd-5135-828c-ae1ff614508f",
+     "lgd": 1523,
+     "name": "Khudaganj Katra",
+     "villages": 139
+    },
+    {
+     "id": "895ddb6f-856a-5116-a702-e58ca0aa1fdd",
+     "lgd": 1524,
+     "name": "Khutar",
+     "villages": 161
+    },
+    {
+     "id": "cb3bff70-f608-56b8-abf5-29ff75fc6b38",
+     "lgd": 1525,
+     "name": "Madnapur",
+     "villages": 186
+    },
+    {
+     "id": "a4c26d4a-033b-5b93-b948-213e204a935a",
+     "lgd": 1526,
+     "name": "Mirzapur",
+     "villages": 110
+    },
+    {
+     "id": "b9577d9a-2e17-5bf7-b3b1-074fab327a36",
+     "lgd": 1527,
+     "name": "Nigohi",
+     "villages": 133
+    },
+    {
+     "id": "49e73543-eb56-5f32-8ccc-51c5039b12e5",
+     "lgd": 1528,
+     "name": "Powayan",
+     "villages": 189
+    },
+    {
+     "id": "d0039efd-fa47-5b5e-84b2-34a4832dd0f1",
+     "lgd": 1529,
+     "name": "Sindhauli",
+     "villages": 175
+    },
+    {
+     "id": "2ad7e30f-d33f-5bd2-b98d-f3f7874fa64c",
+     "lgd": 1530,
+     "name": "Tilhar",
+     "villages": 154
+    }
+   ]
+  },
+  {
+   "id": "50ff563e-ec65-5da8-bf04-397c817720ed",
+   "lgd": 181,
+   "name": "Shravasti",
+   "bbox": [
+    81.60786,
+    27.40442,
+    82.20877,
+    27.95267
+   ],
+   "blocks": [
+    {
+     "id": "a6dfd165-c764-535e-bb2a-574f1e047c3e",
+     "lgd": 1531,
+     "name": "Ekona",
+     "villages": 104
+    },
+    {
+     "id": "f0dad3f9-4f17-51e3-9117-e16304973ed8",
+     "lgd": 1532,
+     "name": "Gilaula",
+     "villages": 127
+    },
+    {
+     "id": "7ecc0b17-3bd3-55c7-abfc-ecee2045cd0b",
+     "lgd": 1533,
+     "name": "Hariharpur Rani",
+     "villages": 84
+    },
+    {
+     "id": "e103b836-573b-51e3-943f-d33ac412fa10",
+     "lgd": 1534,
+     "name": "Jamunaha",
+     "villages": 118
+    },
+    {
+     "id": "62f69818-e5b9-5f85-8d28-fa388e94e3c2",
+     "lgd": 1535,
+     "name": "Sirsiya",
+     "villages": 114
+    }
+   ]
+  },
+  {
+   "id": "0825501a-3ae3-5278-9d65-24aa0fe67300",
+   "lgd": 182,
+   "name": "Siddharth Nagar",
+   "bbox": [
+    82.43853,
+    27.00163,
+    83.29165,
+    27.50266
+   ],
+   "blocks": [
+    {
+     "id": "0ceb63d8-b068-53b2-8ab4-3c35022dcc1f",
+     "lgd": 1536,
+     "name": "Bansi",
+     "villages": 205
+    },
+    {
+     "id": "42daa21b-7c42-546e-bcad-be7bba51694d",
+     "lgd": 1537,
+     "name": "Barhni",
+     "villages": 131
+    },
+    {
+     "id": "90b156f2-da03-5db3-bbd3-13f3640e4ded",
+     "lgd": 1538,
+     "name": "Bhanwapur",
+     "villages": 230
+    },
+    {
+     "id": "cbc0a88d-eab1-51e2-b357-ba5b5c478c68",
+     "lgd": 1539,
+     "name": "Birdpur",
+     "villages": 88
+    },
+    {
+     "id": "809bbe23-3d4c-5abb-809c-b6f8cad2ada2",
+     "lgd": 1540,
+     "name": "Domariyaganj",
+     "villages": 234
+    },
+    {
+     "id": "c7741af6-1c7b-5dcc-a03e-7bb7341d05bf",
+     "lgd": 1541,
+     "name": "Itwa",
+     "villages": 194
+    },
+    {
+     "id": "1424727e-6c1e-56ac-a33e-b0d412b5cdaa",
+     "lgd": 1542,
+     "name": "Jogia",
+     "villages": 137
+    },
+    {
+     "id": "22b98aa3-2ea3-534c-af2c-512e76afc368",
+     "lgd": 1543,
+     "name": "Khesraha",
+     "villages": 240
+    },
+    {
+     "id": "ff7e3b1c-bc12-551d-a20f-0a63263310aa",
+     "lgd": 1544,
+     "name": "Khuniyaon",
+     "villages": 197
+    },
+    {
+     "id": "e517c059-c5bc-5a5f-aaef-c853f8d5d634",
+     "lgd": 1545,
+     "name": "Lotan",
+     "villages": 110
+    },
+    {
+     "id": "1aa09a8c-61d9-5f1c-b4cc-a81e6a49127f",
+     "lgd": 1546,
+     "name": "Mithwal",
+     "villages": 320
+    },
+    {
+     "id": "e02004f9-f575-5698-8844-181025c997c7",
+     "lgd": 1547,
+     "name": "Naugarh",
+     "villages": 155
+    },
+    {
+     "id": "c91fde23-98d5-5dd1-b9fb-0e2f766a1ada",
+     "lgd": 1548,
+     "name": "Shoharatgarh",
+     "villages": 116
+    },
+    {
+     "id": "84f944d1-4409-59c2-9d69-29a5cc5573d5",
+     "lgd": 1549,
+     "name": "Uska Bazar",
+     "villages": 120
+    }
+   ]
+  },
+  {
+   "id": "cf44580e-21c7-5a22-8caf-8522043c8cf7",
+   "lgd": 183,
+   "name": "Sitapur",
+   "bbox": [
+    80.29864,
+    27.09999,
+    81.41642,
+    27.90629
+   ],
+   "blocks": [
+    {
+     "id": "16592df9-16bc-5f4e-86a3-26fb4db36091",
+     "lgd": 1550,
+     "name": "Ailiya",
+     "villages": 144
+    },
+    {
+     "id": "934f31be-ec05-5ad2-8fb8-6abd9de507a9",
+     "lgd": 1551,
+     "name": "Behta",
+     "villages": 132
+    },
+    {
+     "id": "3609659c-4392-5ee3-9418-5e7767f3bee6",
+     "lgd": 1552,
+     "name": "Biswan",
+     "villages": 146
+    },
+    {
+     "id": "f6440431-4649-5ee6-92b5-6b91de4b5ed3",
+     "lgd": 1553,
+     "name": "Gondlamau",
+     "villages": 128
+    },
+    {
+     "id": "acfcd637-4a46-5166-bc16-f7c5b7fd490b",
+     "lgd": 1554,
+     "name": "Hargaon",
+     "villages": 128
+    },
+    {
+     "id": "19a64c28-cff5-56b6-b884-8ccd960d1a8f",
+     "lgd": 1555,
+     "name": "Kasmanda",
+     "villages": 109
+    },
+    {
+     "id": "87515f4c-24b2-547e-b7ed-c640b6c2baba",
+     "lgd": 1556,
+     "name": "Khairabad",
+     "villages": 119
+    },
+    {
+     "id": "1cdb3cb7-0e48-5068-9142-e7a4a721f292",
+     "lgd": 1557,
+     "name": "Laharpur",
+     "villages": 88
+    },
+    {
+     "id": "de52671d-8193-54f3-8def-546cae28d4d9",
+     "lgd": 1558,
+     "name": "Machhrehta",
+     "villages": 125
+    },
+    {
+     "id": "d3ad03bb-4784-5f1a-ac09-896d18ff21a0",
+     "lgd": 1559,
+     "name": "Mahmudabad",
+     "villages": 135
+    },
+    {
+     "id": "465cb3af-3b28-5a46-9db3-fac8484b013f",
+     "lgd": 1560,
+     "name": "Maholi",
+     "villages": 106
+    },
+    {
+     "id": "e1642565-d6c9-5b31-861c-47b241297066",
+     "lgd": 1561,
+     "name": "Misrikh",
+     "villages": 105
+    },
+    {
+     "id": "7b3ebe2a-3a38-58d0-ba7b-b2684c44937b",
+     "lgd": 1562,
+     "name": "Pahala",
+     "villages": 144
+    },
+    {
+     "id": "d6a0905c-9df0-5702-a692-0efed76e1fb5",
+     "lgd": 1563,
+     "name": "Parsendi",
+     "villages": 108
+    },
+    {
+     "id": "f6354628-749e-584a-9337-6f7a5459710b",
+     "lgd": 1564,
+     "name": "Pisawan",
+     "villages": 190
+    },
+    {
+     "id": "f7a56c7a-5399-590b-b2b0-8a2e42e2b2e7",
+     "lgd": 1565,
+     "name": "Rampur Mathura",
+     "villages": 104
+    },
+    {
+     "id": "2e033e08-cea5-55f7-aa92-11d0fd388b80",
+     "lgd": 1566,
+     "name": "Reusa",
+     "villages": 128
+    },
+    {
+     "id": "846fbee7-5157-5c9e-9342-cdd9286005bf",
+     "lgd": 1567,
+     "name": "Sakran",
+     "villages": 99
+    },
+    {
+     "id": "f13a0acf-dedb-5e9e-91bf-b43505b13427",
+     "lgd": 1568,
+     "name": "Sidhauli",
+     "villages": 114
+    }
+   ]
+  },
+  {
+   "id": "122d2427-85bb-549b-917e-b91be5b7d495",
+   "lgd": 184,
+   "name": "Sonbhadra",
+   "bbox": [
+    82.52332,
+    23.87012,
+    83.54769,
+    24.96029
+   ],
+   "blocks": [
+    {
+     "id": "4fdad035-c090-58af-a87b-d7bb348fec07",
+     "lgd": 1569,
+     "name": "Babhani",
+     "villages": 66
+    },
+    {
+     "id": "39efbe67-ef9d-52be-a0b4-b09ffd2aab3d",
+     "lgd": 1570,
+     "name": "Chatra",
+     "villages": 148
+    },
+    {
+     "id": "59f3f087-cb62-5811-9679-387922b233d4",
+     "lgd": 1571,
+     "name": "Chopan",
+     "villages": 8
+    },
+    {
+     "id": "bf892de5-cef6-515c-8d55-c42ba89fb8f4",
+     "lgd": 1572,
+     "name": "Dudhi",
+     "villages": 92
+    },
+    {
+     "id": "f4e51405-c2d8-5424-a355-fa585fd548fa",
+     "lgd": 1573,
+     "name": "Ghorawal",
+     "villages": 220
+    },
+    {
+     "id": "4cc0e3c5-23b0-591e-847b-47a1f9c05bfd",
+     "lgd": 1574,
+     "name": "Myorpur",
+     "villages": 141
+    },
+    {
+     "id": "3eb67500-3750-52e4-9c77-715cd611de07",
+     "lgd": 1575,
+     "name": "Nagwa",
+     "villages": 117
+    },
+    {
+     "id": "1c112427-2b28-5bca-9711-6bdad2c9dffe",
+     "lgd": 1576,
+     "name": "Robertsganj",
+     "villages": 263
+    },
+    {
+     "id": "c9587c60-48e3-5828-97b5-03b225153be8",
+     "lgd": 7380,
+     "name": "Kone",
+     "villages": 91
+    },
+    {
+     "id": "b31c02fc-378d-5a93-ada9-27189ec91d16",
+     "lgd": 7381,
+     "name": "Karma",
+     "villages": 116
+    }
+   ]
+  },
+  {
+   "id": "b9fc467f-daa7-5e53-a995-16eb11bfa28c",
+   "lgd": 185,
+   "name": "Sultanpur",
+   "bbox": [
+    81.71688,
+    25.9738,
+    82.69257,
+    26.5472
+   ],
+   "blocks": [
+    {
+     "id": "a373814e-7a86-5da9-82a4-8a50be63b2e2",
+     "lgd": 1577,
+     "name": "Akhand Nagar",
+     "villages": 122
+    },
+    {
+     "id": "09ff71d6-4ee1-5f28-b169-e129f6ad35fe",
+     "lgd": 1579,
+     "name": "Baldirai",
+     "villages": 98
+    },
+    {
+     "id": "d105f2b2-8c7b-51c5-a242-602d3b1371ad",
+     "lgd": 1580,
+     "name": "Bhadaiya",
+     "villages": 143
+    },
+    {
+     "id": "7a0b11eb-545d-561d-a105-1a977277a4b3",
+     "lgd": 1583,
+     "name": "Dhanpatganj",
+     "villages": 118
+    },
+    {
+     "id": "613bed31-d86c-5a7d-b851-fc942c00d145",
+     "lgd": 1584,
+     "name": "Dostpur",
+     "villages": 117
+    },
+    {
+     "id": "5c46609a-ba6e-5a25-ac42-f7e5214bb38f",
+     "lgd": 1585,
+     "name": "Dubepur",
+     "villages": 138
+    },
+    {
+     "id": "163da691-2ae2-5fcd-b1ff-ffea2eab6629",
+     "lgd": 1588,
+     "name": "Jaisinghpur",
+     "villages": 174
+    },
+    {
+     "id": "3bb3db1c-a97f-5645-993a-2607380e3afb",
+     "lgd": 1590,
+     "name": "Kadipur",
+     "villages": 131
+    },
+    {
+     "id": "aeff0d2a-77de-59f4-85c1-a96ae7390dee",
+     "lgd": 1591,
+     "name": "Kurebhar",
+     "villages": 161
+    },
+    {
+     "id": "a0bc2488-43e5-52e5-bfdf-fa822f8609e2",
+     "lgd": 1592,
+     "name": "Kurwar",
+     "villages": 98
+    },
+    {
+     "id": "d1c65be1-2f49-5df2-85d1-db7c191c1bb8",
+     "lgd": 1593,
+     "name": "Lambhua",
+     "villages": 175
+    },
+    {
+     "id": "a04e0c3f-487c-574e-bf1c-73f81c7d1a6d",
+     "lgd": 1594,
+     "name": "Motigarpur",
+     "villages": 77
+    },
+    {
+     "id": "b5cca32f-4e35-5b39-8efd-396fd7e64cef",
+     "lgd": 1596,
+     "name": "P.P.Kamaicha",
+     "villages": 122
+    },
+    {
+     "id": "e351eb30-b068-5e8d-ad97-80b9e1ca5958",
+     "lgd": 6714,
+     "name": "Karaudikala",
+     "villages": 2
+    }
+   ]
+  },
+  {
+   "id": "304cf259-ce78-5076-b756-c9a6d3dacc1f",
+   "lgd": 186,
+   "name": "Unnao",
+   "bbox": [
+    80.04399,
+    26.10355,
+    81.04664,
+    27.03136
+   ],
+   "blocks": [
+    {
+     "id": "612e2420-c2f0-5ff2-a494-ab5a29e9bf98",
+     "lgd": 1600,
+     "name": "Asoha",
+     "villages": 119
+    },
+    {
+     "id": "94009904-e816-5956-9d55-02a3e46b9f7a",
+     "lgd": 1601,
+     "name": "Auras",
+     "villages": 92
+    },
+    {
+     "id": "e29fab69-8dc7-5ac6-b3b5-92f1c64f4a99",
+     "lgd": 1602,
+     "name": "Bangarmau",
+     "villages": 79
+    },
+    {
+     "id": "4d3e434c-df60-5902-93b0-afad9771c794",
+     "lgd": 1603,
+     "name": "Bichhiya",
+     "villages": 86
+    },
+    {
+     "id": "3c0da170-8421-55ae-a7fe-57279acfdfc7",
+     "lgd": 1604,
+     "name": "Bighapur",
+     "villages": 121
+    },
+    {
+     "id": "31a0d3f6-7e5c-5bbe-9c01-05b7c0210814",
+     "lgd": 1605,
+     "name": "Fatehpur Chaurasi",
+     "villages": 106
+    },
+    {
+     "id": "e8de688e-4cc1-50ed-b9e9-27c49f9660d6",
+     "lgd": 1606,
+     "name": "Ganj Moradabad",
+     "villages": 84
+    },
+    {
+     "id": "458a7030-0df6-5dee-8317-487e2ddf9914",
+     "lgd": 1607,
+     "name": "Hasanganj",
+     "villages": 155
+    },
+    {
+     "id": "40be4522-42c3-57db-8174-658b81d19ae6",
+     "lgd": 1608,
+     "name": "Hilauli",
+     "villages": 77
+    },
+    {
+     "id": "ab268ded-ba20-5dbe-bced-30998223bc29",
+     "lgd": 1609,
+     "name": "Mianganj",
+     "villages": 137
+    },
+    {
+     "id": "0841852d-0edf-5bcb-92d4-149c6b09415b",
+     "lgd": 1610,
+     "name": "Nawabganj",
+     "villages": 122
+    },
+    {
+     "id": "c9c352fb-26d3-5a07-8f1b-096573d6de32",
+     "lgd": 1611,
+     "name": "Purwa",
+     "villages": 114
+    },
+    {
+     "id": "e392cc5d-7644-51f2-9185-4f918b6bf751",
+     "lgd": 1612,
+     "name": "Safipur",
+     "villages": 113
+    },
+    {
+     "id": "1441ec7c-b908-5bf2-8307-3f563afe2c44",
+     "lgd": 1613,
+     "name": "Sikandarpur Karan",
+     "villages": 119
+    },
+    {
+     "id": "f8ecdccf-eae5-5e5a-93ab-0acf5408943b",
+     "lgd": 1614,
+     "name": "Sikandarpur Sarausi",
+     "villages": 85
+    },
+    {
+     "id": "f34b6961-332f-58bd-8e38-2d101dee7d13",
+     "lgd": 1615,
+     "name": "Sumerpur",
+     "villages": 148
+    }
+   ]
+  },
+  {
+   "id": "a1000000-0000-4000-8000-000000000005",
+   "lgd": 187,
+   "name": "Varanasi",
+   "bbox": [
+    82.66723,
+    25.16435,
+    83.18818,
+    25.57851
+   ],
+   "blocks": [
+    {
+     "id": "da7d77b4-e709-5014-bc42-d466b07b0756",
+     "lgd": 1616,
+     "name": "Arajiline",
+     "villages": 102
+    },
+    {
+     "id": "1379a443-eb27-5dfe-90ba-e14626183a74",
+     "lgd": 1617,
+     "name": "Baragaon",
+     "villages": 73
+    },
+    {
+     "id": "ae607df7-50e6-50b8-b85f-ec587e16c56a",
+     "lgd": 1618,
+     "name": "Chiraigaon",
+     "villages": 34
+    },
+    {
+     "id": "04056b50-27ef-525a-9f23-e4d7988bd1f4",
+     "lgd": 1619,
+     "name": "Cholapur",
+     "villages": 93
+    },
+    {
+     "id": "a52efb7a-6f49-56a5-8576-57ddf9083881",
+     "lgd": 1620,
+     "name": "Harahua",
+     "villages": 35
+    },
+    {
+     "id": "1bbfdde7-788d-5c38-9535-8e41e5d49a88",
+     "lgd": 1621,
+     "name": "Kashi Vidyapeeth",
+     "villages": 49
+    },
+    {
+     "id": "790fae2d-dc42-533f-bfb0-630365ea3ea8",
+     "lgd": 1622,
+     "name": "Pindra",
+     "villages": 82
+    },
+    {
+     "id": "44dd746d-ef3a-523f-b685-cf3eb303cb9a",
+     "lgd": 1623,
+     "name": "Sevapuri",
+     "villages": 83
+    }
+   ]
+  },
+  {
+   "id": "9e0305cf-9572-5789-af42-24777e64016f",
+   "lgd": 633,
+   "name": "Kasganj",
+   "bbox": [
+    78.47201,
+    27.54948,
+    79.21486,
+    28.02794
+   ],
+   "blocks": [
+    {
+     "id": "5ad9012e-66a8-5cf3-9c5c-d4455c36d295",
+     "lgd": 1064,
+     "name": "Amanpur",
+     "villages": 93
+    },
+    {
+     "id": "90961b7c-6205-5f56-891a-89cde4ef600c",
+     "lgd": 1066,
+     "name": "Ganj Dundwara",
+     "villages": 107
+    },
+    {
+     "id": "3f94fe8a-22b0-5462-89fe-dae1e2ca04ac",
+     "lgd": 1069,
+     "name": "Kasganj",
+     "villages": 94
+    },
+    {
+     "id": "ec7bcc91-b1db-5748-b539-34aa3a302876",
+     "lgd": 1072,
+     "name": "Patiyali",
+     "villages": 87
+    },
+    {
+     "id": "3e830bb7-4ad8-59d3-ba85-1611edb64bec",
+     "lgd": 1073,
+     "name": "Sahawar",
+     "villages": 85
+    },
+    {
+     "id": "506bca70-2904-5ae0-aca3-ca332d6adc90",
+     "lgd": 1076,
+     "name": "Sidhpura",
+     "villages": 97
+    },
+    {
+     "id": "0adcd4e7-5b91-59b7-9107-6e174426ca7d",
+     "lgd": 1077,
+     "name": "Soron",
+     "villages": 113
+    }
+   ]
+  },
+  {
+   "id": "57258e24-b31f-5874-a923-ecc239e3196b",
+   "lgd": 640,
+   "name": "Amethi",
+   "bbox": [
+    81.34485,
+    26.02732,
+    82.07048,
+    26.66541
+   ],
+   "blocks": [
+    {
+     "id": "91b7f765-1b17-5c40-81ce-79a5cb87261d",
+     "lgd": 1465,
+     "name": "Bahadurpur",
+     "villages": 42
+    },
+    {
+     "id": "3dff4203-5ca9-5bc9-b0ee-0cbd9aeb4bf3",
+     "lgd": 1481,
+     "name": "Singhpur",
+     "villages": 80
+    },
+    {
+     "id": "b480f22c-05b4-5e1f-b08f-50e5508351af",
+     "lgd": 1482,
+     "name": "Tiloi",
+     "villages": 82
+    },
+    {
+     "id": "6e248784-d5b4-51f1-87f0-4bdc01d27da7",
+     "lgd": 1578,
+     "name": "Amethi",
+     "villages": 83
+    },
+    {
+     "id": "0424f57f-85c3-5993-882c-5d4b1efcd834",
+     "lgd": 1581,
+     "name": "Bhadar",
+     "villages": 79
+    },
+    {
+     "id": "8be879e3-240f-576a-b9ee-29f72dbc6ef1",
+     "lgd": 1582,
+     "name": "Bhetua",
+     "villages": 70
+    },
+    {
+     "id": "30e25627-2765-5ea8-9a45-b18e7577d68b",
+     "lgd": 1586,
+     "name": "Gauriganj",
+     "villages": 101
+    },
+    {
+     "id": "21f907b9-c42e-5552-a767-8862cf667e01",
+     "lgd": 1587,
+     "name": "Jagdishpur",
+     "villages": 85
+    },
+    {
+     "id": "f50b55c8-f248-5bb6-95f2-ce7d86f2dfc5",
+     "lgd": 1589,
+     "name": "Jamo",
+     "villages": 89
+    },
+    {
+     "id": "8fdf2c8a-8831-50e9-af46-5a5d31638826",
+     "lgd": 1595,
+     "name": "Musafir Khana",
+     "villages": 86
+    },
+    {
+     "id": "ab4f9eeb-637a-57d2-9971-1ce44e1c393e",
+     "lgd": 1597,
+     "name": "Sangrampur",
+     "villages": 47
+    },
+    {
+     "id": "22e792ba-ed45-5410-9d1d-bcbe80425ccc",
+     "lgd": 1598,
+     "name": "Shahgarh",
+     "villages": 64
+    },
+    {
+     "id": "2677a330-89c1-5c7b-b233-621a7d2913fb",
+     "lgd": 1599,
+     "name": "Shukul Bazar",
+     "villages": 69
+    }
+   ]
+  },
+  {
+   "id": "2981fd2d-2077-5c8c-87cd-fe6ec2848c00",
+   "lgd": 659,
+   "name": "Sambhal",
+   "bbox": [
+    78.25867,
+    28.04388,
+    78.95943,
+    28.81038
+   ],
+   "blocks": [
+    {
+     "id": "2ba69a5f-783c-5b66-bc7d-1cca85935f12",
+     "lgd": 1004,
+     "name": "Gunnaur",
+     "villages": 124
+    },
+    {
+     "id": "ce528244-550c-5f0f-9e36-636e42603f4e",
+     "lgd": 1007,
+     "name": "Junawai",
+     "villages": 128
+    },
+    {
+     "id": "41b64012-346d-5869-a610-65c5c2218460",
+     "lgd": 1010,
+     "name": "Rajpura",
+     "villages": 115
+    },
+    {
+     "id": "fa5a4e83-7b9c-5746-941f-bd582cc74c96",
+     "lgd": 1412,
+     "name": "Asmauli",
+     "villages": 129
+    },
+    {
+     "id": "23f8128e-afa0-50ab-b9e2-dcc9e3db60e9",
+     "lgd": 1413,
+     "name": "Bahjoi",
+     "villages": 100
+    },
+    {
+     "id": "fd1180ad-7ec0-54b3-8089-fe749d85902c",
+     "lgd": 1414,
+     "name": "Baniyakhera",
+     "villages": 110
+    },
+    {
+     "id": "2362068d-509f-52ee-8bf6-fc5241dfef04",
+     "lgd": 1422,
+     "name": "Panwasa",
+     "villages": 146
+    },
+    {
+     "id": "2dc2b4cc-dade-5ee9-a7f2-d037626b286f",
+     "lgd": 1423,
+     "name": "Sambhal",
+     "villages": 153
+    }
+   ]
+  },
+  {
+   "id": "56c30ebe-6969-5fd1-be45-ff3ad345abff",
+   "lgd": 660,
+   "name": "Shamli",
+   "bbox": [
+    77.08395,
+    29.26591,
+    77.50215,
+    29.69533
+   ],
+   "blocks": [
+    {
+     "id": "20e3c626-8f4c-5025-a12b-45c22d549a8b",
+     "lgd": 1429,
+     "name": "Kairana",
+     "villages": 55
+    },
+    {
+     "id": "d8ae1818-5cfb-5170-a87c-91e44f6834ca",
+     "lgd": 1430,
+     "name": "Kandhla",
+     "villages": 33
+    },
+    {
+     "id": "b0c8e748-3a06-58f1-ba66-1bd361da6cf8",
+     "lgd": 1436,
+     "name": "Shamli",
+     "villages": 45
+    },
+    {
+     "id": "e3d6a946-2b53-549e-a44f-7825f8a2ccb0",
+     "lgd": 1437,
+     "name": "Thana Bhawan",
+     "villages": 58
+    },
+    {
+     "id": "c6a122c1-b3bd-5f00-8133-df99c204b5dc",
+     "lgd": 1438,
+     "name": "Un",
+     "villages": 109
+    }
+   ]
+  },
+  {
+   "id": "b8b5ad52-729c-5f99-b0fa-94c307a3d69e",
+   "lgd": 661,
+   "name": "Hapur",
+   "bbox": [
+    77.54437,
+    28.54954,
+    78.21216,
+    28.88322
+   ],
+   "blocks": [
+    {
+     "id": "8682fe5e-dedb-5a00-be99-2e2ce62ec242",
+     "lgd": 1130,
+     "name": "Dhaulana",
+     "villages": 71
+    },
+    {
+     "id": "7fead889-5e50-5730-8e7e-36d69d487fc0",
+     "lgd": 1131,
+     "name": "Garh Mukteshwar",
+     "villages": 95
+    },
+    {
+     "id": "afea4d7c-2681-556c-aaa0-d75fd3f3f5a8",
+     "lgd": 1132,
+     "name": "Hapur",
+     "villages": 115
+    },
+    {
+     "id": "2f2f351d-36e6-53a0-a359-2b63bd60ef24",
+     "lgd": 1136,
+     "name": "Simbhawali",
+     "villages": 80
+    }
+   ]
+  }
+ ]
+}
